@@ -1,0 +1,34 @@
+[
+	{
+		"version": "2.0.0.68",
+		"date": "09/29/2014 08:29:54 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.68/forge-1.2.4-2.0.0.68-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.68/forge-1.2.4-2.0.0.68-client.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.68/forge-1.2.4-2.0.0.68-server.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.68/forge-1.2.4-2.0.0.68-src.zip"
+	},
+	{
+		"version": "2.0.0.67",
+		"date": "09/29/2014 08:30:02 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.67/forge-1.2.4-2.0.0.67-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.67/forge-1.2.4-2.0.0.67-client.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.67/forge-1.2.4-2.0.0.67-server.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.67/forge-1.2.4-2.0.0.67-src.zip"
+	},
+	{
+		"version": "2.0.0.66",
+		"date": "09/29/2014 08:30:10 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.66/forge-1.2.4-2.0.0.66-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.66/forge-1.2.4-2.0.0.66-client.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.66/forge-1.2.4-2.0.0.66-server.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.66/forge-1.2.4-2.0.0.66-src.zip"
+	},
+	{
+		"version": "2.0.0.65",
+		"date": "09/29/2014 08:30:18 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.65/forge-1.2.4-2.0.0.65-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.65/forge-1.2.4-2.0.0.65-client.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.65/forge-1.2.4-2.0.0.65-server.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.2.4-2.0.0.65/forge-1.2.4-2.0.0.65-src.zip"
+	}
+]

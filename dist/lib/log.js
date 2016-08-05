@@ -1,0 +1,1 @@
+"use strict";var debug=require("debug"),logTypes=["http","dom","debug","error"],Log={};logTypes.forEach(function(e){Log[e]=debug(e)}),module.exports=Log;

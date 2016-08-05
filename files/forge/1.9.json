@@ -1,0 +1,1163 @@
+[
+	{
+		"version": "12.16.1.1938",
+		"date": "06/01/2016 03:02:44 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1938-1.9.0/forge-1.9-12.16.1.1938-1.9.0-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1938-1.9.0/forge-1.9-12.16.1.1938-1.9.0-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1938-1.9.0/forge-1.9-12.16.1.1938-1.9.0-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1938-1.9.0/forge-1.9-12.16.1.1938-1.9.0-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1938-1.9.0/forge-1.9-12.16.1.1938-1.9.0-universal.jar"
+	},
+	{
+		"version": "12.16.1.1934",
+		"date": "05/29/2016 04:34:48 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1934/forge-1.9-12.16.1.1934-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1934/forge-1.9-12.16.1.1934-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1934/forge-1.9-12.16.1.1934-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1934/forge-1.9-12.16.1.1934-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1934/forge-1.9-12.16.1.1934-universal.jar"
+	},
+	{
+		"version": "12.16.1.1923",
+		"date": "05/27/2016 08:19:54 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1923/forge-1.9-12.16.1.1923-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1923/forge-1.9-12.16.1.1923-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1923/forge-1.9-12.16.1.1923-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1923/forge-1.9-12.16.1.1923-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1923/forge-1.9-12.16.1.1923-universal.jar"
+	},
+	{
+		"version": "12.16.1.1907",
+		"date": "05/16/2016 02:28:02 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1907/forge-1.9-12.16.1.1907-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1907/forge-1.9-12.16.1.1907-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1907/forge-1.9-12.16.1.1907-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1907/forge-1.9-12.16.1.1907-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1907/forge-1.9-12.16.1.1907-universal.jar"
+	},
+	{
+		"version": "12.16.1.1906",
+		"date": "05/14/2016 10:48:22 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1906/forge-1.9-12.16.1.1906-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1906/forge-1.9-12.16.1.1906-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1906/forge-1.9-12.16.1.1906-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1906/forge-1.9-12.16.1.1906-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1906/forge-1.9-12.16.1.1906-universal.jar"
+	},
+	{
+		"version": "12.16.1.1905",
+		"date": "05/14/2016 09:19:28 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1905/forge-1.9-12.16.1.1905-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1905/forge-1.9-12.16.1.1905-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1905/forge-1.9-12.16.1.1905-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1905/forge-1.9-12.16.1.1905-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1905/forge-1.9-12.16.1.1905-universal.jar"
+	},
+	{
+		"version": "12.16.1.1904",
+		"date": "05/13/2016 03:53:16 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1904/forge-1.9-12.16.1.1904-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1904/forge-1.9-12.16.1.1904-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1904/forge-1.9-12.16.1.1904-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1904/forge-1.9-12.16.1.1904-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1904/forge-1.9-12.16.1.1904-universal.jar"
+	},
+	{
+		"version": "12.16.1.1901",
+		"date": "05/11/2016 09:24:12 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1901/forge-1.9-12.16.1.1901-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1901/forge-1.9-12.16.1.1901-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1901/forge-1.9-12.16.1.1901-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1901/forge-1.9-12.16.1.1901-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1901/forge-1.9-12.16.1.1901-universal.jar"
+	},
+	{
+		"version": "12.16.1.1900",
+		"date": "05/11/2016 02:32:02 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1900/forge-1.9-12.16.1.1900-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1900/forge-1.9-12.16.1.1900-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1900/forge-1.9-12.16.1.1900-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1900/forge-1.9-12.16.1.1900-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1900/forge-1.9-12.16.1.1900-universal.jar"
+	},
+	{
+		"version": "12.16.1.1899",
+		"date": "05/11/2016 12:41:12 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1899/forge-1.9-12.16.1.1899-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1899/forge-1.9-12.16.1.1899-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1899/forge-1.9-12.16.1.1899-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1899/forge-1.9-12.16.1.1899-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1899/forge-1.9-12.16.1.1899-universal.jar"
+	},
+	{
+		"version": "12.16.1.1898",
+		"date": "05/10/2016 01:52:18 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1898/forge-1.9-12.16.1.1898-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1898/forge-1.9-12.16.1.1898-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1898/forge-1.9-12.16.1.1898-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1898/forge-1.9-12.16.1.1898-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1898/forge-1.9-12.16.1.1898-universal.jar"
+	},
+	{
+		"version": "12.16.1.1897",
+		"date": "05/09/2016 03:57:52 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1897/forge-1.9-12.16.1.1897-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1897/forge-1.9-12.16.1.1897-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1897/forge-1.9-12.16.1.1897-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1897/forge-1.9-12.16.1.1897-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1897/forge-1.9-12.16.1.1897-universal.jar"
+	},
+	{
+		"version": "12.16.1.1896",
+		"date": "05/09/2016 03:22:12 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1896/forge-1.9-12.16.1.1896-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1896/forge-1.9-12.16.1.1896-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1896/forge-1.9-12.16.1.1896-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1896/forge-1.9-12.16.1.1896-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1896/forge-1.9-12.16.1.1896-universal.jar"
+	},
+	{
+		"version": "12.16.1.1895",
+		"date": "05/09/2016 11:47:38 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1895/forge-1.9-12.16.1.1895-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1895/forge-1.9-12.16.1.1895-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1895/forge-1.9-12.16.1.1895-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1895/forge-1.9-12.16.1.1895-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1895/forge-1.9-12.16.1.1895-universal.jar"
+	},
+	{
+		"version": "12.16.1.1894",
+		"date": "05/09/2016 03:16:34 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1894/forge-1.9-12.16.1.1894-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1894/forge-1.9-12.16.1.1894-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1894/forge-1.9-12.16.1.1894-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1894/forge-1.9-12.16.1.1894-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1894/forge-1.9-12.16.1.1894-universal.jar"
+	},
+	{
+		"version": "12.16.1.1893",
+		"date": "05/08/2016 05:47:00 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1893/forge-1.9-12.16.1.1893-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1893/forge-1.9-12.16.1.1893-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1893/forge-1.9-12.16.1.1893-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1893/forge-1.9-12.16.1.1893-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1893/forge-1.9-12.16.1.1893-universal.jar"
+	},
+	{
+		"version": "12.16.1.1892",
+		"date": "05/07/2016 12:23:44 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1892/forge-1.9-12.16.1.1892-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1892/forge-1.9-12.16.1.1892-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1892/forge-1.9-12.16.1.1892-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1892/forge-1.9-12.16.1.1892-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1892/forge-1.9-12.16.1.1892-universal.jar"
+	},
+	{
+		"version": "12.16.1.1891",
+		"date": "05/05/2016 02:05:24 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1891/forge-1.9-12.16.1.1891-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1891/forge-1.9-12.16.1.1891-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1891/forge-1.9-12.16.1.1891-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1891/forge-1.9-12.16.1.1891-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1891/forge-1.9-12.16.1.1891-universal.jar"
+	},
+	{
+		"version": "12.16.1.1889",
+		"date": "05/04/2016 11:37:54 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1889/forge-1.9-12.16.1.1889-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1889/forge-1.9-12.16.1.1889-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1889/forge-1.9-12.16.1.1889-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1889/forge-1.9-12.16.1.1889-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1889/forge-1.9-12.16.1.1889-universal.jar"
+	},
+	{
+		"version": "12.16.1.1888",
+		"date": "05/04/2016 11:53:42 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1888/forge-1.9-12.16.1.1888-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1888/forge-1.9-12.16.1.1888-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1888/forge-1.9-12.16.1.1888-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1888/forge-1.9-12.16.1.1888-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1888/forge-1.9-12.16.1.1888-universal.jar"
+	},
+	{
+		"version": "12.16.1.1887",
+		"date": "05/04/2016 12:26:02 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.1.1887/forge-1.9-12.16.1.1887-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.1.1887/forge-1.9-12.16.1.1887-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.1.1887/forge-1.9-12.16.1.1887-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.1.1887/forge-1.9-12.16.1.1887-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.1.1887/forge-1.9-12.16.1.1887-universal.jar"
+	},
+	{
+		"version": "12.16.0.1886",
+		"date": "05/03/2016 09:49:28 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1886/forge-1.9-12.16.0.1886-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1886/forge-1.9-12.16.0.1886-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1886/forge-1.9-12.16.0.1886-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1886/forge-1.9-12.16.0.1886-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1886/forge-1.9-12.16.0.1886-universal.jar"
+	},
+	{
+		"version": "12.16.0.1885",
+		"date": "05/03/2016 09:13:16 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1885-1.9/forge-1.9-12.16.0.1885-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1885-1.9/forge-1.9-12.16.0.1885-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1885-1.9/forge-1.9-12.16.0.1885-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1885-1.9/forge-1.9-12.16.0.1885-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1885-1.9/forge-1.9-12.16.0.1885-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1884",
+		"date": "05/03/2016 07:33:26 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1884-1.9/forge-1.9-12.16.0.1884-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1884-1.9/forge-1.9-12.16.0.1884-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1884-1.9/forge-1.9-12.16.0.1884-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1884-1.9/forge-1.9-12.16.0.1884-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1884-1.9/forge-1.9-12.16.0.1884-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1883",
+		"date": "05/03/2016 05:19:30 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1883-1.9/forge-1.9-12.16.0.1883-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1883-1.9/forge-1.9-12.16.0.1883-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1883-1.9/forge-1.9-12.16.0.1883-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1883-1.9/forge-1.9-12.16.0.1883-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1883-1.9/forge-1.9-12.16.0.1883-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1882",
+		"date": "05/03/2016 02:45:26 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1882-1.9/forge-1.9-12.16.0.1882-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1882-1.9/forge-1.9-12.16.0.1882-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1882-1.9/forge-1.9-12.16.0.1882-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1882-1.9/forge-1.9-12.16.0.1882-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1882-1.9/forge-1.9-12.16.0.1882-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1881",
+		"date": "05/03/2016 02:09:38 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1881-1.9/forge-1.9-12.16.0.1881-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1881-1.9/forge-1.9-12.16.0.1881-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1881-1.9/forge-1.9-12.16.0.1881-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1881-1.9/forge-1.9-12.16.0.1881-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1881-1.9/forge-1.9-12.16.0.1881-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1880",
+		"date": "05/03/2016 01:34:26 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1880-1.9/forge-1.9-12.16.0.1880-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1880-1.9/forge-1.9-12.16.0.1880-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1880-1.9/forge-1.9-12.16.0.1880-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1880-1.9/forge-1.9-12.16.0.1880-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1880-1.9/forge-1.9-12.16.0.1880-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1879",
+		"date": "05/03/2016 01:00:22 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1879-1.9/forge-1.9-12.16.0.1879-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1879-1.9/forge-1.9-12.16.0.1879-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1879-1.9/forge-1.9-12.16.0.1879-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1879-1.9/forge-1.9-12.16.0.1879-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1879-1.9/forge-1.9-12.16.0.1879-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1878",
+		"date": "05/03/2016 12:13:56 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1878-1.9/forge-1.9-12.16.0.1878-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1878-1.9/forge-1.9-12.16.0.1878-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1878-1.9/forge-1.9-12.16.0.1878-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1878-1.9/forge-1.9-12.16.0.1878-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1878-1.9/forge-1.9-12.16.0.1878-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1877",
+		"date": "05/02/2016 04:28:06 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1877-1.9/forge-1.9-12.16.0.1877-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1877-1.9/forge-1.9-12.16.0.1877-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1877-1.9/forge-1.9-12.16.0.1877-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1877-1.9/forge-1.9-12.16.0.1877-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1877-1.9/forge-1.9-12.16.0.1877-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1874",
+		"date": "05/02/2016 03:52:04 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1874-1.9/forge-1.9-12.16.0.1874-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1874-1.9/forge-1.9-12.16.0.1874-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1874-1.9/forge-1.9-12.16.0.1874-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1874-1.9/forge-1.9-12.16.0.1874-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1874-1.9/forge-1.9-12.16.0.1874-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1871",
+		"date": "05/02/2016 03:27:52 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1871-1.9/forge-1.9-12.16.0.1871-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1871-1.9/forge-1.9-12.16.0.1871-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1871-1.9/forge-1.9-12.16.0.1871-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1871-1.9/forge-1.9-12.16.0.1871-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1871-1.9/forge-1.9-12.16.0.1871-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1870",
+		"date": "05/02/2016 03:19:38 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1870-1.9/forge-1.9-12.16.0.1870-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1870-1.9/forge-1.9-12.16.0.1870-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1870-1.9/forge-1.9-12.16.0.1870-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1870-1.9/forge-1.9-12.16.0.1870-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1870-1.9/forge-1.9-12.16.0.1870-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1869",
+		"date": "05/02/2016 01:27:16 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1869-1.9/forge-1.9-12.16.0.1869-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1869-1.9/forge-1.9-12.16.0.1869-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1869-1.9/forge-1.9-12.16.0.1869-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1869-1.9/forge-1.9-12.16.0.1869-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1869-1.9/forge-1.9-12.16.0.1869-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1868",
+		"date": "04/29/2016 01:14:40 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1868-1.9/forge-1.9-12.16.0.1868-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1868-1.9/forge-1.9-12.16.0.1868-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1868-1.9/forge-1.9-12.16.0.1868-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1868-1.9/forge-1.9-12.16.0.1868-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1868-1.9/forge-1.9-12.16.0.1868-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1867",
+		"date": "04/28/2016 01:22:04 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1867-1.9/forge-1.9-12.16.0.1867-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1867-1.9/forge-1.9-12.16.0.1867-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1867-1.9/forge-1.9-12.16.0.1867-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1867-1.9/forge-1.9-12.16.0.1867-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1867-1.9/forge-1.9-12.16.0.1867-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1866",
+		"date": "04/27/2016 07:45:14 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1866-1.9/forge-1.9-12.16.0.1866-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1866-1.9/forge-1.9-12.16.0.1866-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1866-1.9/forge-1.9-12.16.0.1866-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1866-1.9/forge-1.9-12.16.0.1866-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1866-1.9/forge-1.9-12.16.0.1866-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1865",
+		"date": "04/14/2016 11:41:08 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1865-1.9/forge-1.9-12.16.0.1865-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1865-1.9/forge-1.9-12.16.0.1865-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1865-1.9/forge-1.9-12.16.0.1865-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1865-1.9/forge-1.9-12.16.0.1865-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1865-1.9/forge-1.9-12.16.0.1865-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1864",
+		"date": "04/13/2016 01:00:14 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1864-1.9/forge-1.9-12.16.0.1864-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1864-1.9/forge-1.9-12.16.0.1864-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1864-1.9/forge-1.9-12.16.0.1864-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1864-1.9/forge-1.9-12.16.0.1864-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1864-1.9/forge-1.9-12.16.0.1864-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1863",
+		"date": "04/09/2016 11:40:08 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1863-1.9/forge-1.9-12.16.0.1863-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1863-1.9/forge-1.9-12.16.0.1863-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1863-1.9/forge-1.9-12.16.0.1863-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1863-1.9/forge-1.9-12.16.0.1863-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1863-1.9/forge-1.9-12.16.0.1863-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1862",
+		"date": "04/09/2016 06:08:46 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1862-1.9/forge-1.9-12.16.0.1862-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1862-1.9/forge-1.9-12.16.0.1862-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1862-1.9/forge-1.9-12.16.0.1862-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1862-1.9/forge-1.9-12.16.0.1862-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1862-1.9/forge-1.9-12.16.0.1862-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1861",
+		"date": "04/09/2016 05:17:30 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1861-1.9/forge-1.9-12.16.0.1861-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1861-1.9/forge-1.9-12.16.0.1861-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1861-1.9/forge-1.9-12.16.0.1861-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1861-1.9/forge-1.9-12.16.0.1861-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1861-1.9/forge-1.9-12.16.0.1861-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1860",
+		"date": "04/09/2016 05:10:22 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1860-1.9/forge-1.9-12.16.0.1860-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1860-1.9/forge-1.9-12.16.0.1860-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1860-1.9/forge-1.9-12.16.0.1860-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1860-1.9/forge-1.9-12.16.0.1860-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1860-1.9/forge-1.9-12.16.0.1860-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1859",
+		"date": "04/08/2016 09:25:54 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1859-1.9/forge-1.9-12.16.0.1859-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1859-1.9/forge-1.9-12.16.0.1859-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1859-1.9/forge-1.9-12.16.0.1859-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1859-1.9/forge-1.9-12.16.0.1859-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1859-1.9/forge-1.9-12.16.0.1859-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1858",
+		"date": "04/07/2016 04:46:32 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1858-1.9/forge-1.9-12.16.0.1858-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1858-1.9/forge-1.9-12.16.0.1858-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1858-1.9/forge-1.9-12.16.0.1858-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1858-1.9/forge-1.9-12.16.0.1858-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1858-1.9/forge-1.9-12.16.0.1858-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1857",
+		"date": "04/07/2016 02:18:50 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1857-1.9/forge-1.9-12.16.0.1857-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1857-1.9/forge-1.9-12.16.0.1857-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1857-1.9/forge-1.9-12.16.0.1857-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1857-1.9/forge-1.9-12.16.0.1857-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1857-1.9/forge-1.9-12.16.0.1857-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1856",
+		"date": "04/07/2016 01:35:40 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1856-1.9/forge-1.9-12.16.0.1856-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1856-1.9/forge-1.9-12.16.0.1856-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1856-1.9/forge-1.9-12.16.0.1856-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1856-1.9/forge-1.9-12.16.0.1856-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1856-1.9/forge-1.9-12.16.0.1856-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1854",
+		"date": "04/06/2016 05:26:00 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1854-1.9/forge-1.9-12.16.0.1854-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1854-1.9/forge-1.9-12.16.0.1854-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1854-1.9/forge-1.9-12.16.0.1854-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1854-1.9/forge-1.9-12.16.0.1854-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1854-1.9/forge-1.9-12.16.0.1854-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1853",
+		"date": "04/06/2016 07:20:24 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1853-1.9/forge-1.9-12.16.0.1853-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1853-1.9/forge-1.9-12.16.0.1853-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1853-1.9/forge-1.9-12.16.0.1853-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1853-1.9/forge-1.9-12.16.0.1853-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1853-1.9/forge-1.9-12.16.0.1853-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1852",
+		"date": "04/06/2016 03:17:32 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1852-1.9/forge-1.9-12.16.0.1852-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1852-1.9/forge-1.9-12.16.0.1852-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1852-1.9/forge-1.9-12.16.0.1852-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1852-1.9/forge-1.9-12.16.0.1852-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1852-1.9/forge-1.9-12.16.0.1852-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1851",
+		"date": "04/06/2016 02:51:50 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1851-1.9/forge-1.9-12.16.0.1851-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1851-1.9/forge-1.9-12.16.0.1851-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1851-1.9/forge-1.9-12.16.0.1851-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1851-1.9/forge-1.9-12.16.0.1851-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1851-1.9/forge-1.9-12.16.0.1851-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1850",
+		"date": "04/06/2016 12:17:16 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1850-1.9/forge-1.9-12.16.0.1850-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1850-1.9/forge-1.9-12.16.0.1850-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1850-1.9/forge-1.9-12.16.0.1850-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1850-1.9/forge-1.9-12.16.0.1850-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1850-1.9/forge-1.9-12.16.0.1850-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1849",
+		"date": "04/05/2016 07:37:08 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1849-1.9/forge-1.9-12.16.0.1849-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1849-1.9/forge-1.9-12.16.0.1849-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1849-1.9/forge-1.9-12.16.0.1849-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1849-1.9/forge-1.9-12.16.0.1849-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1849-1.9/forge-1.9-12.16.0.1849-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1848",
+		"date": "04/05/2016 06:57:44 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1848-1.9/forge-1.9-12.16.0.1848-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1848-1.9/forge-1.9-12.16.0.1848-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1848-1.9/forge-1.9-12.16.0.1848-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1848-1.9/forge-1.9-12.16.0.1848-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1848-1.9/forge-1.9-12.16.0.1848-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1846",
+		"date": "04/05/2016 10:02:22 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1846-1.9/forge-1.9-12.16.0.1846-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1846-1.9/forge-1.9-12.16.0.1846-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1846-1.9/forge-1.9-12.16.0.1846-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1846-1.9/forge-1.9-12.16.0.1846-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1846-1.9/forge-1.9-12.16.0.1846-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1845",
+		"date": "04/05/2016 03:52:16 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1845-1.9/forge-1.9-12.16.0.1845-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1845-1.9/forge-1.9-12.16.0.1845-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1845-1.9/forge-1.9-12.16.0.1845-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1845-1.9/forge-1.9-12.16.0.1845-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1845-1.9/forge-1.9-12.16.0.1845-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1844",
+		"date": "04/05/2016 03:15:32 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1844-1.9/forge-1.9-12.16.0.1844-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1844-1.9/forge-1.9-12.16.0.1844-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1844-1.9/forge-1.9-12.16.0.1844-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1844-1.9/forge-1.9-12.16.0.1844-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1844-1.9/forge-1.9-12.16.0.1844-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1843",
+		"date": "04/05/2016 01:48:46 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1843-1.9/forge-1.9-12.16.0.1843-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1843-1.9/forge-1.9-12.16.0.1843-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1843-1.9/forge-1.9-12.16.0.1843-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1843-1.9/forge-1.9-12.16.0.1843-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1843-1.9/forge-1.9-12.16.0.1843-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1842",
+		"date": "04/04/2016 10:01:34 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1842-1.9/forge-1.9-12.16.0.1842-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1842-1.9/forge-1.9-12.16.0.1842-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1842-1.9/forge-1.9-12.16.0.1842-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1842-1.9/forge-1.9-12.16.0.1842-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1842-1.9/forge-1.9-12.16.0.1842-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1841",
+		"date": "04/04/2016 07:19:58 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1841-1.9/forge-1.9-12.16.0.1841-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1841-1.9/forge-1.9-12.16.0.1841-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1841-1.9/forge-1.9-12.16.0.1841-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1841-1.9/forge-1.9-12.16.0.1841-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1841-1.9/forge-1.9-12.16.0.1841-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1840",
+		"date": "04/04/2016 07:12:54 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1840-1.9/forge-1.9-12.16.0.1840-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1840-1.9/forge-1.9-12.16.0.1840-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1840-1.9/forge-1.9-12.16.0.1840-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1840-1.9/forge-1.9-12.16.0.1840-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1840-1.9/forge-1.9-12.16.0.1840-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1839",
+		"date": "04/04/2016 04:56:18 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1839-1.9/forge-1.9-12.16.0.1839-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1839-1.9/forge-1.9-12.16.0.1839-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1839-1.9/forge-1.9-12.16.0.1839-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1839-1.9/forge-1.9-12.16.0.1839-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1839-1.9/forge-1.9-12.16.0.1839-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1838",
+		"date": "04/04/2016 04:28:52 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1838-1.9/forge-1.9-12.16.0.1838-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1838-1.9/forge-1.9-12.16.0.1838-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1838-1.9/forge-1.9-12.16.0.1838-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1838-1.9/forge-1.9-12.16.0.1838-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1838-1.9/forge-1.9-12.16.0.1838-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1837",
+		"date": "04/04/2016 09:13:52 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1837-1.9/forge-1.9-12.16.0.1837-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1837-1.9/forge-1.9-12.16.0.1837-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1837-1.9/forge-1.9-12.16.0.1837-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1837-1.9/forge-1.9-12.16.0.1837-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1837-1.9/forge-1.9-12.16.0.1837-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1836",
+		"date": "04/04/2016 07:09:02 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1836-1.9/forge-1.9-12.16.0.1836-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1836-1.9/forge-1.9-12.16.0.1836-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1836-1.9/forge-1.9-12.16.0.1836-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1836-1.9/forge-1.9-12.16.0.1836-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1836-1.9/forge-1.9-12.16.0.1836-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1835",
+		"date": "04/03/2016 11:55:56 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1835-1.9/forge-1.9-12.16.0.1835-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1835-1.9/forge-1.9-12.16.0.1835-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1835-1.9/forge-1.9-12.16.0.1835-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1835-1.9/forge-1.9-12.16.0.1835-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1835-1.9/forge-1.9-12.16.0.1835-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1834",
+		"date": "04/03/2016 07:29:10 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1834-1.9/forge-1.9-12.16.0.1834-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1834-1.9/forge-1.9-12.16.0.1834-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1834-1.9/forge-1.9-12.16.0.1834-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1834-1.9/forge-1.9-12.16.0.1834-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1834-1.9/forge-1.9-12.16.0.1834-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1833",
+		"date": "04/03/2016 02:26:32 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1833-1.9/forge-1.9-12.16.0.1833-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1833-1.9/forge-1.9-12.16.0.1833-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1833-1.9/forge-1.9-12.16.0.1833-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1833-1.9/forge-1.9-12.16.0.1833-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1833-1.9/forge-1.9-12.16.0.1833-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1832",
+		"date": "04/03/2016 02:56:20 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1832-1.9/forge-1.9-12.16.0.1832-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1832-1.9/forge-1.9-12.16.0.1832-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1832-1.9/forge-1.9-12.16.0.1832-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1832-1.9/forge-1.9-12.16.0.1832-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1832-1.9/forge-1.9-12.16.0.1832-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1831",
+		"date": "04/03/2016 02:08:34 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1831-1.9/forge-1.9-12.16.0.1831-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1831-1.9/forge-1.9-12.16.0.1831-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1831-1.9/forge-1.9-12.16.0.1831-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1831-1.9/forge-1.9-12.16.0.1831-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1831-1.9/forge-1.9-12.16.0.1831-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1830",
+		"date": "04/03/2016 01:22:08 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1830-1.9/forge-1.9-12.16.0.1830-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1830-1.9/forge-1.9-12.16.0.1830-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1830-1.9/forge-1.9-12.16.0.1830-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1830-1.9/forge-1.9-12.16.0.1830-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1830-1.9/forge-1.9-12.16.0.1830-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1829",
+		"date": "04/03/2016 12:15:44 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1829-1.9/forge-1.9-12.16.0.1829-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1829-1.9/forge-1.9-12.16.0.1829-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1829-1.9/forge-1.9-12.16.0.1829-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1829-1.9/forge-1.9-12.16.0.1829-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1829-1.9/forge-1.9-12.16.0.1829-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1828",
+		"date": "04/03/2016 12:09:22 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1828-1.9/forge-1.9-12.16.0.1828-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1828-1.9/forge-1.9-12.16.0.1828-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1828-1.9/forge-1.9-12.16.0.1828-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1828-1.9/forge-1.9-12.16.0.1828-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1828-1.9/forge-1.9-12.16.0.1828-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1827",
+		"date": "04/02/2016 11:23:02 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1827-1.9/forge-1.9-12.16.0.1827-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1827-1.9/forge-1.9-12.16.0.1827-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1827-1.9/forge-1.9-12.16.0.1827-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1827-1.9/forge-1.9-12.16.0.1827-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1827-1.9/forge-1.9-12.16.0.1827-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1826",
+		"date": "04/02/2016 01:08:42 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1826-1.9/forge-1.9-12.16.0.1826-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1826-1.9/forge-1.9-12.16.0.1826-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1826-1.9/forge-1.9-12.16.0.1826-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1826-1.9/forge-1.9-12.16.0.1826-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1826-1.9/forge-1.9-12.16.0.1826-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1825",
+		"date": "04/02/2016 12:24:28 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1825-1.9/forge-1.9-12.16.0.1825-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1825-1.9/forge-1.9-12.16.0.1825-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1825-1.9/forge-1.9-12.16.0.1825-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1825-1.9/forge-1.9-12.16.0.1825-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1825-1.9/forge-1.9-12.16.0.1825-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1824",
+		"date": "04/02/2016 10:26:14 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1824-1.9/forge-1.9-12.16.0.1824-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1824-1.9/forge-1.9-12.16.0.1824-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1824-1.9/forge-1.9-12.16.0.1824-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1824-1.9/forge-1.9-12.16.0.1824-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1824-1.9/forge-1.9-12.16.0.1824-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1823",
+		"date": "04/02/2016 09:56:06 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1823-1.9/forge-1.9-12.16.0.1823-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1823-1.9/forge-1.9-12.16.0.1823-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1823-1.9/forge-1.9-12.16.0.1823-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1823-1.9/forge-1.9-12.16.0.1823-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1823-1.9/forge-1.9-12.16.0.1823-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1822",
+		"date": "04/02/2016 09:45:20 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1822-1.9/forge-1.9-12.16.0.1822-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1822-1.9/forge-1.9-12.16.0.1822-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1822-1.9/forge-1.9-12.16.0.1822-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1822-1.9/forge-1.9-12.16.0.1822-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1822-1.9/forge-1.9-12.16.0.1822-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1821",
+		"date": "04/02/2016 05:56:34 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1821-1.9/forge-1.9-12.16.0.1821-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1821-1.9/forge-1.9-12.16.0.1821-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1821-1.9/forge-1.9-12.16.0.1821-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1821-1.9/forge-1.9-12.16.0.1821-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1821-1.9/forge-1.9-12.16.0.1821-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1820",
+		"date": "04/01/2016 10:08:18 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1820-1.9/forge-1.9-12.16.0.1820-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1820-1.9/forge-1.9-12.16.0.1820-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1820-1.9/forge-1.9-12.16.0.1820-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1820-1.9/forge-1.9-12.16.0.1820-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1820-1.9/forge-1.9-12.16.0.1820-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1819",
+		"date": "04/01/2016 08:28:10 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1819-1.9/forge-1.9-12.16.0.1819-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1819-1.9/forge-1.9-12.16.0.1819-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1819-1.9/forge-1.9-12.16.0.1819-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1819-1.9/forge-1.9-12.16.0.1819-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1819-1.9/forge-1.9-12.16.0.1819-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1817",
+		"date": "04/01/2016 02:48:46 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1817-1.9/forge-1.9-12.16.0.1817-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1817-1.9/forge-1.9-12.16.0.1817-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1817-1.9/forge-1.9-12.16.0.1817-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1817-1.9/forge-1.9-12.16.0.1817-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1817-1.9/forge-1.9-12.16.0.1817-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1816",
+		"date": "03/30/2016 04:33:00 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1816-1.9/forge-1.9-12.16.0.1816-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1816-1.9/forge-1.9-12.16.0.1816-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1816-1.9/forge-1.9-12.16.0.1816-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1816-1.9/forge-1.9-12.16.0.1816-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1816-1.9/forge-1.9-12.16.0.1816-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1815",
+		"date": "03/30/2016 04:27:04 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1815-1.9/forge-1.9-12.16.0.1815-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1815-1.9/forge-1.9-12.16.0.1815-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1815-1.9/forge-1.9-12.16.0.1815-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1815-1.9/forge-1.9-12.16.0.1815-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1815-1.9/forge-1.9-12.16.0.1815-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1814",
+		"date": "03/30/2016 02:54:06 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1814-1.9/forge-1.9-12.16.0.1814-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1814-1.9/forge-1.9-12.16.0.1814-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1814-1.9/forge-1.9-12.16.0.1814-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1814-1.9/forge-1.9-12.16.0.1814-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1814-1.9/forge-1.9-12.16.0.1814-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1813",
+		"date": "03/29/2016 06:42:20 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1813-1.9/forge-1.9-12.16.0.1813-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1813-1.9/forge-1.9-12.16.0.1813-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1813-1.9/forge-1.9-12.16.0.1813-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1813-1.9/forge-1.9-12.16.0.1813-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1813-1.9/forge-1.9-12.16.0.1813-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1812",
+		"date": "03/29/2016 03:15:10 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1812-1.9/forge-1.9-12.16.0.1812-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1812-1.9/forge-1.9-12.16.0.1812-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1812-1.9/forge-1.9-12.16.0.1812-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1812-1.9/forge-1.9-12.16.0.1812-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1812-1.9/forge-1.9-12.16.0.1812-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1811",
+		"date": "03/26/2016 01:52:30 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1811-1.9/forge-1.9-12.16.0.1811-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1811-1.9/forge-1.9-12.16.0.1811-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1811-1.9/forge-1.9-12.16.0.1811-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1811-1.9/forge-1.9-12.16.0.1811-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1811-1.9/forge-1.9-12.16.0.1811-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1810",
+		"date": "03/26/2016 01:36:54 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1810-1.9/forge-1.9-12.16.0.1810-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1810-1.9/forge-1.9-12.16.0.1810-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1810-1.9/forge-1.9-12.16.0.1810-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1810-1.9/forge-1.9-12.16.0.1810-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1810-1.9/forge-1.9-12.16.0.1810-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1809",
+		"date": "03/24/2016 10:50:48 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1809-1.9/forge-1.9-12.16.0.1809-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1809-1.9/forge-1.9-12.16.0.1809-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1809-1.9/forge-1.9-12.16.0.1809-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1809-1.9/forge-1.9-12.16.0.1809-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1809-1.9/forge-1.9-12.16.0.1809-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1807",
+		"date": "03/24/2016 04:57:24 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1807-1.9/forge-1.9-12.16.0.1807-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1807-1.9/forge-1.9-12.16.0.1807-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1807-1.9/forge-1.9-12.16.0.1807-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1807-1.9/forge-1.9-12.16.0.1807-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1807-1.9/forge-1.9-12.16.0.1807-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1806",
+		"date": "03/24/2016 04:45:12 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1806-1.9/forge-1.9-12.16.0.1806-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1806-1.9/forge-1.9-12.16.0.1806-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1806-1.9/forge-1.9-12.16.0.1806-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1806-1.9/forge-1.9-12.16.0.1806-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1806-1.9/forge-1.9-12.16.0.1806-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1805",
+		"date": "03/24/2016 02:36:44 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1805-1.9/forge-1.9-12.16.0.1805-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1805-1.9/forge-1.9-12.16.0.1805-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1805-1.9/forge-1.9-12.16.0.1805-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1805-1.9/forge-1.9-12.16.0.1805-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1805-1.9/forge-1.9-12.16.0.1805-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1804",
+		"date": "03/23/2016 09:18:44 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1804-1.9/forge-1.9-12.16.0.1804-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1804-1.9/forge-1.9-12.16.0.1804-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1804-1.9/forge-1.9-12.16.0.1804-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1804-1.9/forge-1.9-12.16.0.1804-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1804-1.9/forge-1.9-12.16.0.1804-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1803",
+		"date": "03/23/2016 06:40:06 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1803-1.9/forge-1.9-12.16.0.1803-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1803-1.9/forge-1.9-12.16.0.1803-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1803-1.9/forge-1.9-12.16.0.1803-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1803-1.9/forge-1.9-12.16.0.1803-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1803-1.9/forge-1.9-12.16.0.1803-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1802",
+		"date": "03/23/2016 12:27:40 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1802-1.9/forge-1.9-12.16.0.1802-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1802-1.9/forge-1.9-12.16.0.1802-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1802-1.9/forge-1.9-12.16.0.1802-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1802-1.9/forge-1.9-12.16.0.1802-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1802-1.9/forge-1.9-12.16.0.1802-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1801",
+		"date": "03/22/2016 09:06:52 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1801-1.9/forge-1.9-12.16.0.1801-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1801-1.9/forge-1.9-12.16.0.1801-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1801-1.9/forge-1.9-12.16.0.1801-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1801-1.9/forge-1.9-12.16.0.1801-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1801-1.9/forge-1.9-12.16.0.1801-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1800",
+		"date": "03/22/2016 05:36:54 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1800-1.9/forge-1.9-12.16.0.1800-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1800-1.9/forge-1.9-12.16.0.1800-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1800-1.9/forge-1.9-12.16.0.1800-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1800-1.9/forge-1.9-12.16.0.1800-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1800-1.9/forge-1.9-12.16.0.1800-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1799",
+		"date": "03/22/2016 03:43:10 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1799-1.9/forge-1.9-12.16.0.1799-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1799-1.9/forge-1.9-12.16.0.1799-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1799-1.9/forge-1.9-12.16.0.1799-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1799-1.9/forge-1.9-12.16.0.1799-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1799-1.9/forge-1.9-12.16.0.1799-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1798",
+		"date": "03/22/2016 03:07:48 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1798-1.9/forge-1.9-12.16.0.1798-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1798-1.9/forge-1.9-12.16.0.1798-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1798-1.9/forge-1.9-12.16.0.1798-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1798-1.9/forge-1.9-12.16.0.1798-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1798-1.9/forge-1.9-12.16.0.1798-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1797",
+		"date": "03/22/2016 01:08:24 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1797-1.9/forge-1.9-12.16.0.1797-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1797-1.9/forge-1.9-12.16.0.1797-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1797-1.9/forge-1.9-12.16.0.1797-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1797-1.9/forge-1.9-12.16.0.1797-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1797-1.9/forge-1.9-12.16.0.1797-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1796",
+		"date": "03/21/2016 10:50:42 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1796-1.9/forge-1.9-12.16.0.1796-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1796-1.9/forge-1.9-12.16.0.1796-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1796-1.9/forge-1.9-12.16.0.1796-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1796-1.9/forge-1.9-12.16.0.1796-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1796-1.9/forge-1.9-12.16.0.1796-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1795",
+		"date": "03/21/2016 10:14:56 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1795-1.9/forge-1.9-12.16.0.1795-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1795-1.9/forge-1.9-12.16.0.1795-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1795-1.9/forge-1.9-12.16.0.1795-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1795-1.9/forge-1.9-12.16.0.1795-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1795-1.9/forge-1.9-12.16.0.1795-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1793",
+		"date": "03/21/2016 10:00:40 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1793-1.9/forge-1.9-12.16.0.1793-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1793-1.9/forge-1.9-12.16.0.1793-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1793-1.9/forge-1.9-12.16.0.1793-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1793-1.9/forge-1.9-12.16.0.1793-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1793-1.9/forge-1.9-12.16.0.1793-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1792",
+		"date": "03/21/2016 09:53:22 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1792-1.9/forge-1.9-12.16.0.1792-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1792-1.9/forge-1.9-12.16.0.1792-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1792-1.9/forge-1.9-12.16.0.1792-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1792-1.9/forge-1.9-12.16.0.1792-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1792-1.9/forge-1.9-12.16.0.1792-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1790",
+		"date": "03/21/2016 09:39:32 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1790-1.9/forge-1.9-12.16.0.1790-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1790-1.9/forge-1.9-12.16.0.1790-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1790-1.9/forge-1.9-12.16.0.1790-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1790-1.9/forge-1.9-12.16.0.1790-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1790-1.9/forge-1.9-12.16.0.1790-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1789",
+		"date": "03/21/2016 09:32:36 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1789-1.9/forge-1.9-12.16.0.1789-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1789-1.9/forge-1.9-12.16.0.1789-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1789-1.9/forge-1.9-12.16.0.1789-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1789-1.9/forge-1.9-12.16.0.1789-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1789-1.9/forge-1.9-12.16.0.1789-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1788",
+		"date": "03/21/2016 08:49:46 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1788-1.9/forge-1.9-12.16.0.1788-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1788-1.9/forge-1.9-12.16.0.1788-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1788-1.9/forge-1.9-12.16.0.1788-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1788-1.9/forge-1.9-12.16.0.1788-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1788-1.9/forge-1.9-12.16.0.1788-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1787",
+		"date": "03/21/2016 08:05:10 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1787-1.9/forge-1.9-12.16.0.1787-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1787-1.9/forge-1.9-12.16.0.1787-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1787-1.9/forge-1.9-12.16.0.1787-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1787-1.9/forge-1.9-12.16.0.1787-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1787-1.9/forge-1.9-12.16.0.1787-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1786",
+		"date": "03/21/2016 07:35:18 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1786-1.9/forge-1.9-12.16.0.1786-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1786-1.9/forge-1.9-12.16.0.1786-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1786-1.9/forge-1.9-12.16.0.1786-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1786-1.9/forge-1.9-12.16.0.1786-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1786-1.9/forge-1.9-12.16.0.1786-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1784",
+		"date": "03/21/2016 07:20:28 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1784-1.9/forge-1.9-12.16.0.1784-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1784-1.9/forge-1.9-12.16.0.1784-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1784-1.9/forge-1.9-12.16.0.1784-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1784-1.9/forge-1.9-12.16.0.1784-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1784-1.9/forge-1.9-12.16.0.1784-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1782",
+		"date": "03/21/2016 11:03:22 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1782-1.9/forge-1.9-12.16.0.1782-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1782-1.9/forge-1.9-12.16.0.1782-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1782-1.9/forge-1.9-12.16.0.1782-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1782-1.9/forge-1.9-12.16.0.1782-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1782-1.9/forge-1.9-12.16.0.1782-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1781",
+		"date": "03/21/2016 10:17:48 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1781-1.9/forge-1.9-12.16.0.1781-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1781-1.9/forge-1.9-12.16.0.1781-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1781-1.9/forge-1.9-12.16.0.1781-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1781-1.9/forge-1.9-12.16.0.1781-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1781-1.9/forge-1.9-12.16.0.1781-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1780",
+		"date": "03/21/2016 12:04:12 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1780-1.9/forge-1.9-12.16.0.1780-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1780-1.9/forge-1.9-12.16.0.1780-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1780-1.9/forge-1.9-12.16.0.1780-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1780-1.9/forge-1.9-12.16.0.1780-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1780-1.9/forge-1.9-12.16.0.1780-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1779",
+		"date": "03/20/2016 11:57:14 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1779-1.9/forge-1.9-12.16.0.1779-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1779-1.9/forge-1.9-12.16.0.1779-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1779-1.9/forge-1.9-12.16.0.1779-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1779-1.9/forge-1.9-12.16.0.1779-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1779-1.9/forge-1.9-12.16.0.1779-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1778",
+		"date": "03/20/2016 11:34:16 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1778-1.9/forge-1.9-12.16.0.1778-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1778-1.9/forge-1.9-12.16.0.1778-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1778-1.9/forge-1.9-12.16.0.1778-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1778-1.9/forge-1.9-12.16.0.1778-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1778-1.9/forge-1.9-12.16.0.1778-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1776",
+		"date": "03/19/2016 11:33:44 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1776-1.9/forge-1.9-12.16.0.1776-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1776-1.9/forge-1.9-12.16.0.1776-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1776-1.9/forge-1.9-12.16.0.1776-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1776-1.9/forge-1.9-12.16.0.1776-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1776-1.9/forge-1.9-12.16.0.1776-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1775",
+		"date": "03/19/2016 11:26:32 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1775-1.9/forge-1.9-12.16.0.1775-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1775-1.9/forge-1.9-12.16.0.1775-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1775-1.9/forge-1.9-12.16.0.1775-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1775-1.9/forge-1.9-12.16.0.1775-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1775-1.9/forge-1.9-12.16.0.1775-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1774",
+		"date": "03/19/2016 11:19:20 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1774-1.9/forge-1.9-12.16.0.1774-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1774-1.9/forge-1.9-12.16.0.1774-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1774-1.9/forge-1.9-12.16.0.1774-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1774-1.9/forge-1.9-12.16.0.1774-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1774-1.9/forge-1.9-12.16.0.1774-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1773",
+		"date": "03/19/2016 08:43:28 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1773-1.9/forge-1.9-12.16.0.1773-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1773-1.9/forge-1.9-12.16.0.1773-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1773-1.9/forge-1.9-12.16.0.1773-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1773-1.9/forge-1.9-12.16.0.1773-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1773-1.9/forge-1.9-12.16.0.1773-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1772",
+		"date": "03/19/2016 08:33:00 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1772-1.9/forge-1.9-12.16.0.1772-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1772-1.9/forge-1.9-12.16.0.1772-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1772-1.9/forge-1.9-12.16.0.1772-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1772-1.9/forge-1.9-12.16.0.1772-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1772-1.9/forge-1.9-12.16.0.1772-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1771",
+		"date": "03/19/2016 08:26:02 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1771-1.9/forge-1.9-12.16.0.1771-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1771-1.9/forge-1.9-12.16.0.1771-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1771-1.9/forge-1.9-12.16.0.1771-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1771-1.9/forge-1.9-12.16.0.1771-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1771-1.9/forge-1.9-12.16.0.1771-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1770",
+		"date": "03/19/2016 01:56:00 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1770-1.9/forge-1.9-12.16.0.1770-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1770-1.9/forge-1.9-12.16.0.1770-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1770-1.9/forge-1.9-12.16.0.1770-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1770-1.9/forge-1.9-12.16.0.1770-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1770-1.9/forge-1.9-12.16.0.1770-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1769",
+		"date": "03/19/2016 12:32:16 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1769-1.9/forge-1.9-12.16.0.1769-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1769-1.9/forge-1.9-12.16.0.1769-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1769-1.9/forge-1.9-12.16.0.1769-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1769-1.9/forge-1.9-12.16.0.1769-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1769-1.9/forge-1.9-12.16.0.1769-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1768",
+		"date": "03/18/2016 11:30:00 PM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1768-1.9/forge-1.9-12.16.0.1768-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1768-1.9/forge-1.9-12.16.0.1768-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1768-1.9/forge-1.9-12.16.0.1768-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1768-1.9/forge-1.9-12.16.0.1768-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1768-1.9/forge-1.9-12.16.0.1768-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1767",
+		"date": "03/18/2016 09:02:38 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1767-1.9/forge-1.9-12.16.0.1767-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1767-1.9/forge-1.9-12.16.0.1767-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1767-1.9/forge-1.9-12.16.0.1767-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1767-1.9/forge-1.9-12.16.0.1767-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1767-1.9/forge-1.9-12.16.0.1767-1.9-universal.jar"
+	},
+	{
+		"version": "12.16.0.1766",
+		"date": "03/18/2016 02:44:28 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.9-12.16.0.1766-1.9/forge-1.9-12.16.0.1766-1.9-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.9-12.16.0.1766-1.9/forge-1.9-12.16.0.1766-1.9-installer.jar",
+		"installer_win": "/maven/net/minecraftforge/forge/1.9-12.16.0.1766-1.9/forge-1.9-12.16.0.1766-1.9-installer-win.exe",
+		"mdk": "/maven/net/minecraftforge/forge/1.9-12.16.0.1766-1.9/forge-1.9-12.16.0.1766-1.9-mdk.zip",
+		"universal": "/maven/net/minecraftforge/forge/1.9-12.16.0.1766-1.9/forge-1.9-12.16.0.1766-1.9-universal.jar"
+	}
+]

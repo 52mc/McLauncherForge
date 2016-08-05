@@ -1,0 +1,421 @@
+[
+	{
+		"version": "6.4.2.448",
+		"date": "09/29/2014 06:59:10 AM",
+		"changelog": "http://adfoc.us/serve/sitelinks/?id=271228&url=http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.4.5-6.4.2.448/forge-1.4.5-6.4.2.448-javadoc.zip",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.2.448/forge-1.4.5-6.4.2.448-src.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.2.448/forge-1.4.5-6.4.2.448-universal.zip"
+	},
+	{
+		"version": "6.4.2.447",
+		"date": "09/29/2014 06:59:44 AM",
+		"changelog": "http://adfoc.us/serve/sitelinks/?id=271228&url=http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.4.5-6.4.2.447/forge-1.4.5-6.4.2.447-javadoc.zip",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.2.447/forge-1.4.5-6.4.2.447-src.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.2.447/forge-1.4.5-6.4.2.447-universal.zip"
+	},
+	{
+		"version": "6.4.2.446",
+		"date": "09/29/2014 07:00:16 AM",
+		"changelog": "http://adfoc.us/serve/sitelinks/?id=271228&url=http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.4.5-6.4.2.446/forge-1.4.5-6.4.2.446-javadoc.zip",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.2.446/forge-1.4.5-6.4.2.446-src.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.2.446/forge-1.4.5-6.4.2.446-universal.zip"
+	},
+	{
+		"version": "6.4.2.445",
+		"date": "09/29/2014 07:00:44 AM",
+		"changelog": "http://adfoc.us/serve/sitelinks/?id=271228&url=http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.4.5-6.4.2.445/forge-1.4.5-6.4.2.445-javadoc.zip",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.2.445/forge-1.4.5-6.4.2.445-src.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.2.445/forge-1.4.5-6.4.2.445-universal.zip"
+	},
+	{
+		"version": "6.4.2.444",
+		"date": "09/29/2014 07:01:18 AM",
+		"changelog": "http://adfoc.us/serve/sitelinks/?id=271228&url=http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.4.5-6.4.2.444/forge-1.4.5-6.4.2.444-javadoc.zip",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.2.444/forge-1.4.5-6.4.2.444-src.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.2.444/forge-1.4.5-6.4.2.444-universal.zip"
+	},
+	{
+		"version": "6.4.2.443",
+		"date": "09/29/2014 07:01:48 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.2.443/forge-1.4.5-6.4.2.443-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.2.443/forge-1.4.5-6.4.2.443-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.2.443/forge-1.4.5-6.4.2.443-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.2.443/forge-1.4.5-6.4.2.443-universal.zip"
+	},
+	{
+		"version": "6.4.1.442",
+		"date": "09/29/2014 07:02:20 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.442/forge-1.4.5-6.4.1.442-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.442/forge-1.4.5-6.4.1.442-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.442/forge-1.4.5-6.4.1.442-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.442/forge-1.4.5-6.4.1.442-universal.zip"
+	},
+	{
+		"version": "6.4.1.441",
+		"date": "09/29/2014 07:02:52 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.441/forge-1.4.5-6.4.1.441-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.441/forge-1.4.5-6.4.1.441-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.441/forge-1.4.5-6.4.1.441-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.441/forge-1.4.5-6.4.1.441-universal.zip"
+	},
+	{
+		"version": "6.4.1.439",
+		"date": "09/29/2014 07:03:22 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.439/forge-1.4.5-6.4.1.439-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.439/forge-1.4.5-6.4.1.439-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.439/forge-1.4.5-6.4.1.439-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.439/forge-1.4.5-6.4.1.439-universal.zip"
+	},
+	{
+		"version": "6.4.1.438",
+		"date": "09/29/2014 07:03:54 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.438/forge-1.4.5-6.4.1.438-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.438/forge-1.4.5-6.4.1.438-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.438/forge-1.4.5-6.4.1.438-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.438/forge-1.4.5-6.4.1.438-universal.zip"
+	},
+	{
+		"version": "6.4.1.437",
+		"date": "09/29/2014 07:04:26 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.437/forge-1.4.5-6.4.1.437-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.437/forge-1.4.5-6.4.1.437-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.437/forge-1.4.5-6.4.1.437-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.437/forge-1.4.5-6.4.1.437-universal.zip"
+	},
+	{
+		"version": "6.4.1.436",
+		"date": "09/29/2014 07:04:54 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.436/forge-1.4.5-6.4.1.436-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.436/forge-1.4.5-6.4.1.436-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.436/forge-1.4.5-6.4.1.436-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.436/forge-1.4.5-6.4.1.436-universal.zip"
+	},
+	{
+		"version": "6.4.1.435",
+		"date": "09/29/2014 07:05:26 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.435/forge-1.4.5-6.4.1.435-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.435/forge-1.4.5-6.4.1.435-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.435/forge-1.4.5-6.4.1.435-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.435/forge-1.4.5-6.4.1.435-universal.zip"
+	},
+	{
+		"version": "6.4.1.434",
+		"date": "09/29/2014 07:05:58 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.434/forge-1.4.5-6.4.1.434-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.434/forge-1.4.5-6.4.1.434-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.434/forge-1.4.5-6.4.1.434-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.434/forge-1.4.5-6.4.1.434-universal.zip"
+	},
+	{
+		"version": "6.4.1.433",
+		"date": "09/29/2014 07:06:30 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.433/forge-1.4.5-6.4.1.433-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.433/forge-1.4.5-6.4.1.433-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.433/forge-1.4.5-6.4.1.433-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.433/forge-1.4.5-6.4.1.433-universal.zip"
+	},
+	{
+		"version": "6.4.1.432",
+		"date": "09/29/2014 07:06:58 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.432/forge-1.4.5-6.4.1.432-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.432/forge-1.4.5-6.4.1.432-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.432/forge-1.4.5-6.4.1.432-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.432/forge-1.4.5-6.4.1.432-universal.zip"
+	},
+	{
+		"version": "6.4.1.430",
+		"date": "09/29/2014 07:07:12 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.430/forge-1.4.5-6.4.1.430-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.430/forge-1.4.5-6.4.1.430-src.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.430/forge-1.4.5-6.4.1.430-universal.zip"
+	},
+	{
+		"version": "6.4.1.428",
+		"date": "09/29/2014 07:07:22 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.428/forge-1.4.5-6.4.1.428-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.428/forge-1.4.5-6.4.1.428-src.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.428/forge-1.4.5-6.4.1.428-universal.zip"
+	},
+	{
+		"version": "6.4.1.426",
+		"date": "09/29/2014 07:07:38 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.426/forge-1.4.5-6.4.1.426-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.426/forge-1.4.5-6.4.1.426-src.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.426/forge-1.4.5-6.4.1.426-universal.zip"
+	},
+	{
+		"version": "6.4.1.425",
+		"date": "09/29/2014 07:07:50 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.425/forge-1.4.5-6.4.1.425-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.425/forge-1.4.5-6.4.1.425-src.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.425/forge-1.4.5-6.4.1.425-universal.zip"
+	},
+	{
+		"version": "6.4.1.424",
+		"date": "09/29/2014 07:08:12 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.424/forge-1.4.5-6.4.1.424-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.424/forge-1.4.5-6.4.1.424-src.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.424/forge-1.4.5-6.4.1.424-universal.zip"
+	},
+	{
+		"version": "6.4.1.416",
+		"date": "09/29/2014 07:08:28 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.416/forge-1.4.5-6.4.1.416-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.416/forge-1.4.5-6.4.1.416-src.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.416/forge-1.4.5-6.4.1.416-universal.zip"
+	},
+	{
+		"version": "6.4.1.414",
+		"date": "09/29/2014 07:08:54 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.414/forge-1.4.5-6.4.1.414-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.414/forge-1.4.5-6.4.1.414-src.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.414/forge-1.4.5-6.4.1.414-universal.zip"
+	},
+	{
+		"version": "6.4.1.413",
+		"date": "09/29/2014 07:09:10 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.413/forge-1.4.5-6.4.1.413-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.413/forge-1.4.5-6.4.1.413-src.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.413/forge-1.4.5-6.4.1.413-universal.zip"
+	},
+	{
+		"version": "6.4.1.411",
+		"date": "09/29/2014 07:09:42 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.411/forge-1.4.5-6.4.1.411-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.411/forge-1.4.5-6.4.1.411-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.411/forge-1.4.5-6.4.1.411-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.411/forge-1.4.5-6.4.1.411-universal.zip"
+	},
+	{
+		"version": "6.4.1.410",
+		"date": "09/29/2014 07:10:08 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.410/forge-1.4.5-6.4.1.410-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.410/forge-1.4.5-6.4.1.410-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.410/forge-1.4.5-6.4.1.410-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.410/forge-1.4.5-6.4.1.410-universal.zip"
+	},
+	{
+		"version": "6.4.1.409",
+		"date": "09/29/2014 07:10:28 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.409/forge-1.4.5-6.4.1.409-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.409/forge-1.4.5-6.4.1.409-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.409/forge-1.4.5-6.4.1.409-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.409/forge-1.4.5-6.4.1.409-universal.zip"
+	},
+	{
+		"version": "6.4.1.408",
+		"date": "09/29/2014 07:10:58 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.408/forge-1.4.5-6.4.1.408-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.408/forge-1.4.5-6.4.1.408-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.408/forge-1.4.5-6.4.1.408-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.408/forge-1.4.5-6.4.1.408-universal.zip"
+	},
+	{
+		"version": "6.4.1.407",
+		"date": "09/29/2014 07:11:18 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.407/forge-1.4.5-6.4.1.407-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.407/forge-1.4.5-6.4.1.407-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.407/forge-1.4.5-6.4.1.407-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.407/forge-1.4.5-6.4.1.407-universal.zip"
+	},
+	{
+		"version": "6.4.1.406",
+		"date": "09/29/2014 07:11:40 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.406/forge-1.4.5-6.4.1.406-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.406/forge-1.4.5-6.4.1.406-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.406/forge-1.4.5-6.4.1.406-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.406/forge-1.4.5-6.4.1.406-universal.zip"
+	},
+	{
+		"version": "6.4.1.405",
+		"date": "09/29/2014 07:12:08 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.405/forge-1.4.5-6.4.1.405-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.405/forge-1.4.5-6.4.1.405-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.405/forge-1.4.5-6.4.1.405-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.405/forge-1.4.5-6.4.1.405-universal.zip"
+	},
+	{
+		"version": "6.4.1.404",
+		"date": "09/29/2014 07:12:36 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.404/forge-1.4.5-6.4.1.404-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.404/forge-1.4.5-6.4.1.404-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.404/forge-1.4.5-6.4.1.404-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.404/forge-1.4.5-6.4.1.404-universal.zip"
+	},
+	{
+		"version": "6.4.1.403",
+		"date": "09/29/2014 07:13:00 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.403/forge-1.4.5-6.4.1.403-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.403/forge-1.4.5-6.4.1.403-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.403/forge-1.4.5-6.4.1.403-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.403/forge-1.4.5-6.4.1.403-universal.zip"
+	},
+	{
+		"version": "6.4.1.402",
+		"date": "09/29/2014 07:13:18 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.402/forge-1.4.5-6.4.1.402-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.402/forge-1.4.5-6.4.1.402-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.402/forge-1.4.5-6.4.1.402-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.402/forge-1.4.5-6.4.1.402-universal.zip"
+	},
+	{
+		"version": "6.4.1.401",
+		"date": "09/29/2014 07:13:42 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.401/forge-1.4.5-6.4.1.401-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.401/forge-1.4.5-6.4.1.401-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.401/forge-1.4.5-6.4.1.401-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.401/forge-1.4.5-6.4.1.401-universal.zip"
+	},
+	{
+		"version": "6.4.1.400",
+		"date": "09/29/2014 07:14:06 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.400/forge-1.4.5-6.4.1.400-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.400/forge-1.4.5-6.4.1.400-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.400/forge-1.4.5-6.4.1.400-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.1.400/forge-1.4.5-6.4.1.400-universal.zip"
+	},
+	{
+		"version": "6.4.0.399",
+		"date": "09/29/2014 07:14:30 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.399/forge-1.4.5-6.4.0.399-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.399/forge-1.4.5-6.4.0.399-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.399/forge-1.4.5-6.4.0.399-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.399/forge-1.4.5-6.4.0.399-universal.zip"
+	},
+	{
+		"version": "6.4.0.398",
+		"date": "09/29/2014 07:14:56 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.398/forge-1.4.5-6.4.0.398-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.398/forge-1.4.5-6.4.0.398-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.398/forge-1.4.5-6.4.0.398-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.398/forge-1.4.5-6.4.0.398-universal.zip"
+	},
+	{
+		"version": "6.4.0.397",
+		"date": "09/29/2014 07:15:16 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.397/forge-1.4.5-6.4.0.397-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.397/forge-1.4.5-6.4.0.397-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.397/forge-1.4.5-6.4.0.397-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.397/forge-1.4.5-6.4.0.397-universal.zip"
+	},
+	{
+		"version": "6.4.0.396",
+		"date": "09/29/2014 07:15:50 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.396/forge-1.4.5-6.4.0.396-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.396/forge-1.4.5-6.4.0.396-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.396/forge-1.4.5-6.4.0.396-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.396/forge-1.4.5-6.4.0.396-universal.zip"
+	},
+	{
+		"version": "6.4.0.395",
+		"date": "09/29/2014 07:16:10 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.395/forge-1.4.5-6.4.0.395-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.395/forge-1.4.5-6.4.0.395-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.395/forge-1.4.5-6.4.0.395-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.395/forge-1.4.5-6.4.0.395-universal.zip"
+	},
+	{
+		"version": "6.4.0.394",
+		"date": "09/29/2014 07:16:30 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.394/forge-1.4.5-6.4.0.394-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.394/forge-1.4.5-6.4.0.394-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.394/forge-1.4.5-6.4.0.394-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.394/forge-1.4.5-6.4.0.394-universal.zip"
+	},
+	{
+		"version": "6.4.0.393",
+		"date": "09/29/2014 07:16:56 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.393/forge-1.4.5-6.4.0.393-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.393/forge-1.4.5-6.4.0.393-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.393/forge-1.4.5-6.4.0.393-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.393/forge-1.4.5-6.4.0.393-universal.zip"
+	},
+	{
+		"version": "6.4.0.390",
+		"date": "09/29/2014 07:17:24 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.390/forge-1.4.5-6.4.0.390-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.390/forge-1.4.5-6.4.0.390-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.390/forge-1.4.5-6.4.0.390-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.390/forge-1.4.5-6.4.0.390-universal.zip"
+	},
+	{
+		"version": "6.4.0.388",
+		"date": "09/29/2014 07:17:48 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.388/forge-1.4.5-6.4.0.388-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.388/forge-1.4.5-6.4.0.388-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.388/forge-1.4.5-6.4.0.388-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.388/forge-1.4.5-6.4.0.388-universal.zip"
+	},
+	{
+		"version": "6.4.0.387",
+		"date": "09/29/2014 07:18:06 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.387/forge-1.4.5-6.4.0.387-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.387/forge-1.4.5-6.4.0.387-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.387/forge-1.4.5-6.4.0.387-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.387/forge-1.4.5-6.4.0.387-universal.zip"
+	},
+	{
+		"version": "6.4.0.386",
+		"date": "09/29/2014 07:18:38 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.386/forge-1.4.5-6.4.0.386-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.386/forge-1.4.5-6.4.0.386-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.386/forge-1.4.5-6.4.0.386-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.386/forge-1.4.5-6.4.0.386-universal.zip"
+	},
+	{
+		"version": "6.4.0.385",
+		"date": "09/29/2014 07:19:04 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.385/forge-1.4.5-6.4.0.385-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.385/forge-1.4.5-6.4.0.385-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.385/forge-1.4.5-6.4.0.385-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.385/forge-1.4.5-6.4.0.385-universal.zip"
+	},
+	{
+		"version": "6.4.0.384",
+		"date": "09/29/2014 07:19:30 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.384/forge-1.4.5-6.4.0.384-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.384/forge-1.4.5-6.4.0.384-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.384/forge-1.4.5-6.4.0.384-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.384/forge-1.4.5-6.4.0.384-universal.zip"
+	},
+	{
+		"version": "6.4.0.383",
+		"date": "09/29/2014 07:19:52 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.383/forge-1.4.5-6.4.0.383-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.383/forge-1.4.5-6.4.0.383-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.383/forge-1.4.5-6.4.0.383-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.383/forge-1.4.5-6.4.0.383-universal.zip"
+	},
+	{
+		"version": "6.4.0.382",
+		"date": "09/29/2014 07:20:16 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.382/forge-1.4.5-6.4.0.382-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.382/forge-1.4.5-6.4.0.382-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.382/forge-1.4.5-6.4.0.382-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.382/forge-1.4.5-6.4.0.382-universal.zip"
+	},
+	{
+		"version": "6.4.0.381",
+		"date": "09/29/2014 07:20:36 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.381/forge-1.4.5-6.4.0.381-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.381/forge-1.4.5-6.4.0.381-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.381/forge-1.4.5-6.4.0.381-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.381/forge-1.4.5-6.4.0.381-universal.zip"
+	},
+	{
+		"version": "6.4.0.380",
+		"date": "09/29/2014 07:21:08 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.380/forge-1.4.5-6.4.0.380-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.380/forge-1.4.5-6.4.0.380-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.380/forge-1.4.5-6.4.0.380-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.380/forge-1.4.5-6.4.0.380-universal.zip"
+	},
+	{
+		"version": "6.4.0.379",
+		"date": "09/29/2014 07:21:34 AM",
+		"changelog": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.379/forge-1.4.5-6.4.0.379-changelog.txt",
+		"installer": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.379/forge-1.4.5-6.4.0.379-javadoc.zip",
+		"installer_win": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.379/forge-1.4.5-6.4.0.379-src.zip",
+		"mdk": "/maven/net/minecraftforge/forge/1.4.5-6.4.0.379/forge-1.4.5-6.4.0.379-universal.zip"
+	}
+]
