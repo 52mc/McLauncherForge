@@ -13,7 +13,7 @@ npm install & npm start
 ```
 
 
-# Build
+# Scripts
 
 ```bash
 npm build // build
