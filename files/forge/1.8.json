@@ -509,8 +509,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1502/forge-1.8-11.14.3.1502-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1502/forge-1.8-11.14.3.1502-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1502/forge-1.8-11.14.3.1502-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1502/forge-1.8-11.14.3.1502-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1502/forge-1.8-11.14.3.1502-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1502/forge-1.8-11.14.3.1502-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1502/forge-1.8-11.14.3.1502-src.zip"
 	},
 	{
 		"version": "11.14.3.1501",
@@ -518,8 +518,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1501/forge-1.8-11.14.3.1501-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1501/forge-1.8-11.14.3.1501-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1501/forge-1.8-11.14.3.1501-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1501/forge-1.8-11.14.3.1501-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1501/forge-1.8-11.14.3.1501-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1501/forge-1.8-11.14.3.1501-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1501/forge-1.8-11.14.3.1501-src.zip"
 	},
 	{
 		"version": "11.14.3.1500",
@@ -527,8 +527,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1500/forge-1.8-11.14.3.1500-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1500/forge-1.8-11.14.3.1500-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1500/forge-1.8-11.14.3.1500-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1500/forge-1.8-11.14.3.1500-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1500/forge-1.8-11.14.3.1500-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1500/forge-1.8-11.14.3.1500-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1500/forge-1.8-11.14.3.1500-src.zip"
 	},
 	{
 		"version": "11.14.3.1499",
@@ -536,8 +536,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1499/forge-1.8-11.14.3.1499-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1499/forge-1.8-11.14.3.1499-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1499/forge-1.8-11.14.3.1499-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1499/forge-1.8-11.14.3.1499-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1499/forge-1.8-11.14.3.1499-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1499/forge-1.8-11.14.3.1499-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1499/forge-1.8-11.14.3.1499-src.zip"
 	},
 	{
 		"version": "11.14.3.1498",
@@ -545,8 +545,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1498/forge-1.8-11.14.3.1498-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1498/forge-1.8-11.14.3.1498-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1498/forge-1.8-11.14.3.1498-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1498/forge-1.8-11.14.3.1498-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1498/forge-1.8-11.14.3.1498-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1498/forge-1.8-11.14.3.1498-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1498/forge-1.8-11.14.3.1498-src.zip"
 	},
 	{
 		"version": "11.14.3.1497",
@@ -554,8 +554,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1497/forge-1.8-11.14.3.1497-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1497/forge-1.8-11.14.3.1497-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1497/forge-1.8-11.14.3.1497-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1497/forge-1.8-11.14.3.1497-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1497/forge-1.8-11.14.3.1497-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1497/forge-1.8-11.14.3.1497-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1497/forge-1.8-11.14.3.1497-src.zip"
 	},
 	{
 		"version": "11.14.3.1496",
@@ -563,8 +563,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1496/forge-1.8-11.14.3.1496-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1496/forge-1.8-11.14.3.1496-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1496/forge-1.8-11.14.3.1496-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1496/forge-1.8-11.14.3.1496-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1496/forge-1.8-11.14.3.1496-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1496/forge-1.8-11.14.3.1496-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1496/forge-1.8-11.14.3.1496-src.zip"
 	},
 	{
 		"version": "11.14.3.1495",
@@ -572,8 +572,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1495/forge-1.8-11.14.3.1495-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1495/forge-1.8-11.14.3.1495-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1495/forge-1.8-11.14.3.1495-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1495/forge-1.8-11.14.3.1495-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1495/forge-1.8-11.14.3.1495-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1495/forge-1.8-11.14.3.1495-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1495/forge-1.8-11.14.3.1495-src.zip"
 	},
 	{
 		"version": "11.14.3.1494",
@@ -581,8 +581,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1494/forge-1.8-11.14.3.1494-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1494/forge-1.8-11.14.3.1494-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1494/forge-1.8-11.14.3.1494-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1494/forge-1.8-11.14.3.1494-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1494/forge-1.8-11.14.3.1494-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1494/forge-1.8-11.14.3.1494-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1494/forge-1.8-11.14.3.1494-src.zip"
 	},
 	{
 		"version": "11.14.3.1493",
@@ -590,8 +590,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1493/forge-1.8-11.14.3.1493-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1493/forge-1.8-11.14.3.1493-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1493/forge-1.8-11.14.3.1493-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1493/forge-1.8-11.14.3.1493-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1493/forge-1.8-11.14.3.1493-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1493/forge-1.8-11.14.3.1493-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1493/forge-1.8-11.14.3.1493-src.zip"
 	},
 	{
 		"version": "11.14.3.1491",
@@ -599,8 +599,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1491/forge-1.8-11.14.3.1491-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1491/forge-1.8-11.14.3.1491-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1491/forge-1.8-11.14.3.1491-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1491/forge-1.8-11.14.3.1491-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1491/forge-1.8-11.14.3.1491-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1491/forge-1.8-11.14.3.1491-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1491/forge-1.8-11.14.3.1491-src.zip"
 	},
 	{
 		"version": "11.14.3.1487",
@@ -608,8 +608,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1487/forge-1.8-11.14.3.1487-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1487/forge-1.8-11.14.3.1487-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1487/forge-1.8-11.14.3.1487-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1487/forge-1.8-11.14.3.1487-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1487/forge-1.8-11.14.3.1487-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1487/forge-1.8-11.14.3.1487-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1487/forge-1.8-11.14.3.1487-src.zip"
 	},
 	{
 		"version": "11.14.3.1486",
@@ -617,8 +617,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1486/forge-1.8-11.14.3.1486-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1486/forge-1.8-11.14.3.1486-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1486/forge-1.8-11.14.3.1486-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1486/forge-1.8-11.14.3.1486-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1486/forge-1.8-11.14.3.1486-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1486/forge-1.8-11.14.3.1486-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1486/forge-1.8-11.14.3.1486-src.zip"
 	},
 	{
 		"version": "11.14.3.1485",
@@ -626,8 +626,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1485/forge-1.8-11.14.3.1485-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1485/forge-1.8-11.14.3.1485-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1485/forge-1.8-11.14.3.1485-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1485/forge-1.8-11.14.3.1485-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1485/forge-1.8-11.14.3.1485-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1485/forge-1.8-11.14.3.1485-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1485/forge-1.8-11.14.3.1485-src.zip"
 	},
 	{
 		"version": "11.14.3.1484",
@@ -635,8 +635,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1484/forge-1.8-11.14.3.1484-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1484/forge-1.8-11.14.3.1484-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1484/forge-1.8-11.14.3.1484-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1484/forge-1.8-11.14.3.1484-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1484/forge-1.8-11.14.3.1484-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1484/forge-1.8-11.14.3.1484-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1484/forge-1.8-11.14.3.1484-src.zip"
 	},
 	{
 		"version": "11.14.3.1483",
@@ -644,8 +644,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1483/forge-1.8-11.14.3.1483-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1483/forge-1.8-11.14.3.1483-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1483/forge-1.8-11.14.3.1483-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1483/forge-1.8-11.14.3.1483-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1483/forge-1.8-11.14.3.1483-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1483/forge-1.8-11.14.3.1483-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1483/forge-1.8-11.14.3.1483-src.zip"
 	},
 	{
 		"version": "11.14.3.1482",
@@ -653,8 +653,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1482/forge-1.8-11.14.3.1482-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1482/forge-1.8-11.14.3.1482-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1482/forge-1.8-11.14.3.1482-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1482/forge-1.8-11.14.3.1482-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1482/forge-1.8-11.14.3.1482-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1482/forge-1.8-11.14.3.1482-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1482/forge-1.8-11.14.3.1482-src.zip"
 	},
 	{
 		"version": "11.14.3.1480",
@@ -662,8 +662,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1480/forge-1.8-11.14.3.1480-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1480/forge-1.8-11.14.3.1480-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1480/forge-1.8-11.14.3.1480-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1480/forge-1.8-11.14.3.1480-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1480/forge-1.8-11.14.3.1480-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1480/forge-1.8-11.14.3.1480-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1480/forge-1.8-11.14.3.1480-src.zip"
 	},
 	{
 		"version": "11.14.3.1479",
@@ -671,8 +671,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1479/forge-1.8-11.14.3.1479-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1479/forge-1.8-11.14.3.1479-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1479/forge-1.8-11.14.3.1479-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1479/forge-1.8-11.14.3.1479-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1479/forge-1.8-11.14.3.1479-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1479/forge-1.8-11.14.3.1479-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1479/forge-1.8-11.14.3.1479-src.zip"
 	},
 	{
 		"version": "11.14.3.1476",
@@ -680,8 +680,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1476/forge-1.8-11.14.3.1476-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1476/forge-1.8-11.14.3.1476-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1476/forge-1.8-11.14.3.1476-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1476/forge-1.8-11.14.3.1476-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1476/forge-1.8-11.14.3.1476-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1476/forge-1.8-11.14.3.1476-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1476/forge-1.8-11.14.3.1476-src.zip"
 	},
 	{
 		"version": "11.14.3.1475",
@@ -689,8 +689,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1475/forge-1.8-11.14.3.1475-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1475/forge-1.8-11.14.3.1475-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1475/forge-1.8-11.14.3.1475-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1475/forge-1.8-11.14.3.1475-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1475/forge-1.8-11.14.3.1475-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1475/forge-1.8-11.14.3.1475-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1475/forge-1.8-11.14.3.1475-src.zip"
 	},
 	{
 		"version": "11.14.3.1474",
@@ -698,8 +698,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1474/forge-1.8-11.14.3.1474-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1474/forge-1.8-11.14.3.1474-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1474/forge-1.8-11.14.3.1474-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1474/forge-1.8-11.14.3.1474-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1474/forge-1.8-11.14.3.1474-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1474/forge-1.8-11.14.3.1474-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1474/forge-1.8-11.14.3.1474-src.zip"
 	},
 	{
 		"version": "11.14.3.1473",
@@ -707,8 +707,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1473/forge-1.8-11.14.3.1473-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1473/forge-1.8-11.14.3.1473-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1473/forge-1.8-11.14.3.1473-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1473/forge-1.8-11.14.3.1473-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1473/forge-1.8-11.14.3.1473-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1473/forge-1.8-11.14.3.1473-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1473/forge-1.8-11.14.3.1473-src.zip"
 	},
 	{
 		"version": "11.14.3.1468",
@@ -716,8 +716,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1468/forge-1.8-11.14.3.1468-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1468/forge-1.8-11.14.3.1468-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1468/forge-1.8-11.14.3.1468-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1468/forge-1.8-11.14.3.1468-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1468/forge-1.8-11.14.3.1468-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1468/forge-1.8-11.14.3.1468-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1468/forge-1.8-11.14.3.1468-src.zip"
 	},
 	{
 		"version": "11.14.3.1467",
@@ -725,8 +725,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1467/forge-1.8-11.14.3.1467-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1467/forge-1.8-11.14.3.1467-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1467/forge-1.8-11.14.3.1467-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1467/forge-1.8-11.14.3.1467-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1467/forge-1.8-11.14.3.1467-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1467/forge-1.8-11.14.3.1467-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1467/forge-1.8-11.14.3.1467-src.zip"
 	},
 	{
 		"version": "11.14.3.1466",
@@ -734,8 +734,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1466/forge-1.8-11.14.3.1466-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1466/forge-1.8-11.14.3.1466-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1466/forge-1.8-11.14.3.1466-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1466/forge-1.8-11.14.3.1466-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1466/forge-1.8-11.14.3.1466-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1466/forge-1.8-11.14.3.1466-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1466/forge-1.8-11.14.3.1466-src.zip"
 	},
 	{
 		"version": "11.14.3.1465",
@@ -743,8 +743,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1465/forge-1.8-11.14.3.1465-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1465/forge-1.8-11.14.3.1465-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1465/forge-1.8-11.14.3.1465-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1465/forge-1.8-11.14.3.1465-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1465/forge-1.8-11.14.3.1465-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1465/forge-1.8-11.14.3.1465-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1465/forge-1.8-11.14.3.1465-src.zip"
 	},
 	{
 		"version": "11.14.3.1464",
@@ -752,8 +752,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1464/forge-1.8-11.14.3.1464-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1464/forge-1.8-11.14.3.1464-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1464/forge-1.8-11.14.3.1464-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1464/forge-1.8-11.14.3.1464-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1464/forge-1.8-11.14.3.1464-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1464/forge-1.8-11.14.3.1464-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1464/forge-1.8-11.14.3.1464-src.zip"
 	},
 	{
 		"version": "11.14.3.1463",
@@ -761,8 +761,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1463/forge-1.8-11.14.3.1463-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1463/forge-1.8-11.14.3.1463-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1463/forge-1.8-11.14.3.1463-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1463/forge-1.8-11.14.3.1463-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1463/forge-1.8-11.14.3.1463-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1463/forge-1.8-11.14.3.1463-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1463/forge-1.8-11.14.3.1463-src.zip"
 	},
 	{
 		"version": "11.14.3.1462",
@@ -770,8 +770,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1462/forge-1.8-11.14.3.1462-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1462/forge-1.8-11.14.3.1462-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1462/forge-1.8-11.14.3.1462-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1462/forge-1.8-11.14.3.1462-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1462/forge-1.8-11.14.3.1462-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1462/forge-1.8-11.14.3.1462-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1462/forge-1.8-11.14.3.1462-src.zip"
 	},
 	{
 		"version": "11.14.3.1461",
@@ -779,8 +779,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1461/forge-1.8-11.14.3.1461-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1461/forge-1.8-11.14.3.1461-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1461/forge-1.8-11.14.3.1461-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1461/forge-1.8-11.14.3.1461-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1461/forge-1.8-11.14.3.1461-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1461/forge-1.8-11.14.3.1461-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1461/forge-1.8-11.14.3.1461-src.zip"
 	},
 	{
 		"version": "11.14.3.1460",
@@ -788,8 +788,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1460/forge-1.8-11.14.3.1460-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1460/forge-1.8-11.14.3.1460-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1460/forge-1.8-11.14.3.1460-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1460/forge-1.8-11.14.3.1460-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1460/forge-1.8-11.14.3.1460-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1460/forge-1.8-11.14.3.1460-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1460/forge-1.8-11.14.3.1460-src.zip"
 	},
 	{
 		"version": "11.14.3.1459",
@@ -797,8 +797,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1459/forge-1.8-11.14.3.1459-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1459/forge-1.8-11.14.3.1459-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1459/forge-1.8-11.14.3.1459-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1459/forge-1.8-11.14.3.1459-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1459/forge-1.8-11.14.3.1459-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1459/forge-1.8-11.14.3.1459-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1459/forge-1.8-11.14.3.1459-src.zip"
 	},
 	{
 		"version": "11.14.3.1458",
@@ -806,8 +806,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1458/forge-1.8-11.14.3.1458-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1458/forge-1.8-11.14.3.1458-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1458/forge-1.8-11.14.3.1458-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1458/forge-1.8-11.14.3.1458-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1458/forge-1.8-11.14.3.1458-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1458/forge-1.8-11.14.3.1458-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1458/forge-1.8-11.14.3.1458-src.zip"
 	},
 	{
 		"version": "11.14.3.1457",
@@ -815,8 +815,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1457/forge-1.8-11.14.3.1457-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1457/forge-1.8-11.14.3.1457-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1457/forge-1.8-11.14.3.1457-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1457/forge-1.8-11.14.3.1457-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1457/forge-1.8-11.14.3.1457-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1457/forge-1.8-11.14.3.1457-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1457/forge-1.8-11.14.3.1457-src.zip"
 	},
 	{
 		"version": "11.14.3.1453",
@@ -824,8 +824,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1453/forge-1.8-11.14.3.1453-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1453/forge-1.8-11.14.3.1453-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1453/forge-1.8-11.14.3.1453-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1453/forge-1.8-11.14.3.1453-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1453/forge-1.8-11.14.3.1453-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1453/forge-1.8-11.14.3.1453-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1453/forge-1.8-11.14.3.1453-src.zip"
 	},
 	{
 		"version": "11.14.3.1450",
@@ -833,8 +833,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1450/forge-1.8-11.14.3.1450-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1450/forge-1.8-11.14.3.1450-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1450/forge-1.8-11.14.3.1450-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1450/forge-1.8-11.14.3.1450-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1450/forge-1.8-11.14.3.1450-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1450/forge-1.8-11.14.3.1450-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1450/forge-1.8-11.14.3.1450-src.zip"
 	},
 	{
 		"version": "11.14.3.1449",
@@ -842,8 +842,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1449/forge-1.8-11.14.3.1449-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1449/forge-1.8-11.14.3.1449-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1449/forge-1.8-11.14.3.1449-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1449/forge-1.8-11.14.3.1449-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1449/forge-1.8-11.14.3.1449-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1449/forge-1.8-11.14.3.1449-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1449/forge-1.8-11.14.3.1449-src.zip"
 	},
 	{
 		"version": "11.14.3.1446",
@@ -851,8 +851,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.3.1446/forge-1.8-11.14.3.1446-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.3.1446/forge-1.8-11.14.3.1446-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.3.1446/forge-1.8-11.14.3.1446-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.3.1446/forge-1.8-11.14.3.1446-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1446/forge-1.8-11.14.3.1446-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.3.1446/forge-1.8-11.14.3.1446-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.3.1446/forge-1.8-11.14.3.1446-src.zip"
 	},
 	{
 		"version": "11.14.2.1444",
@@ -860,8 +860,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1444/forge-1.8-11.14.2.1444-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1444/forge-1.8-11.14.2.1444-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1444/forge-1.8-11.14.2.1444-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1444/forge-1.8-11.14.2.1444-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1444/forge-1.8-11.14.2.1444-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1444/forge-1.8-11.14.2.1444-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1444/forge-1.8-11.14.2.1444-src.zip"
 	},
 	{
 		"version": "11.14.2.1443",
@@ -869,8 +869,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1443/forge-1.8-11.14.2.1443-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1443/forge-1.8-11.14.2.1443-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1443/forge-1.8-11.14.2.1443-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1443/forge-1.8-11.14.2.1443-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1443/forge-1.8-11.14.2.1443-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1443/forge-1.8-11.14.2.1443-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1443/forge-1.8-11.14.2.1443-src.zip"
 	},
 	{
 		"version": "11.14.2.1442",
@@ -878,8 +878,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1442/forge-1.8-11.14.2.1442-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1442/forge-1.8-11.14.2.1442-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1442/forge-1.8-11.14.2.1442-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1442/forge-1.8-11.14.2.1442-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1442/forge-1.8-11.14.2.1442-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1442/forge-1.8-11.14.2.1442-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1442/forge-1.8-11.14.2.1442-src.zip"
 	},
 	{
 		"version": "11.14.2.1441",
@@ -887,8 +887,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1441/forge-1.8-11.14.2.1441-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1441/forge-1.8-11.14.2.1441-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1441/forge-1.8-11.14.2.1441-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1441/forge-1.8-11.14.2.1441-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1441/forge-1.8-11.14.2.1441-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1441/forge-1.8-11.14.2.1441-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1441/forge-1.8-11.14.2.1441-src.zip"
 	},
 	{
 		"version": "11.14.2.1440",
@@ -896,8 +896,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1440/forge-1.8-11.14.2.1440-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1440/forge-1.8-11.14.2.1440-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1440/forge-1.8-11.14.2.1440-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1440/forge-1.8-11.14.2.1440-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1440/forge-1.8-11.14.2.1440-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1440/forge-1.8-11.14.2.1440-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1440/forge-1.8-11.14.2.1440-src.zip"
 	},
 	{
 		"version": "11.14.2.1439",
@@ -905,8 +905,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1439/forge-1.8-11.14.2.1439-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1439/forge-1.8-11.14.2.1439-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1439/forge-1.8-11.14.2.1439-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1439/forge-1.8-11.14.2.1439-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1439/forge-1.8-11.14.2.1439-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1439/forge-1.8-11.14.2.1439-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1439/forge-1.8-11.14.2.1439-src.zip"
 	},
 	{
 		"version": "11.14.2.1437",
@@ -914,8 +914,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1437/forge-1.8-11.14.2.1437-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1437/forge-1.8-11.14.2.1437-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1437/forge-1.8-11.14.2.1437-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1437/forge-1.8-11.14.2.1437-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1437/forge-1.8-11.14.2.1437-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1437/forge-1.8-11.14.2.1437-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1437/forge-1.8-11.14.2.1437-src.zip"
 	},
 	{
 		"version": "11.14.2.1436",
@@ -923,8 +923,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1436/forge-1.8-11.14.2.1436-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1436/forge-1.8-11.14.2.1436-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1436/forge-1.8-11.14.2.1436-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1436/forge-1.8-11.14.2.1436-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1436/forge-1.8-11.14.2.1436-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1436/forge-1.8-11.14.2.1436-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1436/forge-1.8-11.14.2.1436-src.zip"
 	},
 	{
 		"version": "11.14.2.1435",
@@ -932,8 +932,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1435/forge-1.8-11.14.2.1435-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1435/forge-1.8-11.14.2.1435-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1435/forge-1.8-11.14.2.1435-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1435/forge-1.8-11.14.2.1435-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1435/forge-1.8-11.14.2.1435-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1435/forge-1.8-11.14.2.1435-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1435/forge-1.8-11.14.2.1435-src.zip"
 	},
 	{
 		"version": "11.14.2.1434",
@@ -941,8 +941,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1434/forge-1.8-11.14.2.1434-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1434/forge-1.8-11.14.2.1434-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1434/forge-1.8-11.14.2.1434-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1434/forge-1.8-11.14.2.1434-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1434/forge-1.8-11.14.2.1434-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1434/forge-1.8-11.14.2.1434-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1434/forge-1.8-11.14.2.1434-src.zip"
 	},
 	{
 		"version": "11.14.2.1433",
@@ -950,8 +950,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1433/forge-1.8-11.14.2.1433-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1433/forge-1.8-11.14.2.1433-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1433/forge-1.8-11.14.2.1433-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1433/forge-1.8-11.14.2.1433-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1433/forge-1.8-11.14.2.1433-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1433/forge-1.8-11.14.2.1433-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1433/forge-1.8-11.14.2.1433-src.zip"
 	},
 	{
 		"version": "11.14.2.1431",
@@ -959,8 +959,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1431/forge-1.8-11.14.2.1431-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1431/forge-1.8-11.14.2.1431-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1431/forge-1.8-11.14.2.1431-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1431/forge-1.8-11.14.2.1431-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1431/forge-1.8-11.14.2.1431-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1431/forge-1.8-11.14.2.1431-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1431/forge-1.8-11.14.2.1431-src.zip"
 	},
 	{
 		"version": "11.14.2.1430",
@@ -968,8 +968,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1430/forge-1.8-11.14.2.1430-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1430/forge-1.8-11.14.2.1430-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1430/forge-1.8-11.14.2.1430-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1430/forge-1.8-11.14.2.1430-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1430/forge-1.8-11.14.2.1430-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1430/forge-1.8-11.14.2.1430-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1430/forge-1.8-11.14.2.1430-src.zip"
 	},
 	{
 		"version": "11.14.2.1429",
@@ -977,8 +977,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1429/forge-1.8-11.14.2.1429-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1429/forge-1.8-11.14.2.1429-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1429/forge-1.8-11.14.2.1429-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1429/forge-1.8-11.14.2.1429-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1429/forge-1.8-11.14.2.1429-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1429/forge-1.8-11.14.2.1429-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1429/forge-1.8-11.14.2.1429-src.zip"
 	},
 	{
 		"version": "11.14.2.1427",
@@ -986,8 +986,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1427/forge-1.8-11.14.2.1427-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1427/forge-1.8-11.14.2.1427-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1427/forge-1.8-11.14.2.1427-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1427/forge-1.8-11.14.2.1427-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1427/forge-1.8-11.14.2.1427-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1427/forge-1.8-11.14.2.1427-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1427/forge-1.8-11.14.2.1427-src.zip"
 	},
 	{
 		"version": "11.14.2.1426",
@@ -995,8 +995,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1426/forge-1.8-11.14.2.1426-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1426/forge-1.8-11.14.2.1426-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1426/forge-1.8-11.14.2.1426-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1426/forge-1.8-11.14.2.1426-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1426/forge-1.8-11.14.2.1426-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1426/forge-1.8-11.14.2.1426-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1426/forge-1.8-11.14.2.1426-src.zip"
 	},
 	{
 		"version": "11.14.2.1423",
@@ -1004,8 +1004,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1423/forge-1.8-11.14.2.1423-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1423/forge-1.8-11.14.2.1423-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1423/forge-1.8-11.14.2.1423-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1423/forge-1.8-11.14.2.1423-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1423/forge-1.8-11.14.2.1423-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1423/forge-1.8-11.14.2.1423-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1423/forge-1.8-11.14.2.1423-src.zip"
 	},
 	{
 		"version": "11.14.2.1421",
@@ -1013,8 +1013,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.2.1421/forge-1.8-11.14.2.1421-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.2.1421/forge-1.8-11.14.2.1421-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.2.1421/forge-1.8-11.14.2.1421-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.2.1421/forge-1.8-11.14.2.1421-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1421/forge-1.8-11.14.2.1421-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.2.1421/forge-1.8-11.14.2.1421-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.2.1421/forge-1.8-11.14.2.1421-src.zip"
 	},
 	{
 		"version": "11.14.1.1419",
@@ -1022,8 +1022,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1419/forge-1.8-11.14.1.1419-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1419/forge-1.8-11.14.1.1419-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1419/forge-1.8-11.14.1.1419-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1419/forge-1.8-11.14.1.1419-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1419/forge-1.8-11.14.1.1419-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1419/forge-1.8-11.14.1.1419-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1419/forge-1.8-11.14.1.1419-src.zip"
 	},
 	{
 		"version": "11.14.1.1418",
@@ -1031,8 +1031,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1418/forge-1.8-11.14.1.1418-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1418/forge-1.8-11.14.1.1418-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1418/forge-1.8-11.14.1.1418-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1418/forge-1.8-11.14.1.1418-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1418/forge-1.8-11.14.1.1418-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1418/forge-1.8-11.14.1.1418-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1418/forge-1.8-11.14.1.1418-src.zip"
 	},
 	{
 		"version": "11.14.1.1417",
@@ -1040,8 +1040,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1417/forge-1.8-11.14.1.1417-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1417/forge-1.8-11.14.1.1417-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1417/forge-1.8-11.14.1.1417-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1417/forge-1.8-11.14.1.1417-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1417/forge-1.8-11.14.1.1417-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1417/forge-1.8-11.14.1.1417-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1417/forge-1.8-11.14.1.1417-src.zip"
 	},
 	{
 		"version": "11.14.1.1416",
@@ -1049,8 +1049,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1416/forge-1.8-11.14.1.1416-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1416/forge-1.8-11.14.1.1416-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1416/forge-1.8-11.14.1.1416-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1416/forge-1.8-11.14.1.1416-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1416/forge-1.8-11.14.1.1416-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1416/forge-1.8-11.14.1.1416-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1416/forge-1.8-11.14.1.1416-src.zip"
 	},
 	{
 		"version": "11.14.1.1415",
@@ -1058,8 +1058,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1415/forge-1.8-11.14.1.1415-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1415/forge-1.8-11.14.1.1415-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1415/forge-1.8-11.14.1.1415-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1415/forge-1.8-11.14.1.1415-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1415/forge-1.8-11.14.1.1415-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1415/forge-1.8-11.14.1.1415-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1415/forge-1.8-11.14.1.1415-src.zip"
 	},
 	{
 		"version": "11.14.1.1414",
@@ -1067,8 +1067,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1414/forge-1.8-11.14.1.1414-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1414/forge-1.8-11.14.1.1414-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1414/forge-1.8-11.14.1.1414-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1414/forge-1.8-11.14.1.1414-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1414/forge-1.8-11.14.1.1414-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1414/forge-1.8-11.14.1.1414-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1414/forge-1.8-11.14.1.1414-src.zip"
 	},
 	{
 		"version": "11.14.1.1413",
@@ -1076,8 +1076,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1413/forge-1.8-11.14.1.1413-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1413/forge-1.8-11.14.1.1413-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1413/forge-1.8-11.14.1.1413-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1413/forge-1.8-11.14.1.1413-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1413/forge-1.8-11.14.1.1413-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1413/forge-1.8-11.14.1.1413-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1413/forge-1.8-11.14.1.1413-src.zip"
 	},
 	{
 		"version": "11.14.1.1412",
@@ -1085,8 +1085,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1412/forge-1.8-11.14.1.1412-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1412/forge-1.8-11.14.1.1412-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1412/forge-1.8-11.14.1.1412-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1412/forge-1.8-11.14.1.1412-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1412/forge-1.8-11.14.1.1412-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1412/forge-1.8-11.14.1.1412-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1412/forge-1.8-11.14.1.1412-src.zip"
 	},
 	{
 		"version": "11.14.1.1411",
@@ -1094,8 +1094,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1411/forge-1.8-11.14.1.1411-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1411/forge-1.8-11.14.1.1411-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1411/forge-1.8-11.14.1.1411-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1411/forge-1.8-11.14.1.1411-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1411/forge-1.8-11.14.1.1411-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1411/forge-1.8-11.14.1.1411-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1411/forge-1.8-11.14.1.1411-src.zip"
 	},
 	{
 		"version": "11.14.1.1410",
@@ -1103,8 +1103,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1410/forge-1.8-11.14.1.1410-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1410/forge-1.8-11.14.1.1410-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1410/forge-1.8-11.14.1.1410-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1410/forge-1.8-11.14.1.1410-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1410/forge-1.8-11.14.1.1410-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1410/forge-1.8-11.14.1.1410-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1410/forge-1.8-11.14.1.1410-src.zip"
 	},
 	{
 		"version": "11.14.1.1409",
@@ -1112,8 +1112,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1409/forge-1.8-11.14.1.1409-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1409/forge-1.8-11.14.1.1409-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1409/forge-1.8-11.14.1.1409-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1409/forge-1.8-11.14.1.1409-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1409/forge-1.8-11.14.1.1409-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1409/forge-1.8-11.14.1.1409-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1409/forge-1.8-11.14.1.1409-src.zip"
 	},
 	{
 		"version": "11.14.1.1405",
@@ -1121,8 +1121,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1405/forge-1.8-11.14.1.1405-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1405/forge-1.8-11.14.1.1405-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1405/forge-1.8-11.14.1.1405-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1405/forge-1.8-11.14.1.1405-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1405/forge-1.8-11.14.1.1405-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1405/forge-1.8-11.14.1.1405-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1405/forge-1.8-11.14.1.1405-src.zip"
 	},
 	{
 		"version": "11.14.1.1404",
@@ -1130,8 +1130,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1404/forge-1.8-11.14.1.1404-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1404/forge-1.8-11.14.1.1404-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1404/forge-1.8-11.14.1.1404-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1404/forge-1.8-11.14.1.1404-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1404/forge-1.8-11.14.1.1404-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1404/forge-1.8-11.14.1.1404-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1404/forge-1.8-11.14.1.1404-src.zip"
 	},
 	{
 		"version": "11.14.1.1402",
@@ -1139,8 +1139,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1402/forge-1.8-11.14.1.1402-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1402/forge-1.8-11.14.1.1402-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1402/forge-1.8-11.14.1.1402-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1402/forge-1.8-11.14.1.1402-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1402/forge-1.8-11.14.1.1402-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1402/forge-1.8-11.14.1.1402-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1402/forge-1.8-11.14.1.1402-src.zip"
 	},
 	{
 		"version": "11.14.1.1398",
@@ -1148,8 +1148,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1398/forge-1.8-11.14.1.1398-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1398/forge-1.8-11.14.1.1398-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1398/forge-1.8-11.14.1.1398-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1398/forge-1.8-11.14.1.1398-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1398/forge-1.8-11.14.1.1398-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1398/forge-1.8-11.14.1.1398-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1398/forge-1.8-11.14.1.1398-src.zip"
 	},
 	{
 		"version": "11.14.1.1397",
@@ -1157,8 +1157,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1397/forge-1.8-11.14.1.1397-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1397/forge-1.8-11.14.1.1397-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1397/forge-1.8-11.14.1.1397-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1397/forge-1.8-11.14.1.1397-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1397/forge-1.8-11.14.1.1397-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1397/forge-1.8-11.14.1.1397-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1397/forge-1.8-11.14.1.1397-src.zip"
 	},
 	{
 		"version": "11.14.1.1396",
@@ -1166,8 +1166,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1396/forge-1.8-11.14.1.1396-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1396/forge-1.8-11.14.1.1396-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1396/forge-1.8-11.14.1.1396-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1396/forge-1.8-11.14.1.1396-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1396/forge-1.8-11.14.1.1396-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1396/forge-1.8-11.14.1.1396-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1396/forge-1.8-11.14.1.1396-src.zip"
 	},
 	{
 		"version": "11.14.1.1392",
@@ -1175,8 +1175,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1392/forge-1.8-11.14.1.1392-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1392/forge-1.8-11.14.1.1392-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1392/forge-1.8-11.14.1.1392-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1392/forge-1.8-11.14.1.1392-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1392/forge-1.8-11.14.1.1392-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1392/forge-1.8-11.14.1.1392-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1392/forge-1.8-11.14.1.1392-src.zip"
 	},
 	{
 		"version": "11.14.1.1390",
@@ -1184,8 +1184,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1390/forge-1.8-11.14.1.1390-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1390/forge-1.8-11.14.1.1390-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1390/forge-1.8-11.14.1.1390-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1390/forge-1.8-11.14.1.1390-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1390/forge-1.8-11.14.1.1390-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1390/forge-1.8-11.14.1.1390-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1390/forge-1.8-11.14.1.1390-src.zip"
 	},
 	{
 		"version": "11.14.1.1375",
@@ -1193,8 +1193,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1375/forge-1.8-11.14.1.1375-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1375/forge-1.8-11.14.1.1375-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1375/forge-1.8-11.14.1.1375-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1375/forge-1.8-11.14.1.1375-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1375/forge-1.8-11.14.1.1375-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1375/forge-1.8-11.14.1.1375-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1375/forge-1.8-11.14.1.1375-src.zip"
 	},
 	{
 		"version": "11.14.1.1371",
@@ -1202,8 +1202,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1371/forge-1.8-11.14.1.1371-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1371/forge-1.8-11.14.1.1371-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1371/forge-1.8-11.14.1.1371-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1371/forge-1.8-11.14.1.1371-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1371/forge-1.8-11.14.1.1371-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1371/forge-1.8-11.14.1.1371-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1371/forge-1.8-11.14.1.1371-src.zip"
 	},
 	{
 		"version": "11.14.1.1361",
@@ -1211,8 +1211,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1361/forge-1.8-11.14.1.1361-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1361/forge-1.8-11.14.1.1361-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1361/forge-1.8-11.14.1.1361-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1361/forge-1.8-11.14.1.1361-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1361/forge-1.8-11.14.1.1361-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1361/forge-1.8-11.14.1.1361-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1361/forge-1.8-11.14.1.1361-src.zip"
 	},
 	{
 		"version": "11.14.1.1359",
@@ -1220,8 +1220,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1359/forge-1.8-11.14.1.1359-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1359/forge-1.8-11.14.1.1359-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1359/forge-1.8-11.14.1.1359-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1359/forge-1.8-11.14.1.1359-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1359/forge-1.8-11.14.1.1359-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1359/forge-1.8-11.14.1.1359-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1359/forge-1.8-11.14.1.1359-src.zip"
 	},
 	{
 		"version": "11.14.1.1357",
@@ -1229,8 +1229,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1357/forge-1.8-11.14.1.1357-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1357/forge-1.8-11.14.1.1357-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1357/forge-1.8-11.14.1.1357-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1357/forge-1.8-11.14.1.1357-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1357/forge-1.8-11.14.1.1357-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1357/forge-1.8-11.14.1.1357-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1357/forge-1.8-11.14.1.1357-src.zip"
 	},
 	{
 		"version": "11.14.1.1354",
@@ -1238,8 +1238,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1354/forge-1.8-11.14.1.1354-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1354/forge-1.8-11.14.1.1354-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1354/forge-1.8-11.14.1.1354-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1354/forge-1.8-11.14.1.1354-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1354/forge-1.8-11.14.1.1354-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1354/forge-1.8-11.14.1.1354-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1354/forge-1.8-11.14.1.1354-src.zip"
 	},
 	{
 		"version": "11.14.1.1353",
@@ -1247,8 +1247,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1353/forge-1.8-11.14.1.1353-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1353/forge-1.8-11.14.1.1353-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1353/forge-1.8-11.14.1.1353-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1353/forge-1.8-11.14.1.1353-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1353/forge-1.8-11.14.1.1353-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1353/forge-1.8-11.14.1.1353-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1353/forge-1.8-11.14.1.1353-src.zip"
 	},
 	{
 		"version": "11.14.1.1350",
@@ -1256,8 +1256,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1350/forge-1.8-11.14.1.1350-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1350/forge-1.8-11.14.1.1350-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1350/forge-1.8-11.14.1.1350-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1350/forge-1.8-11.14.1.1350-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1350/forge-1.8-11.14.1.1350-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1350/forge-1.8-11.14.1.1350-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1350/forge-1.8-11.14.1.1350-src.zip"
 	},
 	{
 		"version": "11.14.1.1349",
@@ -1265,8 +1265,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1349/forge-1.8-11.14.1.1349-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1349/forge-1.8-11.14.1.1349-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1349/forge-1.8-11.14.1.1349-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1349/forge-1.8-11.14.1.1349-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1349/forge-1.8-11.14.1.1349-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1349/forge-1.8-11.14.1.1349-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1349/forge-1.8-11.14.1.1349-src.zip"
 	},
 	{
 		"version": "11.14.1.1341",
@@ -1274,8 +1274,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1341/forge-1.8-11.14.1.1341-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1341/forge-1.8-11.14.1.1341-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1341/forge-1.8-11.14.1.1341-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1341/forge-1.8-11.14.1.1341-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1341/forge-1.8-11.14.1.1341-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1341/forge-1.8-11.14.1.1341-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1341/forge-1.8-11.14.1.1341-src.zip"
 	},
 	{
 		"version": "11.14.1.1339",
@@ -1283,8 +1283,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1339/forge-1.8-11.14.1.1339-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1339/forge-1.8-11.14.1.1339-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1339/forge-1.8-11.14.1.1339-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1339/forge-1.8-11.14.1.1339-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1339/forge-1.8-11.14.1.1339-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1339/forge-1.8-11.14.1.1339-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1339/forge-1.8-11.14.1.1339-src.zip"
 	},
 	{
 		"version": "11.14.1.1338",
@@ -1292,8 +1292,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1338/forge-1.8-11.14.1.1338-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1338/forge-1.8-11.14.1.1338-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1338/forge-1.8-11.14.1.1338-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1338/forge-1.8-11.14.1.1338-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1338/forge-1.8-11.14.1.1338-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1338/forge-1.8-11.14.1.1338-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1338/forge-1.8-11.14.1.1338-src.zip"
 	},
 	{
 		"version": "11.14.1.1337",
@@ -1301,8 +1301,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1337/forge-1.8-11.14.1.1337-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1337/forge-1.8-11.14.1.1337-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1337/forge-1.8-11.14.1.1337-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1337/forge-1.8-11.14.1.1337-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1337/forge-1.8-11.14.1.1337-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1337/forge-1.8-11.14.1.1337-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1337/forge-1.8-11.14.1.1337-src.zip"
 	},
 	{
 		"version": "11.14.1.1336",
@@ -1310,8 +1310,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1336/forge-1.8-11.14.1.1336-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1336/forge-1.8-11.14.1.1336-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1336/forge-1.8-11.14.1.1336-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1336/forge-1.8-11.14.1.1336-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1336/forge-1.8-11.14.1.1336-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1336/forge-1.8-11.14.1.1336-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1336/forge-1.8-11.14.1.1336-src.zip"
 	},
 	{
 		"version": "11.14.1.1335",
@@ -1319,8 +1319,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1335/forge-1.8-11.14.1.1335-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1335/forge-1.8-11.14.1.1335-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1335/forge-1.8-11.14.1.1335-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1335/forge-1.8-11.14.1.1335-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1335/forge-1.8-11.14.1.1335-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1335/forge-1.8-11.14.1.1335-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1335/forge-1.8-11.14.1.1335-src.zip"
 	},
 	{
 		"version": "11.14.1.1334",
@@ -1328,8 +1328,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1334/forge-1.8-11.14.1.1334-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1334/forge-1.8-11.14.1.1334-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1334/forge-1.8-11.14.1.1334-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1334/forge-1.8-11.14.1.1334-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1334/forge-1.8-11.14.1.1334-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1334/forge-1.8-11.14.1.1334-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1334/forge-1.8-11.14.1.1334-src.zip"
 	},
 	{
 		"version": "11.14.1.1333",
@@ -1337,8 +1337,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1333/forge-1.8-11.14.1.1333-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1333/forge-1.8-11.14.1.1333-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1333/forge-1.8-11.14.1.1333-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1333/forge-1.8-11.14.1.1333-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1333/forge-1.8-11.14.1.1333-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1333/forge-1.8-11.14.1.1333-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1333/forge-1.8-11.14.1.1333-src.zip"
 	},
 	{
 		"version": "11.14.1.1332",
@@ -1346,8 +1346,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1332/forge-1.8-11.14.1.1332-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1332/forge-1.8-11.14.1.1332-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1332/forge-1.8-11.14.1.1332-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1332/forge-1.8-11.14.1.1332-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1332/forge-1.8-11.14.1.1332-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1332/forge-1.8-11.14.1.1332-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1332/forge-1.8-11.14.1.1332-src.zip"
 	},
 	{
 		"version": "11.14.1.1329",
@@ -1355,8 +1355,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1329/forge-1.8-11.14.1.1329-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1329/forge-1.8-11.14.1.1329-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1329/forge-1.8-11.14.1.1329-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1329/forge-1.8-11.14.1.1329-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1329/forge-1.8-11.14.1.1329-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1329/forge-1.8-11.14.1.1329-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1329/forge-1.8-11.14.1.1329-src.zip"
 	},
 	{
 		"version": "11.14.1.1328",
@@ -1364,8 +1364,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1328/forge-1.8-11.14.1.1328-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1328/forge-1.8-11.14.1.1328-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1328/forge-1.8-11.14.1.1328-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1328/forge-1.8-11.14.1.1328-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1328/forge-1.8-11.14.1.1328-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1328/forge-1.8-11.14.1.1328-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1328/forge-1.8-11.14.1.1328-src.zip"
 	},
 	{
 		"version": "11.14.1.1327",
@@ -1373,8 +1373,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1327/forge-1.8-11.14.1.1327-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1327/forge-1.8-11.14.1.1327-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1327/forge-1.8-11.14.1.1327-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1327/forge-1.8-11.14.1.1327-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1327/forge-1.8-11.14.1.1327-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1327/forge-1.8-11.14.1.1327-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1327/forge-1.8-11.14.1.1327-src.zip"
 	},
 	{
 		"version": "11.14.1.1326",
@@ -1382,8 +1382,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1326/forge-1.8-11.14.1.1326-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1326/forge-1.8-11.14.1.1326-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1326/forge-1.8-11.14.1.1326-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1326/forge-1.8-11.14.1.1326-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1326/forge-1.8-11.14.1.1326-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1326/forge-1.8-11.14.1.1326-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1326/forge-1.8-11.14.1.1326-src.zip"
 	},
 	{
 		"version": "11.14.1.1325",
@@ -1391,8 +1391,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1325/forge-1.8-11.14.1.1325-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1325/forge-1.8-11.14.1.1325-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1325/forge-1.8-11.14.1.1325-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1325/forge-1.8-11.14.1.1325-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1325/forge-1.8-11.14.1.1325-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1325/forge-1.8-11.14.1.1325-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1325/forge-1.8-11.14.1.1325-src.zip"
 	},
 	{
 		"version": "11.14.1.1324",
@@ -1400,8 +1400,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1324/forge-1.8-11.14.1.1324-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1324/forge-1.8-11.14.1.1324-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1324/forge-1.8-11.14.1.1324-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1324/forge-1.8-11.14.1.1324-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1324/forge-1.8-11.14.1.1324-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1324/forge-1.8-11.14.1.1324-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1324/forge-1.8-11.14.1.1324-src.zip"
 	},
 	{
 		"version": "11.14.1.1323",
@@ -1409,8 +1409,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1323/forge-1.8-11.14.1.1323-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1323/forge-1.8-11.14.1.1323-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1323/forge-1.8-11.14.1.1323-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1323/forge-1.8-11.14.1.1323-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1323/forge-1.8-11.14.1.1323-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1323/forge-1.8-11.14.1.1323-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1323/forge-1.8-11.14.1.1323-src.zip"
 	},
 	{
 		"version": "11.14.1.1322",
@@ -1418,8 +1418,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1322/forge-1.8-11.14.1.1322-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1322/forge-1.8-11.14.1.1322-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1322/forge-1.8-11.14.1.1322-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1322/forge-1.8-11.14.1.1322-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1322/forge-1.8-11.14.1.1322-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1322/forge-1.8-11.14.1.1322-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1322/forge-1.8-11.14.1.1322-src.zip"
 	},
 	{
 		"version": "11.14.1.1321",
@@ -1427,8 +1427,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1321/forge-1.8-11.14.1.1321-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1321/forge-1.8-11.14.1.1321-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1321/forge-1.8-11.14.1.1321-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1321/forge-1.8-11.14.1.1321-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1321/forge-1.8-11.14.1.1321-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1321/forge-1.8-11.14.1.1321-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1321/forge-1.8-11.14.1.1321-src.zip"
 	},
 	{
 		"version": "11.14.1.1320",
@@ -1436,8 +1436,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1320/forge-1.8-11.14.1.1320-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1320/forge-1.8-11.14.1.1320-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1320/forge-1.8-11.14.1.1320-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1320/forge-1.8-11.14.1.1320-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1320/forge-1.8-11.14.1.1320-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1320/forge-1.8-11.14.1.1320-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1320/forge-1.8-11.14.1.1320-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1320/forge-1.8-11.14.1.1320-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1319",
@@ -1445,8 +1446,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1319/forge-1.8-11.14.1.1319-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1319/forge-1.8-11.14.1.1319-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1319/forge-1.8-11.14.1.1319-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1319/forge-1.8-11.14.1.1319-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1319/forge-1.8-11.14.1.1319-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1319/forge-1.8-11.14.1.1319-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1319/forge-1.8-11.14.1.1319-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1319/forge-1.8-11.14.1.1319-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1318",
@@ -1454,8 +1456,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1318/forge-1.8-11.14.1.1318-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1318/forge-1.8-11.14.1.1318-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1318/forge-1.8-11.14.1.1318-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1318/forge-1.8-11.14.1.1318-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1318/forge-1.8-11.14.1.1318-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1318/forge-1.8-11.14.1.1318-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1318/forge-1.8-11.14.1.1318-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1318/forge-1.8-11.14.1.1318-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1317",
@@ -1463,8 +1466,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1317/forge-1.8-11.14.1.1317-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1317/forge-1.8-11.14.1.1317-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1317/forge-1.8-11.14.1.1317-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1317/forge-1.8-11.14.1.1317-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1317/forge-1.8-11.14.1.1317-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1317/forge-1.8-11.14.1.1317-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1317/forge-1.8-11.14.1.1317-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1317/forge-1.8-11.14.1.1317-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1316",
@@ -1472,8 +1476,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1316/forge-1.8-11.14.1.1316-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1316/forge-1.8-11.14.1.1316-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1316/forge-1.8-11.14.1.1316-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1316/forge-1.8-11.14.1.1316-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1316/forge-1.8-11.14.1.1316-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1316/forge-1.8-11.14.1.1316-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1316/forge-1.8-11.14.1.1316-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1316/forge-1.8-11.14.1.1316-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1315",
@@ -1481,8 +1486,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1315/forge-1.8-11.14.1.1315-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1315/forge-1.8-11.14.1.1315-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1315/forge-1.8-11.14.1.1315-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1315/forge-1.8-11.14.1.1315-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1315/forge-1.8-11.14.1.1315-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1315/forge-1.8-11.14.1.1315-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1315/forge-1.8-11.14.1.1315-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1315/forge-1.8-11.14.1.1315-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1314",
@@ -1490,8 +1496,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1314/forge-1.8-11.14.1.1314-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1314/forge-1.8-11.14.1.1314-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1314/forge-1.8-11.14.1.1314-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1314/forge-1.8-11.14.1.1314-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1314/forge-1.8-11.14.1.1314-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1314/forge-1.8-11.14.1.1314-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1314/forge-1.8-11.14.1.1314-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1314/forge-1.8-11.14.1.1314-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1313",
@@ -1499,8 +1506,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1313/forge-1.8-11.14.1.1313-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1313/forge-1.8-11.14.1.1313-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1313/forge-1.8-11.14.1.1313-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1313/forge-1.8-11.14.1.1313-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1313/forge-1.8-11.14.1.1313-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1313/forge-1.8-11.14.1.1313-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1313/forge-1.8-11.14.1.1313-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1313/forge-1.8-11.14.1.1313-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1312",
@@ -1508,8 +1516,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1312/forge-1.8-11.14.1.1312-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1312/forge-1.8-11.14.1.1312-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1312/forge-1.8-11.14.1.1312-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1312/forge-1.8-11.14.1.1312-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1312/forge-1.8-11.14.1.1312-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1312/forge-1.8-11.14.1.1312-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1312/forge-1.8-11.14.1.1312-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1312/forge-1.8-11.14.1.1312-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1311",
@@ -1517,8 +1526,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1311/forge-1.8-11.14.1.1311-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1311/forge-1.8-11.14.1.1311-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1311/forge-1.8-11.14.1.1311-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1311/forge-1.8-11.14.1.1311-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1311/forge-1.8-11.14.1.1311-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1311/forge-1.8-11.14.1.1311-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1311/forge-1.8-11.14.1.1311-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1311/forge-1.8-11.14.1.1311-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1310",
@@ -1526,8 +1536,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1310/forge-1.8-11.14.1.1310-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1310/forge-1.8-11.14.1.1310-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1310/forge-1.8-11.14.1.1310-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1310/forge-1.8-11.14.1.1310-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1310/forge-1.8-11.14.1.1310-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1310/forge-1.8-11.14.1.1310-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1310/forge-1.8-11.14.1.1310-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1310/forge-1.8-11.14.1.1310-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1309",
@@ -1535,8 +1546,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1309/forge-1.8-11.14.1.1309-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1309/forge-1.8-11.14.1.1309-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1309/forge-1.8-11.14.1.1309-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1309/forge-1.8-11.14.1.1309-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1309/forge-1.8-11.14.1.1309-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1309/forge-1.8-11.14.1.1309-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1309/forge-1.8-11.14.1.1309-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1309/forge-1.8-11.14.1.1309-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1308",
@@ -1544,8 +1556,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1308/forge-1.8-11.14.1.1308-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1308/forge-1.8-11.14.1.1308-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1308/forge-1.8-11.14.1.1308-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1308/forge-1.8-11.14.1.1308-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1308/forge-1.8-11.14.1.1308-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1308/forge-1.8-11.14.1.1308-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1308/forge-1.8-11.14.1.1308-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1308/forge-1.8-11.14.1.1308-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1306",
@@ -1553,8 +1566,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1306/forge-1.8-11.14.1.1306-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1306/forge-1.8-11.14.1.1306-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1306/forge-1.8-11.14.1.1306-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1306/forge-1.8-11.14.1.1306-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1306/forge-1.8-11.14.1.1306-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1306/forge-1.8-11.14.1.1306-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1306/forge-1.8-11.14.1.1306-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1306/forge-1.8-11.14.1.1306-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1305",
@@ -1562,8 +1576,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1305/forge-1.8-11.14.1.1305-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1305/forge-1.8-11.14.1.1305-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1305/forge-1.8-11.14.1.1305-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1305/forge-1.8-11.14.1.1305-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1305/forge-1.8-11.14.1.1305-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1305/forge-1.8-11.14.1.1305-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1305/forge-1.8-11.14.1.1305-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1305/forge-1.8-11.14.1.1305-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1303",
@@ -1571,8 +1586,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1303/forge-1.8-11.14.1.1303-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1303/forge-1.8-11.14.1.1303-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1303/forge-1.8-11.14.1.1303-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1303/forge-1.8-11.14.1.1303-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1303/forge-1.8-11.14.1.1303-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1303/forge-1.8-11.14.1.1303-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1303/forge-1.8-11.14.1.1303-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1303/forge-1.8-11.14.1.1303-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1302",
@@ -1580,8 +1596,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1302/forge-1.8-11.14.1.1302-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1302/forge-1.8-11.14.1.1302-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1302/forge-1.8-11.14.1.1302-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1302/forge-1.8-11.14.1.1302-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1302/forge-1.8-11.14.1.1302-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1302/forge-1.8-11.14.1.1302-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1302/forge-1.8-11.14.1.1302-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1302/forge-1.8-11.14.1.1302-javadoc.zip"
 	},
 	{
 		"version": "11.14.1.1301",
@@ -1589,8 +1606,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.1.1301/forge-1.8-11.14.1.1301-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.1.1301/forge-1.8-11.14.1.1301-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.1.1301/forge-1.8-11.14.1.1301-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.1.1301/forge-1.8-11.14.1.1301-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1301/forge-1.8-11.14.1.1301-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.1.1301/forge-1.8-11.14.1.1301-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.1.1301/forge-1.8-11.14.1.1301-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.1.1301/forge-1.8-11.14.1.1301-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1299",
@@ -1598,8 +1616,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1299/forge-1.8-11.14.0.1299-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1299/forge-1.8-11.14.0.1299-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1299/forge-1.8-11.14.0.1299-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1299/forge-1.8-11.14.0.1299-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1299/forge-1.8-11.14.0.1299-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1299/forge-1.8-11.14.0.1299-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1299/forge-1.8-11.14.0.1299-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1299/forge-1.8-11.14.0.1299-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1298",
@@ -1607,8 +1626,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1298/forge-1.8-11.14.0.1298-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1298/forge-1.8-11.14.0.1298-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1298/forge-1.8-11.14.0.1298-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1298/forge-1.8-11.14.0.1298-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1298/forge-1.8-11.14.0.1298-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1298/forge-1.8-11.14.0.1298-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1298/forge-1.8-11.14.0.1298-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1298/forge-1.8-11.14.0.1298-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1297",
@@ -1616,8 +1636,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1297/forge-1.8-11.14.0.1297-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1297/forge-1.8-11.14.0.1297-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1297/forge-1.8-11.14.0.1297-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1297/forge-1.8-11.14.0.1297-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1297/forge-1.8-11.14.0.1297-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1297/forge-1.8-11.14.0.1297-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1297/forge-1.8-11.14.0.1297-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1297/forge-1.8-11.14.0.1297-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1296",
@@ -1625,8 +1646,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1296/forge-1.8-11.14.0.1296-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1296/forge-1.8-11.14.0.1296-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1296/forge-1.8-11.14.0.1296-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1296/forge-1.8-11.14.0.1296-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1296/forge-1.8-11.14.0.1296-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1296/forge-1.8-11.14.0.1296-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1296/forge-1.8-11.14.0.1296-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1296/forge-1.8-11.14.0.1296-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1295",
@@ -1634,8 +1656,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1295-1.8/forge-1.8-11.14.0.1295-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1295-1.8/forge-1.8-11.14.0.1295-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1295-1.8/forge-1.8-11.14.0.1295-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1295-1.8/forge-1.8-11.14.0.1295-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1295-1.8/forge-1.8-11.14.0.1295-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1295-1.8/forge-1.8-11.14.0.1295-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1295-1.8/forge-1.8-11.14.0.1295-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1295-1.8/forge-1.8-11.14.0.1295-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1294",
@@ -1643,8 +1666,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1294-1.8/forge-1.8-11.14.0.1294-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1294-1.8/forge-1.8-11.14.0.1294-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1294-1.8/forge-1.8-11.14.0.1294-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1294-1.8/forge-1.8-11.14.0.1294-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1294-1.8/forge-1.8-11.14.0.1294-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1294-1.8/forge-1.8-11.14.0.1294-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1294-1.8/forge-1.8-11.14.0.1294-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1294-1.8/forge-1.8-11.14.0.1294-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1293",
@@ -1652,8 +1676,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1293-1.8/forge-1.8-11.14.0.1293-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1293-1.8/forge-1.8-11.14.0.1293-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1293-1.8/forge-1.8-11.14.0.1293-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1293-1.8/forge-1.8-11.14.0.1293-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1293-1.8/forge-1.8-11.14.0.1293-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1293-1.8/forge-1.8-11.14.0.1293-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1293-1.8/forge-1.8-11.14.0.1293-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1293-1.8/forge-1.8-11.14.0.1293-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1292",
@@ -1661,8 +1686,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1292-1.8/forge-1.8-11.14.0.1292-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1292-1.8/forge-1.8-11.14.0.1292-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1292-1.8/forge-1.8-11.14.0.1292-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1292-1.8/forge-1.8-11.14.0.1292-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1292-1.8/forge-1.8-11.14.0.1292-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1292-1.8/forge-1.8-11.14.0.1292-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1292-1.8/forge-1.8-11.14.0.1292-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1292-1.8/forge-1.8-11.14.0.1292-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1290",
@@ -1670,8 +1696,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1290-1.8/forge-1.8-11.14.0.1290-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1290-1.8/forge-1.8-11.14.0.1290-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1290-1.8/forge-1.8-11.14.0.1290-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1290-1.8/forge-1.8-11.14.0.1290-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1290-1.8/forge-1.8-11.14.0.1290-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1290-1.8/forge-1.8-11.14.0.1290-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1290-1.8/forge-1.8-11.14.0.1290-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1290-1.8/forge-1.8-11.14.0.1290-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1289",
@@ -1679,8 +1706,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1289-1.8/forge-1.8-11.14.0.1289-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1289-1.8/forge-1.8-11.14.0.1289-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1289-1.8/forge-1.8-11.14.0.1289-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1289-1.8/forge-1.8-11.14.0.1289-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1289-1.8/forge-1.8-11.14.0.1289-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1289-1.8/forge-1.8-11.14.0.1289-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1289-1.8/forge-1.8-11.14.0.1289-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1289-1.8/forge-1.8-11.14.0.1289-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1288",
@@ -1688,8 +1716,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1288-1.8/forge-1.8-11.14.0.1288-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1288-1.8/forge-1.8-11.14.0.1288-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1288-1.8/forge-1.8-11.14.0.1288-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1288-1.8/forge-1.8-11.14.0.1288-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1288-1.8/forge-1.8-11.14.0.1288-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1288-1.8/forge-1.8-11.14.0.1288-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1288-1.8/forge-1.8-11.14.0.1288-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1288-1.8/forge-1.8-11.14.0.1288-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1287",
@@ -1697,8 +1726,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1287-1.8/forge-1.8-11.14.0.1287-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1287-1.8/forge-1.8-11.14.0.1287-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1287-1.8/forge-1.8-11.14.0.1287-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1287-1.8/forge-1.8-11.14.0.1287-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1287-1.8/forge-1.8-11.14.0.1287-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1287-1.8/forge-1.8-11.14.0.1287-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1287-1.8/forge-1.8-11.14.0.1287-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1287-1.8/forge-1.8-11.14.0.1287-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1285",
@@ -1706,8 +1736,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1285-1.8/forge-1.8-11.14.0.1285-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1285-1.8/forge-1.8-11.14.0.1285-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1285-1.8/forge-1.8-11.14.0.1285-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1285-1.8/forge-1.8-11.14.0.1285-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1285-1.8/forge-1.8-11.14.0.1285-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1285-1.8/forge-1.8-11.14.0.1285-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1285-1.8/forge-1.8-11.14.0.1285-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1285-1.8/forge-1.8-11.14.0.1285-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1282",
@@ -1715,8 +1746,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1282-1.8/forge-1.8-11.14.0.1282-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1282-1.8/forge-1.8-11.14.0.1282-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1282-1.8/forge-1.8-11.14.0.1282-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1282-1.8/forge-1.8-11.14.0.1282-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1282-1.8/forge-1.8-11.14.0.1282-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1282-1.8/forge-1.8-11.14.0.1282-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1282-1.8/forge-1.8-11.14.0.1282-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1282-1.8/forge-1.8-11.14.0.1282-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1281",
@@ -1724,8 +1756,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1281-1.8/forge-1.8-11.14.0.1281-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1281-1.8/forge-1.8-11.14.0.1281-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1281-1.8/forge-1.8-11.14.0.1281-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1281-1.8/forge-1.8-11.14.0.1281-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1281-1.8/forge-1.8-11.14.0.1281-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1281-1.8/forge-1.8-11.14.0.1281-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1281-1.8/forge-1.8-11.14.0.1281-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1281-1.8/forge-1.8-11.14.0.1281-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1280",
@@ -1733,8 +1766,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1280-1.8/forge-1.8-11.14.0.1280-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1280-1.8/forge-1.8-11.14.0.1280-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1280-1.8/forge-1.8-11.14.0.1280-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1280-1.8/forge-1.8-11.14.0.1280-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1280-1.8/forge-1.8-11.14.0.1280-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1280-1.8/forge-1.8-11.14.0.1280-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1280-1.8/forge-1.8-11.14.0.1280-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1280-1.8/forge-1.8-11.14.0.1280-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1279",
@@ -1742,8 +1776,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1279-1.8/forge-1.8-11.14.0.1279-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1279-1.8/forge-1.8-11.14.0.1279-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1279-1.8/forge-1.8-11.14.0.1279-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1279-1.8/forge-1.8-11.14.0.1279-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1279-1.8/forge-1.8-11.14.0.1279-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1279-1.8/forge-1.8-11.14.0.1279-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1279-1.8/forge-1.8-11.14.0.1279-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1279-1.8/forge-1.8-11.14.0.1279-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1278",
@@ -1751,8 +1786,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1278-1.8/forge-1.8-11.14.0.1278-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1278-1.8/forge-1.8-11.14.0.1278-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1278-1.8/forge-1.8-11.14.0.1278-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1278-1.8/forge-1.8-11.14.0.1278-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1278-1.8/forge-1.8-11.14.0.1278-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1278-1.8/forge-1.8-11.14.0.1278-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1278-1.8/forge-1.8-11.14.0.1278-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1278-1.8/forge-1.8-11.14.0.1278-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1274",
@@ -1760,8 +1796,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1274-1.8/forge-1.8-11.14.0.1274-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1274-1.8/forge-1.8-11.14.0.1274-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1274-1.8/forge-1.8-11.14.0.1274-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1274-1.8/forge-1.8-11.14.0.1274-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1274-1.8/forge-1.8-11.14.0.1274-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1274-1.8/forge-1.8-11.14.0.1274-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1274-1.8/forge-1.8-11.14.0.1274-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1274-1.8/forge-1.8-11.14.0.1274-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1273",
@@ -1769,8 +1806,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1273-1.8/forge-1.8-11.14.0.1273-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1273-1.8/forge-1.8-11.14.0.1273-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1273-1.8/forge-1.8-11.14.0.1273-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1273-1.8/forge-1.8-11.14.0.1273-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1273-1.8/forge-1.8-11.14.0.1273-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1273-1.8/forge-1.8-11.14.0.1273-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1273-1.8/forge-1.8-11.14.0.1273-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1273-1.8/forge-1.8-11.14.0.1273-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1271",
@@ -1778,8 +1816,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1271-1.8/forge-1.8-11.14.0.1271-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1271-1.8/forge-1.8-11.14.0.1271-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1271-1.8/forge-1.8-11.14.0.1271-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1271-1.8/forge-1.8-11.14.0.1271-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1271-1.8/forge-1.8-11.14.0.1271-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1271-1.8/forge-1.8-11.14.0.1271-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1271-1.8/forge-1.8-11.14.0.1271-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1271-1.8/forge-1.8-11.14.0.1271-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1269",
@@ -1787,8 +1826,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1269-1.8/forge-1.8-11.14.0.1269-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1269-1.8/forge-1.8-11.14.0.1269-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1269-1.8/forge-1.8-11.14.0.1269-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1269-1.8/forge-1.8-11.14.0.1269-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1269-1.8/forge-1.8-11.14.0.1269-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1269-1.8/forge-1.8-11.14.0.1269-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1269-1.8/forge-1.8-11.14.0.1269-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1269-1.8/forge-1.8-11.14.0.1269-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1268",
@@ -1796,8 +1836,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1268-1.8/forge-1.8-11.14.0.1268-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1268-1.8/forge-1.8-11.14.0.1268-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1268-1.8/forge-1.8-11.14.0.1268-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1268-1.8/forge-1.8-11.14.0.1268-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1268-1.8/forge-1.8-11.14.0.1268-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1268-1.8/forge-1.8-11.14.0.1268-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1268-1.8/forge-1.8-11.14.0.1268-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1268-1.8/forge-1.8-11.14.0.1268-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1267",
@@ -1805,8 +1846,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1267-1.8/forge-1.8-11.14.0.1267-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1267-1.8/forge-1.8-11.14.0.1267-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1267-1.8/forge-1.8-11.14.0.1267-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1267-1.8/forge-1.8-11.14.0.1267-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1267-1.8/forge-1.8-11.14.0.1267-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1267-1.8/forge-1.8-11.14.0.1267-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1267-1.8/forge-1.8-11.14.0.1267-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1267-1.8/forge-1.8-11.14.0.1267-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1266",
@@ -1814,8 +1856,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1266-1.8/forge-1.8-11.14.0.1266-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1266-1.8/forge-1.8-11.14.0.1266-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1266-1.8/forge-1.8-11.14.0.1266-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1266-1.8/forge-1.8-11.14.0.1266-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1266-1.8/forge-1.8-11.14.0.1266-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1266-1.8/forge-1.8-11.14.0.1266-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1266-1.8/forge-1.8-11.14.0.1266-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1266-1.8/forge-1.8-11.14.0.1266-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1265",
@@ -1823,8 +1866,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1265-1.8/forge-1.8-11.14.0.1265-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1265-1.8/forge-1.8-11.14.0.1265-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1265-1.8/forge-1.8-11.14.0.1265-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1265-1.8/forge-1.8-11.14.0.1265-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1265-1.8/forge-1.8-11.14.0.1265-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1265-1.8/forge-1.8-11.14.0.1265-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1265-1.8/forge-1.8-11.14.0.1265-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1265-1.8/forge-1.8-11.14.0.1265-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1262",
@@ -1832,8 +1876,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1262-1.8/forge-1.8-11.14.0.1262-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1262-1.8/forge-1.8-11.14.0.1262-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1262-1.8/forge-1.8-11.14.0.1262-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1262-1.8/forge-1.8-11.14.0.1262-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1262-1.8/forge-1.8-11.14.0.1262-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1262-1.8/forge-1.8-11.14.0.1262-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1262-1.8/forge-1.8-11.14.0.1262-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1262-1.8/forge-1.8-11.14.0.1262-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1261",
@@ -1841,8 +1886,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1261-1.8/forge-1.8-11.14.0.1261-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1261-1.8/forge-1.8-11.14.0.1261-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1261-1.8/forge-1.8-11.14.0.1261-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1261-1.8/forge-1.8-11.14.0.1261-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1261-1.8/forge-1.8-11.14.0.1261-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1261-1.8/forge-1.8-11.14.0.1261-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1261-1.8/forge-1.8-11.14.0.1261-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1261-1.8/forge-1.8-11.14.0.1261-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1260",
@@ -1850,8 +1896,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1260-1.8/forge-1.8-11.14.0.1260-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1260-1.8/forge-1.8-11.14.0.1260-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1260-1.8/forge-1.8-11.14.0.1260-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1260-1.8/forge-1.8-11.14.0.1260-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1260-1.8/forge-1.8-11.14.0.1260-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1260-1.8/forge-1.8-11.14.0.1260-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1260-1.8/forge-1.8-11.14.0.1260-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1260-1.8/forge-1.8-11.14.0.1260-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1259",
@@ -1859,8 +1906,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1259-1.8/forge-1.8-11.14.0.1259-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1259-1.8/forge-1.8-11.14.0.1259-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1259-1.8/forge-1.8-11.14.0.1259-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1259-1.8/forge-1.8-11.14.0.1259-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1259-1.8/forge-1.8-11.14.0.1259-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1259-1.8/forge-1.8-11.14.0.1259-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1259-1.8/forge-1.8-11.14.0.1259-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1259-1.8/forge-1.8-11.14.0.1259-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1257",
@@ -1868,8 +1916,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1257-1.8/forge-1.8-11.14.0.1257-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1257-1.8/forge-1.8-11.14.0.1257-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1257-1.8/forge-1.8-11.14.0.1257-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1257-1.8/forge-1.8-11.14.0.1257-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1257-1.8/forge-1.8-11.14.0.1257-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1257-1.8/forge-1.8-11.14.0.1257-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1257-1.8/forge-1.8-11.14.0.1257-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1257-1.8/forge-1.8-11.14.0.1257-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1255",
@@ -1877,8 +1926,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1255-1.8/forge-1.8-11.14.0.1255-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1255-1.8/forge-1.8-11.14.0.1255-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1255-1.8/forge-1.8-11.14.0.1255-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1255-1.8/forge-1.8-11.14.0.1255-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1255-1.8/forge-1.8-11.14.0.1255-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1255-1.8/forge-1.8-11.14.0.1255-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1255-1.8/forge-1.8-11.14.0.1255-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1255-1.8/forge-1.8-11.14.0.1255-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1252",
@@ -1886,8 +1936,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1252-1.8/forge-1.8-11.14.0.1252-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1252-1.8/forge-1.8-11.14.0.1252-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1252-1.8/forge-1.8-11.14.0.1252-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1252-1.8/forge-1.8-11.14.0.1252-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1252-1.8/forge-1.8-11.14.0.1252-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1252-1.8/forge-1.8-11.14.0.1252-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1252-1.8/forge-1.8-11.14.0.1252-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1252-1.8/forge-1.8-11.14.0.1252-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1251",
@@ -1895,8 +1946,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1251-1.8/forge-1.8-11.14.0.1251-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1251-1.8/forge-1.8-11.14.0.1251-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1251-1.8/forge-1.8-11.14.0.1251-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1251-1.8/forge-1.8-11.14.0.1251-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1251-1.8/forge-1.8-11.14.0.1251-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1251-1.8/forge-1.8-11.14.0.1251-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1251-1.8/forge-1.8-11.14.0.1251-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1251-1.8/forge-1.8-11.14.0.1251-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1249",
@@ -1904,8 +1956,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1249-1.8/forge-1.8-11.14.0.1249-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1249-1.8/forge-1.8-11.14.0.1249-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1249-1.8/forge-1.8-11.14.0.1249-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1249-1.8/forge-1.8-11.14.0.1249-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1249-1.8/forge-1.8-11.14.0.1249-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1249-1.8/forge-1.8-11.14.0.1249-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1249-1.8/forge-1.8-11.14.0.1249-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1249-1.8/forge-1.8-11.14.0.1249-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1248",
@@ -1913,8 +1966,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1248-1.8/forge-1.8-11.14.0.1248-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1248-1.8/forge-1.8-11.14.0.1248-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1248-1.8/forge-1.8-11.14.0.1248-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1248-1.8/forge-1.8-11.14.0.1248-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1248-1.8/forge-1.8-11.14.0.1248-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1248-1.8/forge-1.8-11.14.0.1248-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1248-1.8/forge-1.8-11.14.0.1248-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1248-1.8/forge-1.8-11.14.0.1248-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1247",
@@ -1922,8 +1976,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1247-1.8/forge-1.8-11.14.0.1247-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1247-1.8/forge-1.8-11.14.0.1247-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1247-1.8/forge-1.8-11.14.0.1247-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1247-1.8/forge-1.8-11.14.0.1247-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1247-1.8/forge-1.8-11.14.0.1247-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1247-1.8/forge-1.8-11.14.0.1247-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1247-1.8/forge-1.8-11.14.0.1247-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1247-1.8/forge-1.8-11.14.0.1247-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1246",
@@ -1931,8 +1986,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1246-1.8/forge-1.8-11.14.0.1246-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1246-1.8/forge-1.8-11.14.0.1246-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1246-1.8/forge-1.8-11.14.0.1246-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1246-1.8/forge-1.8-11.14.0.1246-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1246-1.8/forge-1.8-11.14.0.1246-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1246-1.8/forge-1.8-11.14.0.1246-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1246-1.8/forge-1.8-11.14.0.1246-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1246-1.8/forge-1.8-11.14.0.1246-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1245",
@@ -1940,8 +1996,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1245-1.8/forge-1.8-11.14.0.1245-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1245-1.8/forge-1.8-11.14.0.1245-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1245-1.8/forge-1.8-11.14.0.1245-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1245-1.8/forge-1.8-11.14.0.1245-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1245-1.8/forge-1.8-11.14.0.1245-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1245-1.8/forge-1.8-11.14.0.1245-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1245-1.8/forge-1.8-11.14.0.1245-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1245-1.8/forge-1.8-11.14.0.1245-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1244",
@@ -1949,8 +2006,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1244-1.8/forge-1.8-11.14.0.1244-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1244-1.8/forge-1.8-11.14.0.1244-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1244-1.8/forge-1.8-11.14.0.1244-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1244-1.8/forge-1.8-11.14.0.1244-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1244-1.8/forge-1.8-11.14.0.1244-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1244-1.8/forge-1.8-11.14.0.1244-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1244-1.8/forge-1.8-11.14.0.1244-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1244-1.8/forge-1.8-11.14.0.1244-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1243",
@@ -1958,8 +2016,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1243-1.8/forge-1.8-11.14.0.1243-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1243-1.8/forge-1.8-11.14.0.1243-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1243-1.8/forge-1.8-11.14.0.1243-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1243-1.8/forge-1.8-11.14.0.1243-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1243-1.8/forge-1.8-11.14.0.1243-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1243-1.8/forge-1.8-11.14.0.1243-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1243-1.8/forge-1.8-11.14.0.1243-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1243-1.8/forge-1.8-11.14.0.1243-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1242",
@@ -1967,8 +2026,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1242-1.8/forge-1.8-11.14.0.1242-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1242-1.8/forge-1.8-11.14.0.1242-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1242-1.8/forge-1.8-11.14.0.1242-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1242-1.8/forge-1.8-11.14.0.1242-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1242-1.8/forge-1.8-11.14.0.1242-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1242-1.8/forge-1.8-11.14.0.1242-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1242-1.8/forge-1.8-11.14.0.1242-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1242-1.8/forge-1.8-11.14.0.1242-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1241",
@@ -1976,8 +2036,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1241-1.8/forge-1.8-11.14.0.1241-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1241-1.8/forge-1.8-11.14.0.1241-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1241-1.8/forge-1.8-11.14.0.1241-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1241-1.8/forge-1.8-11.14.0.1241-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1241-1.8/forge-1.8-11.14.0.1241-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1241-1.8/forge-1.8-11.14.0.1241-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1241-1.8/forge-1.8-11.14.0.1241-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1241-1.8/forge-1.8-11.14.0.1241-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1239",
@@ -1985,8 +2046,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1239-1.8/forge-1.8-11.14.0.1239-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1239-1.8/forge-1.8-11.14.0.1239-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1239-1.8/forge-1.8-11.14.0.1239-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1239-1.8/forge-1.8-11.14.0.1239-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1239-1.8/forge-1.8-11.14.0.1239-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1239-1.8/forge-1.8-11.14.0.1239-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1239-1.8/forge-1.8-11.14.0.1239-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1239-1.8/forge-1.8-11.14.0.1239-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1238",
@@ -1994,8 +2056,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1238-1.8/forge-1.8-11.14.0.1238-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1238-1.8/forge-1.8-11.14.0.1238-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1238-1.8/forge-1.8-11.14.0.1238-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1238-1.8/forge-1.8-11.14.0.1238-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1238-1.8/forge-1.8-11.14.0.1238-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1238-1.8/forge-1.8-11.14.0.1238-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1238-1.8/forge-1.8-11.14.0.1238-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1238-1.8/forge-1.8-11.14.0.1238-1.8-javadoc.zip"
 	},
 	{
 		"version": "11.14.0.1237",
@@ -2003,7 +2066,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.8-11.14.0.1237-1.8/forge-1.8-11.14.0.1237-1.8-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.8-11.14.0.1237-1.8/forge-1.8-11.14.0.1237-1.8-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.8-11.14.0.1237-1.8/forge-1.8-11.14.0.1237-1.8-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.8-11.14.0.1237-1.8/forge-1.8-11.14.0.1237-1.8-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1237-1.8/forge-1.8-11.14.0.1237-1.8-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.8-11.14.0.1237-1.8/forge-1.8-11.14.0.1237-1.8-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.8-11.14.0.1237-1.8/forge-1.8-11.14.0.1237-1.8-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.8-11.14.0.1237-1.8/forge-1.8-11.14.0.1237-1.8-javadoc.zip"
 	}
 ]

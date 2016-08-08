@@ -5,8 +5,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1566",
@@ -14,8 +14,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1566-1.7.10/forge-1.7.10-10.13.4.1566-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1566-1.7.10/forge-1.7.10-10.13.4.1566-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1566-1.7.10/forge-1.7.10-10.13.4.1566-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1566-1.7.10/forge-1.7.10-10.13.4.1566-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1566-1.7.10/forge-1.7.10-10.13.4.1566-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1566-1.7.10/forge-1.7.10-10.13.4.1566-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1566-1.7.10/forge-1.7.10-10.13.4.1566-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1564",
@@ -23,8 +23,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1564-1.7.10/forge-1.7.10-10.13.4.1564-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1564-1.7.10/forge-1.7.10-10.13.4.1564-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1564-1.7.10/forge-1.7.10-10.13.4.1564-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1564-1.7.10/forge-1.7.10-10.13.4.1564-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1564-1.7.10/forge-1.7.10-10.13.4.1564-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1564-1.7.10/forge-1.7.10-10.13.4.1564-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1564-1.7.10/forge-1.7.10-10.13.4.1564-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1558",
@@ -32,8 +32,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forge-1.7.10-10.13.4.1558-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forge-1.7.10-10.13.4.1558-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forge-1.7.10-10.13.4.1558-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forge-1.7.10-10.13.4.1558-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forge-1.7.10-10.13.4.1558-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forge-1.7.10-10.13.4.1558-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forge-1.7.10-10.13.4.1558-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1557",
@@ -41,8 +41,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1557-1.7.10/forge-1.7.10-10.13.4.1557-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1557-1.7.10/forge-1.7.10-10.13.4.1557-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1557-1.7.10/forge-1.7.10-10.13.4.1557-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1557-1.7.10/forge-1.7.10-10.13.4.1557-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1557-1.7.10/forge-1.7.10-10.13.4.1557-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1557-1.7.10/forge-1.7.10-10.13.4.1557-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1557-1.7.10/forge-1.7.10-10.13.4.1557-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1541",
@@ -50,8 +50,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1541-1.7.10/forge-1.7.10-10.13.4.1541-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1541-1.7.10/forge-1.7.10-10.13.4.1541-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1541-1.7.10/forge-1.7.10-10.13.4.1541-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1541-1.7.10/forge-1.7.10-10.13.4.1541-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1541-1.7.10/forge-1.7.10-10.13.4.1541-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1541-1.7.10/forge-1.7.10-10.13.4.1541-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1541-1.7.10/forge-1.7.10-10.13.4.1541-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1540",
@@ -59,8 +59,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1540-1.7.10/forge-1.7.10-10.13.4.1540-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1540-1.7.10/forge-1.7.10-10.13.4.1540-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1540-1.7.10/forge-1.7.10-10.13.4.1540-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1540-1.7.10/forge-1.7.10-10.13.4.1540-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1540-1.7.10/forge-1.7.10-10.13.4.1540-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1540-1.7.10/forge-1.7.10-10.13.4.1540-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1540-1.7.10/forge-1.7.10-10.13.4.1540-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1539",
@@ -68,8 +68,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1539-1.7.10/forge-1.7.10-10.13.4.1539-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1539-1.7.10/forge-1.7.10-10.13.4.1539-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1539-1.7.10/forge-1.7.10-10.13.4.1539-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1539-1.7.10/forge-1.7.10-10.13.4.1539-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1539-1.7.10/forge-1.7.10-10.13.4.1539-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1539-1.7.10/forge-1.7.10-10.13.4.1539-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1539-1.7.10/forge-1.7.10-10.13.4.1539-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1517",
@@ -77,8 +77,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1517-1.7.10/forge-1.7.10-10.13.4.1517-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1517-1.7.10/forge-1.7.10-10.13.4.1517-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1517-1.7.10/forge-1.7.10-10.13.4.1517-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1517-1.7.10/forge-1.7.10-10.13.4.1517-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1517-1.7.10/forge-1.7.10-10.13.4.1517-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1517-1.7.10/forge-1.7.10-10.13.4.1517-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1517-1.7.10/forge-1.7.10-10.13.4.1517-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1492",
@@ -86,8 +86,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1492-1.7.10/forge-1.7.10-10.13.4.1492-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1492-1.7.10/forge-1.7.10-10.13.4.1492-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1492-1.7.10/forge-1.7.10-10.13.4.1492-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1492-1.7.10/forge-1.7.10-10.13.4.1492-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1492-1.7.10/forge-1.7.10-10.13.4.1492-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1492-1.7.10/forge-1.7.10-10.13.4.1492-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1492-1.7.10/forge-1.7.10-10.13.4.1492-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1490",
@@ -95,8 +95,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1490-1.7.10/forge-1.7.10-10.13.4.1490-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1490-1.7.10/forge-1.7.10-10.13.4.1490-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1490-1.7.10/forge-1.7.10-10.13.4.1490-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1490-1.7.10/forge-1.7.10-10.13.4.1490-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1490-1.7.10/forge-1.7.10-10.13.4.1490-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1490-1.7.10/forge-1.7.10-10.13.4.1490-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1490-1.7.10/forge-1.7.10-10.13.4.1490-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1481",
@@ -104,8 +104,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1481-1.7.10/forge-1.7.10-10.13.4.1481-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1481-1.7.10/forge-1.7.10-10.13.4.1481-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1481-1.7.10/forge-1.7.10-10.13.4.1481-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1481-1.7.10/forge-1.7.10-10.13.4.1481-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1481-1.7.10/forge-1.7.10-10.13.4.1481-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1481-1.7.10/forge-1.7.10-10.13.4.1481-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1481-1.7.10/forge-1.7.10-10.13.4.1481-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1472",
@@ -113,8 +113,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1472-1.7.10/forge-1.7.10-10.13.4.1472-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1472-1.7.10/forge-1.7.10-10.13.4.1472-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1472-1.7.10/forge-1.7.10-10.13.4.1472-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1472-1.7.10/forge-1.7.10-10.13.4.1472-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1472-1.7.10/forge-1.7.10-10.13.4.1472-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1472-1.7.10/forge-1.7.10-10.13.4.1472-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1472-1.7.10/forge-1.7.10-10.13.4.1472-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1470",
@@ -122,8 +122,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1470-1.7.10/forge-1.7.10-10.13.4.1470-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1470-1.7.10/forge-1.7.10-10.13.4.1470-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1470-1.7.10/forge-1.7.10-10.13.4.1470-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1470-1.7.10/forge-1.7.10-10.13.4.1470-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1470-1.7.10/forge-1.7.10-10.13.4.1470-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1470-1.7.10/forge-1.7.10-10.13.4.1470-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1470-1.7.10/forge-1.7.10-10.13.4.1470-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1469",
@@ -131,8 +131,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1469-1.7.10/forge-1.7.10-10.13.4.1469-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1469-1.7.10/forge-1.7.10-10.13.4.1469-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1469-1.7.10/forge-1.7.10-10.13.4.1469-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1469-1.7.10/forge-1.7.10-10.13.4.1469-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1469-1.7.10/forge-1.7.10-10.13.4.1469-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1469-1.7.10/forge-1.7.10-10.13.4.1469-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1469-1.7.10/forge-1.7.10-10.13.4.1469-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1456",
@@ -140,8 +140,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1456-1.7.10/forge-1.7.10-10.13.4.1456-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1456-1.7.10/forge-1.7.10-10.13.4.1456-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1456-1.7.10/forge-1.7.10-10.13.4.1456-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1456-1.7.10/forge-1.7.10-10.13.4.1456-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1456-1.7.10/forge-1.7.10-10.13.4.1456-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1456-1.7.10/forge-1.7.10-10.13.4.1456-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1456-1.7.10/forge-1.7.10-10.13.4.1456-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1452",
@@ -149,8 +149,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1452-1.7.10/forge-1.7.10-10.13.4.1452-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1452-1.7.10/forge-1.7.10-10.13.4.1452-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1452-1.7.10/forge-1.7.10-10.13.4.1452-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1452-1.7.10/forge-1.7.10-10.13.4.1452-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1452-1.7.10/forge-1.7.10-10.13.4.1452-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1452-1.7.10/forge-1.7.10-10.13.4.1452-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1452-1.7.10/forge-1.7.10-10.13.4.1452-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1451",
@@ -158,8 +158,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1451-1.7.10/forge-1.7.10-10.13.4.1451-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1451-1.7.10/forge-1.7.10-10.13.4.1451-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1451-1.7.10/forge-1.7.10-10.13.4.1451-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1451-1.7.10/forge-1.7.10-10.13.4.1451-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1451-1.7.10/forge-1.7.10-10.13.4.1451-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1451-1.7.10/forge-1.7.10-10.13.4.1451-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1451-1.7.10/forge-1.7.10-10.13.4.1451-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1448",
@@ -167,8 +167,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1448-1.7.10/forge-1.7.10-10.13.4.1448-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1448-1.7.10/forge-1.7.10-10.13.4.1448-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1448-1.7.10/forge-1.7.10-10.13.4.1448-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1448-1.7.10/forge-1.7.10-10.13.4.1448-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1448-1.7.10/forge-1.7.10-10.13.4.1448-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1448-1.7.10/forge-1.7.10-10.13.4.1448-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1448-1.7.10/forge-1.7.10-10.13.4.1448-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1447",
@@ -176,8 +176,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1447-1.7.10/forge-1.7.10-10.13.4.1447-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1447-1.7.10/forge-1.7.10-10.13.4.1447-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1447-1.7.10/forge-1.7.10-10.13.4.1447-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1447-1.7.10/forge-1.7.10-10.13.4.1447-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1447-1.7.10/forge-1.7.10-10.13.4.1447-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1447-1.7.10/forge-1.7.10-10.13.4.1447-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1447-1.7.10/forge-1.7.10-10.13.4.1447-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.4.1445",
@@ -185,8 +185,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1445-1.7.10/forge-1.7.10-10.13.4.1445-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1445-1.7.10/forge-1.7.10-10.13.4.1445-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1445-1.7.10/forge-1.7.10-10.13.4.1445-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1445-1.7.10/forge-1.7.10-10.13.4.1445-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1445-1.7.10/forge-1.7.10-10.13.4.1445-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1445-1.7.10/forge-1.7.10-10.13.4.1445-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.4.1445-1.7.10/forge-1.7.10-10.13.4.1445-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1428",
@@ -194,8 +194,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1428-1.7.10/forge-1.7.10-10.13.3.1428-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1428-1.7.10/forge-1.7.10-10.13.3.1428-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1428-1.7.10/forge-1.7.10-10.13.3.1428-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1428-1.7.10/forge-1.7.10-10.13.3.1428-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1428-1.7.10/forge-1.7.10-10.13.3.1428-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1428-1.7.10/forge-1.7.10-10.13.3.1428-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1428-1.7.10/forge-1.7.10-10.13.3.1428-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1424",
@@ -203,8 +203,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1424-1.7.10/forge-1.7.10-10.13.3.1424-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1424-1.7.10/forge-1.7.10-10.13.3.1424-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1424-1.7.10/forge-1.7.10-10.13.3.1424-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1424-1.7.10/forge-1.7.10-10.13.3.1424-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1424-1.7.10/forge-1.7.10-10.13.3.1424-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1424-1.7.10/forge-1.7.10-10.13.3.1424-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1424-1.7.10/forge-1.7.10-10.13.3.1424-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1422",
@@ -212,8 +212,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1422-1.7.10/forge-1.7.10-10.13.3.1422-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1422-1.7.10/forge-1.7.10-10.13.3.1422-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1422-1.7.10/forge-1.7.10-10.13.3.1422-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1422-1.7.10/forge-1.7.10-10.13.3.1422-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1422-1.7.10/forge-1.7.10-10.13.3.1422-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1422-1.7.10/forge-1.7.10-10.13.3.1422-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1422-1.7.10/forge-1.7.10-10.13.3.1422-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1420",
@@ -221,8 +221,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1420-1.7.10/forge-1.7.10-10.13.3.1420-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1420-1.7.10/forge-1.7.10-10.13.3.1420-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1420-1.7.10/forge-1.7.10-10.13.3.1420-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1420-1.7.10/forge-1.7.10-10.13.3.1420-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1420-1.7.10/forge-1.7.10-10.13.3.1420-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1420-1.7.10/forge-1.7.10-10.13.3.1420-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1420-1.7.10/forge-1.7.10-10.13.3.1420-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1408",
@@ -230,8 +230,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1408-1.7.10/forge-1.7.10-10.13.3.1408-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1408-1.7.10/forge-1.7.10-10.13.3.1408-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1408-1.7.10/forge-1.7.10-10.13.3.1408-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1408-1.7.10/forge-1.7.10-10.13.3.1408-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1408-1.7.10/forge-1.7.10-10.13.3.1408-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1408-1.7.10/forge-1.7.10-10.13.3.1408-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1408-1.7.10/forge-1.7.10-10.13.3.1408-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1407",
@@ -239,8 +239,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1407-1.7.10/forge-1.7.10-10.13.3.1407-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1407-1.7.10/forge-1.7.10-10.13.3.1407-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1407-1.7.10/forge-1.7.10-10.13.3.1407-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1407-1.7.10/forge-1.7.10-10.13.3.1407-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1407-1.7.10/forge-1.7.10-10.13.3.1407-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1407-1.7.10/forge-1.7.10-10.13.3.1407-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1407-1.7.10/forge-1.7.10-10.13.3.1407-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1406",
@@ -248,8 +248,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1406-1.7.10/forge-1.7.10-10.13.3.1406-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1406-1.7.10/forge-1.7.10-10.13.3.1406-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1406-1.7.10/forge-1.7.10-10.13.3.1406-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1406-1.7.10/forge-1.7.10-10.13.3.1406-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1406-1.7.10/forge-1.7.10-10.13.3.1406-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1406-1.7.10/forge-1.7.10-10.13.3.1406-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1406-1.7.10/forge-1.7.10-10.13.3.1406-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1403",
@@ -257,8 +257,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1403-1.7.10/forge-1.7.10-10.13.3.1403-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1403-1.7.10/forge-1.7.10-10.13.3.1403-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1403-1.7.10/forge-1.7.10-10.13.3.1403-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1403-1.7.10/forge-1.7.10-10.13.3.1403-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1403-1.7.10/forge-1.7.10-10.13.3.1403-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1403-1.7.10/forge-1.7.10-10.13.3.1403-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1403-1.7.10/forge-1.7.10-10.13.3.1403-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1401",
@@ -266,8 +266,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1401-1710ls/forge-1.7.10-10.13.3.1401-1710ls-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1401-1710ls/forge-1.7.10-10.13.3.1401-1710ls-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1401-1710ls/forge-1.7.10-10.13.3.1401-1710ls-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1401-1710ls/forge-1.7.10-10.13.3.1401-1710ls-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1401-1710ls/forge-1.7.10-10.13.3.1401-1710ls-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1401-1710ls/forge-1.7.10-10.13.3.1401-1710ls-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1401-1710ls/forge-1.7.10-10.13.3.1401-1710ls-src.zip"
 	},
 	{
 		"version": "10.13.3.1400",
@@ -275,8 +275,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1400-1.7.10/forge-1.7.10-10.13.3.1400-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1400-1.7.10/forge-1.7.10-10.13.3.1400-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1400-1.7.10/forge-1.7.10-10.13.3.1400-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1400-1.7.10/forge-1.7.10-10.13.3.1400-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1400-1.7.10/forge-1.7.10-10.13.3.1400-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1400-1.7.10/forge-1.7.10-10.13.3.1400-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1400-1.7.10/forge-1.7.10-10.13.3.1400-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1399",
@@ -284,8 +284,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1399-1.7.10/forge-1.7.10-10.13.3.1399-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1399-1.7.10/forge-1.7.10-10.13.3.1399-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1399-1.7.10/forge-1.7.10-10.13.3.1399-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1399-1.7.10/forge-1.7.10-10.13.3.1399-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1399-1.7.10/forge-1.7.10-10.13.3.1399-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1399-1.7.10/forge-1.7.10-10.13.3.1399-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1399-1.7.10/forge-1.7.10-10.13.3.1399-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1395",
@@ -293,8 +293,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1395-1710ls/forge-1.7.10-10.13.3.1395-1710ls-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1395-1710ls/forge-1.7.10-10.13.3.1395-1710ls-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1395-1710ls/forge-1.7.10-10.13.3.1395-1710ls-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1395-1710ls/forge-1.7.10-10.13.3.1395-1710ls-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1395-1710ls/forge-1.7.10-10.13.3.1395-1710ls-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1395-1710ls/forge-1.7.10-10.13.3.1395-1710ls-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1395-1710ls/forge-1.7.10-10.13.3.1395-1710ls-src.zip"
 	},
 	{
 		"version": "10.13.3.1394",
@@ -302,8 +302,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1394-1710ls/forge-1.7.10-10.13.3.1394-1710ls-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1394-1710ls/forge-1.7.10-10.13.3.1394-1710ls-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1394-1710ls/forge-1.7.10-10.13.3.1394-1710ls-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1394-1710ls/forge-1.7.10-10.13.3.1394-1710ls-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1394-1710ls/forge-1.7.10-10.13.3.1394-1710ls-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1394-1710ls/forge-1.7.10-10.13.3.1394-1710ls-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1394-1710ls/forge-1.7.10-10.13.3.1394-1710ls-src.zip"
 	},
 	{
 		"version": "10.13.3.1393",
@@ -311,8 +311,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1393-1710ls/forge-1.7.10-10.13.3.1393-1710ls-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1393-1710ls/forge-1.7.10-10.13.3.1393-1710ls-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1393-1710ls/forge-1.7.10-10.13.3.1393-1710ls-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1393-1710ls/forge-1.7.10-10.13.3.1393-1710ls-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1393-1710ls/forge-1.7.10-10.13.3.1393-1710ls-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1393-1710ls/forge-1.7.10-10.13.3.1393-1710ls-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1393-1710ls/forge-1.7.10-10.13.3.1393-1710ls-src.zip"
 	},
 	{
 		"version": "10.13.3.1391",
@@ -320,8 +320,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1391-1710ls/forge-1.7.10-10.13.3.1391-1710ls-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1391-1710ls/forge-1.7.10-10.13.3.1391-1710ls-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1391-1710ls/forge-1.7.10-10.13.3.1391-1710ls-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1391-1710ls/forge-1.7.10-10.13.3.1391-1710ls-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1391-1710ls/forge-1.7.10-10.13.3.1391-1710ls-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1391-1710ls/forge-1.7.10-10.13.3.1391-1710ls-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1391-1710ls/forge-1.7.10-10.13.3.1391-1710ls-src.zip"
 	},
 	{
 		"version": "10.13.3.1389",
@@ -329,8 +329,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1389-1710ls/forge-1.7.10-10.13.3.1389-1710ls-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1389-1710ls/forge-1.7.10-10.13.3.1389-1710ls-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1389-1710ls/forge-1.7.10-10.13.3.1389-1710ls-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1389-1710ls/forge-1.7.10-10.13.3.1389-1710ls-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1389-1710ls/forge-1.7.10-10.13.3.1389-1710ls-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1389-1710ls/forge-1.7.10-10.13.3.1389-1710ls-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1389-1710ls/forge-1.7.10-10.13.3.1389-1710ls-src.zip"
 	},
 	{
 		"version": "10.13.3.1388",
@@ -338,8 +338,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1388-1.7.10/forge-1.7.10-10.13.3.1388-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1388-1.7.10/forge-1.7.10-10.13.3.1388-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1388-1.7.10/forge-1.7.10-10.13.3.1388-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1388-1.7.10/forge-1.7.10-10.13.3.1388-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1388-1.7.10/forge-1.7.10-10.13.3.1388-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1388-1.7.10/forge-1.7.10-10.13.3.1388-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1388-1.7.10/forge-1.7.10-10.13.3.1388-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1387",
@@ -347,8 +347,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1387-1.7.10/forge-1.7.10-10.13.3.1387-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1387-1.7.10/forge-1.7.10-10.13.3.1387-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1387-1.7.10/forge-1.7.10-10.13.3.1387-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1387-1.7.10/forge-1.7.10-10.13.3.1387-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1387-1.7.10/forge-1.7.10-10.13.3.1387-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1387-1.7.10/forge-1.7.10-10.13.3.1387-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1387-1.7.10/forge-1.7.10-10.13.3.1387-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1385",
@@ -356,8 +356,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1385-1.7.10/forge-1.7.10-10.13.3.1385-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1385-1.7.10/forge-1.7.10-10.13.3.1385-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1385-1.7.10/forge-1.7.10-10.13.3.1385-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1385-1.7.10/forge-1.7.10-10.13.3.1385-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1385-1.7.10/forge-1.7.10-10.13.3.1385-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1385-1.7.10/forge-1.7.10-10.13.3.1385-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1385-1.7.10/forge-1.7.10-10.13.3.1385-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1384",
@@ -365,8 +365,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1384-1.7.10/forge-1.7.10-10.13.3.1384-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1384-1.7.10/forge-1.7.10-10.13.3.1384-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1384-1.7.10/forge-1.7.10-10.13.3.1384-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1384-1.7.10/forge-1.7.10-10.13.3.1384-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1384-1.7.10/forge-1.7.10-10.13.3.1384-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1384-1.7.10/forge-1.7.10-10.13.3.1384-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1384-1.7.10/forge-1.7.10-10.13.3.1384-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1383",
@@ -374,8 +374,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1383-1.7.10/forge-1.7.10-10.13.3.1383-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1383-1.7.10/forge-1.7.10-10.13.3.1383-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1383-1.7.10/forge-1.7.10-10.13.3.1383-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1383-1.7.10/forge-1.7.10-10.13.3.1383-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1383-1.7.10/forge-1.7.10-10.13.3.1383-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1383-1.7.10/forge-1.7.10-10.13.3.1383-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1383-1.7.10/forge-1.7.10-10.13.3.1383-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1382",
@@ -383,8 +383,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1382-1.7.10/forge-1.7.10-10.13.3.1382-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1382-1.7.10/forge-1.7.10-10.13.3.1382-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1382-1.7.10/forge-1.7.10-10.13.3.1382-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1382-1.7.10/forge-1.7.10-10.13.3.1382-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1382-1.7.10/forge-1.7.10-10.13.3.1382-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1382-1.7.10/forge-1.7.10-10.13.3.1382-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1382-1.7.10/forge-1.7.10-10.13.3.1382-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1381",
@@ -392,8 +392,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1381-1.7.10/forge-1.7.10-10.13.3.1381-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1381-1.7.10/forge-1.7.10-10.13.3.1381-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1381-1.7.10/forge-1.7.10-10.13.3.1381-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1381-1.7.10/forge-1.7.10-10.13.3.1381-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1381-1.7.10/forge-1.7.10-10.13.3.1381-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1381-1.7.10/forge-1.7.10-10.13.3.1381-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1381-1.7.10/forge-1.7.10-10.13.3.1381-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1380",
@@ -401,8 +401,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1380-1.7.10/forge-1.7.10-10.13.3.1380-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1380-1.7.10/forge-1.7.10-10.13.3.1380-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1380-1.7.10/forge-1.7.10-10.13.3.1380-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1380-1.7.10/forge-1.7.10-10.13.3.1380-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1380-1.7.10/forge-1.7.10-10.13.3.1380-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1380-1.7.10/forge-1.7.10-10.13.3.1380-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1380-1.7.10/forge-1.7.10-10.13.3.1380-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1379",
@@ -410,8 +410,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1379-1.7.10/forge-1.7.10-10.13.3.1379-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1379-1.7.10/forge-1.7.10-10.13.3.1379-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1379-1.7.10/forge-1.7.10-10.13.3.1379-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1379-1.7.10/forge-1.7.10-10.13.3.1379-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1379-1.7.10/forge-1.7.10-10.13.3.1379-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1379-1.7.10/forge-1.7.10-10.13.3.1379-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1379-1.7.10/forge-1.7.10-10.13.3.1379-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1378",
@@ -419,8 +419,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1378-1.7.10/forge-1.7.10-10.13.3.1378-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1378-1.7.10/forge-1.7.10-10.13.3.1378-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1378-1.7.10/forge-1.7.10-10.13.3.1378-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1378-1.7.10/forge-1.7.10-10.13.3.1378-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1378-1.7.10/forge-1.7.10-10.13.3.1378-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1378-1.7.10/forge-1.7.10-10.13.3.1378-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1378-1.7.10/forge-1.7.10-10.13.3.1378-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1377",
@@ -428,8 +428,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1377-1.7.10/forge-1.7.10-10.13.3.1377-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1377-1.7.10/forge-1.7.10-10.13.3.1377-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1377-1.7.10/forge-1.7.10-10.13.3.1377-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1377-1.7.10/forge-1.7.10-10.13.3.1377-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1377-1.7.10/forge-1.7.10-10.13.3.1377-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1377-1.7.10/forge-1.7.10-10.13.3.1377-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1377-1.7.10/forge-1.7.10-10.13.3.1377-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1376",
@@ -437,8 +437,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1376-1.7.10/forge-1.7.10-10.13.3.1376-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1376-1.7.10/forge-1.7.10-10.13.3.1376-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1376-1.7.10/forge-1.7.10-10.13.3.1376-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1376-1.7.10/forge-1.7.10-10.13.3.1376-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1376-1.7.10/forge-1.7.10-10.13.3.1376-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1376-1.7.10/forge-1.7.10-10.13.3.1376-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1376-1.7.10/forge-1.7.10-10.13.3.1376-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1374",
@@ -446,8 +446,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1374-1.7.10/forge-1.7.10-10.13.3.1374-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1374-1.7.10/forge-1.7.10-10.13.3.1374-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1374-1.7.10/forge-1.7.10-10.13.3.1374-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1374-1.7.10/forge-1.7.10-10.13.3.1374-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1374-1.7.10/forge-1.7.10-10.13.3.1374-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1374-1.7.10/forge-1.7.10-10.13.3.1374-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1374-1.7.10/forge-1.7.10-10.13.3.1374-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1373",
@@ -455,8 +455,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1373-1.7.10/forge-1.7.10-10.13.3.1373-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1373-1.7.10/forge-1.7.10-10.13.3.1373-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1373-1.7.10/forge-1.7.10-10.13.3.1373-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1373-1.7.10/forge-1.7.10-10.13.3.1373-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1373-1.7.10/forge-1.7.10-10.13.3.1373-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1373-1.7.10/forge-1.7.10-10.13.3.1373-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1373-1.7.10/forge-1.7.10-10.13.3.1373-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1372",
@@ -464,8 +464,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1372-1.7.10/forge-1.7.10-10.13.3.1372-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1372-1.7.10/forge-1.7.10-10.13.3.1372-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1372-1.7.10/forge-1.7.10-10.13.3.1372-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1372-1.7.10/forge-1.7.10-10.13.3.1372-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1372-1.7.10/forge-1.7.10-10.13.3.1372-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1372-1.7.10/forge-1.7.10-10.13.3.1372-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1372-1.7.10/forge-1.7.10-10.13.3.1372-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1370",
@@ -473,8 +473,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1370-1.7.10/forge-1.7.10-10.13.3.1370-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1370-1.7.10/forge-1.7.10-10.13.3.1370-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1370-1.7.10/forge-1.7.10-10.13.3.1370-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1370-1.7.10/forge-1.7.10-10.13.3.1370-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1370-1.7.10/forge-1.7.10-10.13.3.1370-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1370-1.7.10/forge-1.7.10-10.13.3.1370-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1370-1.7.10/forge-1.7.10-10.13.3.1370-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1369",
@@ -482,8 +482,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1369-1.7.10/forge-1.7.10-10.13.3.1369-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1369-1.7.10/forge-1.7.10-10.13.3.1369-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1369-1.7.10/forge-1.7.10-10.13.3.1369-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1369-1.7.10/forge-1.7.10-10.13.3.1369-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1369-1.7.10/forge-1.7.10-10.13.3.1369-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1369-1.7.10/forge-1.7.10-10.13.3.1369-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1369-1.7.10/forge-1.7.10-10.13.3.1369-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1368",
@@ -491,8 +491,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1368-1.7.10/forge-1.7.10-10.13.3.1368-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1368-1.7.10/forge-1.7.10-10.13.3.1368-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1368-1.7.10/forge-1.7.10-10.13.3.1368-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1368-1.7.10/forge-1.7.10-10.13.3.1368-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1368-1.7.10/forge-1.7.10-10.13.3.1368-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1368-1.7.10/forge-1.7.10-10.13.3.1368-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1368-1.7.10/forge-1.7.10-10.13.3.1368-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1367",
@@ -500,8 +500,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1367-1.7.10/forge-1.7.10-10.13.3.1367-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1367-1.7.10/forge-1.7.10-10.13.3.1367-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1367-1.7.10/forge-1.7.10-10.13.3.1367-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1367-1.7.10/forge-1.7.10-10.13.3.1367-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1367-1.7.10/forge-1.7.10-10.13.3.1367-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1367-1.7.10/forge-1.7.10-10.13.3.1367-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1367-1.7.10/forge-1.7.10-10.13.3.1367-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1366",
@@ -509,8 +509,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1366-1.7.10/forge-1.7.10-10.13.3.1366-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1366-1.7.10/forge-1.7.10-10.13.3.1366-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1366-1.7.10/forge-1.7.10-10.13.3.1366-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1366-1.7.10/forge-1.7.10-10.13.3.1366-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1366-1.7.10/forge-1.7.10-10.13.3.1366-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1366-1.7.10/forge-1.7.10-10.13.3.1366-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1366-1.7.10/forge-1.7.10-10.13.3.1366-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1365",
@@ -518,8 +518,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1365-1.7.10/forge-1.7.10-10.13.3.1365-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1365-1.7.10/forge-1.7.10-10.13.3.1365-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1365-1.7.10/forge-1.7.10-10.13.3.1365-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1365-1.7.10/forge-1.7.10-10.13.3.1365-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1365-1.7.10/forge-1.7.10-10.13.3.1365-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1365-1.7.10/forge-1.7.10-10.13.3.1365-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1365-1.7.10/forge-1.7.10-10.13.3.1365-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1364",
@@ -527,8 +527,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1364-1.7.10/forge-1.7.10-10.13.3.1364-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1364-1.7.10/forge-1.7.10-10.13.3.1364-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1364-1.7.10/forge-1.7.10-10.13.3.1364-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1364-1.7.10/forge-1.7.10-10.13.3.1364-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1364-1.7.10/forge-1.7.10-10.13.3.1364-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1364-1.7.10/forge-1.7.10-10.13.3.1364-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1364-1.7.10/forge-1.7.10-10.13.3.1364-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1363",
@@ -536,8 +536,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1363-1.7.10/forge-1.7.10-10.13.3.1363-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1363-1.7.10/forge-1.7.10-10.13.3.1363-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1363-1.7.10/forge-1.7.10-10.13.3.1363-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1363-1.7.10/forge-1.7.10-10.13.3.1363-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1363-1.7.10/forge-1.7.10-10.13.3.1363-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1363-1.7.10/forge-1.7.10-10.13.3.1363-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1363-1.7.10/forge-1.7.10-10.13.3.1363-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1362",
@@ -545,8 +545,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1362-1.7.10/forge-1.7.10-10.13.3.1362-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1362-1.7.10/forge-1.7.10-10.13.3.1362-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1362-1.7.10/forge-1.7.10-10.13.3.1362-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1362-1.7.10/forge-1.7.10-10.13.3.1362-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1362-1.7.10/forge-1.7.10-10.13.3.1362-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1362-1.7.10/forge-1.7.10-10.13.3.1362-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1362-1.7.10/forge-1.7.10-10.13.3.1362-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1360",
@@ -554,8 +554,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1360-1.7.10/forge-1.7.10-10.13.3.1360-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1360-1.7.10/forge-1.7.10-10.13.3.1360-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1360-1.7.10/forge-1.7.10-10.13.3.1360-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1360-1.7.10/forge-1.7.10-10.13.3.1360-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1360-1.7.10/forge-1.7.10-10.13.3.1360-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1360-1.7.10/forge-1.7.10-10.13.3.1360-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1360-1.7.10/forge-1.7.10-10.13.3.1360-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1358",
@@ -563,8 +563,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1358-1.7.10/forge-1.7.10-10.13.3.1358-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1358-1.7.10/forge-1.7.10-10.13.3.1358-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1358-1.7.10/forge-1.7.10-10.13.3.1358-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1358-1.7.10/forge-1.7.10-10.13.3.1358-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1358-1.7.10/forge-1.7.10-10.13.3.1358-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1358-1.7.10/forge-1.7.10-10.13.3.1358-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1358-1.7.10/forge-1.7.10-10.13.3.1358-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1356",
@@ -572,8 +572,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1356-1.7.10/forge-1.7.10-10.13.3.1356-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1356-1.7.10/forge-1.7.10-10.13.3.1356-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1356-1.7.10/forge-1.7.10-10.13.3.1356-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1356-1.7.10/forge-1.7.10-10.13.3.1356-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1356-1.7.10/forge-1.7.10-10.13.3.1356-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1356-1.7.10/forge-1.7.10-10.13.3.1356-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1356-1.7.10/forge-1.7.10-10.13.3.1356-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.3.1355",
@@ -581,8 +581,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1355-1.7.10/forge-1.7.10-10.13.3.1355-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1355-1.7.10/forge-1.7.10-10.13.3.1355-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1355-1.7.10/forge-1.7.10-10.13.3.1355-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1355-1.7.10/forge-1.7.10-10.13.3.1355-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1355-1.7.10/forge-1.7.10-10.13.3.1355-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1355-1.7.10/forge-1.7.10-10.13.3.1355-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.3.1355-1.7.10/forge-1.7.10-10.13.3.1355-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.2.1352",
@@ -590,8 +590,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1352-1.7.10/forge-1.7.10-10.13.2.1352-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1352-1.7.10/forge-1.7.10-10.13.2.1352-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1352-1.7.10/forge-1.7.10-10.13.2.1352-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1352-1.7.10/forge-1.7.10-10.13.2.1352-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1352-1.7.10/forge-1.7.10-10.13.2.1352-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1352-1.7.10/forge-1.7.10-10.13.2.1352-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1352-1.7.10/forge-1.7.10-10.13.2.1352-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.2.1351",
@@ -599,8 +599,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1351-1.7.10/forge-1.7.10-10.13.2.1351-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1351-1.7.10/forge-1.7.10-10.13.2.1351-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1351-1.7.10/forge-1.7.10-10.13.2.1351-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1351-1.7.10/forge-1.7.10-10.13.2.1351-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1351-1.7.10/forge-1.7.10-10.13.2.1351-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1351-1.7.10/forge-1.7.10-10.13.2.1351-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1351-1.7.10/forge-1.7.10-10.13.2.1351-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.2.1347",
@@ -608,8 +608,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1347-1.7.10/forge-1.7.10-10.13.2.1347-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1347-1.7.10/forge-1.7.10-10.13.2.1347-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1347-1.7.10/forge-1.7.10-10.13.2.1347-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1347-1.7.10/forge-1.7.10-10.13.2.1347-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1347-1.7.10/forge-1.7.10-10.13.2.1347-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1347-1.7.10/forge-1.7.10-10.13.2.1347-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1347-1.7.10/forge-1.7.10-10.13.2.1347-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.2.1346",
@@ -617,8 +617,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1346-1.7.10/forge-1.7.10-10.13.2.1346-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1346-1.7.10/forge-1.7.10-10.13.2.1346-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1346-1.7.10/forge-1.7.10-10.13.2.1346-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1346-1.7.10/forge-1.7.10-10.13.2.1346-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1346-1.7.10/forge-1.7.10-10.13.2.1346-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1346-1.7.10/forge-1.7.10-10.13.2.1346-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1346-1.7.10/forge-1.7.10-10.13.2.1346-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.2.1343",
@@ -626,8 +626,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1343-1.7.10/forge-1.7.10-10.13.2.1343-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1343-1.7.10/forge-1.7.10-10.13.2.1343-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1343-1.7.10/forge-1.7.10-10.13.2.1343-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1343-1.7.10/forge-1.7.10-10.13.2.1343-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1343-1.7.10/forge-1.7.10-10.13.2.1343-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1343-1.7.10/forge-1.7.10-10.13.2.1343-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1343-1.7.10/forge-1.7.10-10.13.2.1343-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.2.1342",
@@ -635,8 +635,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1342-1.7.10/forge-1.7.10-10.13.2.1342-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1342-1.7.10/forge-1.7.10-10.13.2.1342-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1342-1.7.10/forge-1.7.10-10.13.2.1342-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1342-1.7.10/forge-1.7.10-10.13.2.1342-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1342-1.7.10/forge-1.7.10-10.13.2.1342-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1342-1.7.10/forge-1.7.10-10.13.2.1342-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1342-1.7.10/forge-1.7.10-10.13.2.1342-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.2.1340",
@@ -644,8 +644,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1340-1.7.10/forge-1.7.10-10.13.2.1340-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1340-1.7.10/forge-1.7.10-10.13.2.1340-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1340-1.7.10/forge-1.7.10-10.13.2.1340-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1340-1.7.10/forge-1.7.10-10.13.2.1340-1.7.10-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1340-1.7.10/forge-1.7.10-10.13.2.1340-1.7.10-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1340-1.7.10/forge-1.7.10-10.13.2.1340-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1340-1.7.10/forge-1.7.10-10.13.2.1340-1.7.10-src.zip"
 	},
 	{
 		"version": "10.13.2.1307",
@@ -653,8 +653,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1307-1.7.10/forge-1.7.10-10.13.2.1307-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1307-1.7.10/forge-1.7.10-10.13.2.1307-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1307-1.7.10/forge-1.7.10-10.13.2.1307-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1307-1.7.10/forge-1.7.10-10.13.2.1307-1.7.10-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1307-1.7.10/forge-1.7.10-10.13.2.1307-1.7.10-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1307-1.7.10/forge-1.7.10-10.13.2.1307-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1307-1.7.10/forge-1.7.10-10.13.2.1307-1.7.10-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1307-1.7.10/forge-1.7.10-10.13.2.1307-1.7.10-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1300",
@@ -662,8 +663,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1300-1.7.10/forge-1.7.10-10.13.2.1300-1.7.10-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1300-1.7.10/forge-1.7.10-10.13.2.1300-1.7.10-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1300-1.7.10/forge-1.7.10-10.13.2.1300-1.7.10-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1300-1.7.10/forge-1.7.10-10.13.2.1300-1.7.10-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1300-1.7.10/forge-1.7.10-10.13.2.1300-1.7.10-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1300-1.7.10/forge-1.7.10-10.13.2.1300-1.7.10-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1300-1.7.10/forge-1.7.10-10.13.2.1300-1.7.10-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1300-1.7.10/forge-1.7.10-10.13.2.1300-1.7.10-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1291",
@@ -671,8 +673,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1291/forge-1.7.10-10.13.2.1291-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1291/forge-1.7.10-10.13.2.1291-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1291/forge-1.7.10-10.13.2.1291-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1291/forge-1.7.10-10.13.2.1291-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1291/forge-1.7.10-10.13.2.1291-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1291/forge-1.7.10-10.13.2.1291-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1291/forge-1.7.10-10.13.2.1291-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1291/forge-1.7.10-10.13.2.1291-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1286",
@@ -680,8 +683,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1286/forge-1.7.10-10.13.2.1286-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1286/forge-1.7.10-10.13.2.1286-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1286/forge-1.7.10-10.13.2.1286-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1286/forge-1.7.10-10.13.2.1286-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1286/forge-1.7.10-10.13.2.1286-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1286/forge-1.7.10-10.13.2.1286-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1286/forge-1.7.10-10.13.2.1286-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1286/forge-1.7.10-10.13.2.1286-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1284",
@@ -689,8 +693,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1284/forge-1.7.10-10.13.2.1284-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1284/forge-1.7.10-10.13.2.1284-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1284/forge-1.7.10-10.13.2.1284-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1284/forge-1.7.10-10.13.2.1284-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1284/forge-1.7.10-10.13.2.1284-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1284/forge-1.7.10-10.13.2.1284-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1284/forge-1.7.10-10.13.2.1284-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1284/forge-1.7.10-10.13.2.1284-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1283",
@@ -698,8 +703,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1283/forge-1.7.10-10.13.2.1283-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1283/forge-1.7.10-10.13.2.1283-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1283/forge-1.7.10-10.13.2.1283-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1283/forge-1.7.10-10.13.2.1283-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1283/forge-1.7.10-10.13.2.1283-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1283/forge-1.7.10-10.13.2.1283-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1283/forge-1.7.10-10.13.2.1283-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1283/forge-1.7.10-10.13.2.1283-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1277",
@@ -707,8 +713,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1277/forge-1.7.10-10.13.2.1277-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1277/forge-1.7.10-10.13.2.1277-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1277/forge-1.7.10-10.13.2.1277-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1277/forge-1.7.10-10.13.2.1277-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1277/forge-1.7.10-10.13.2.1277-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1277/forge-1.7.10-10.13.2.1277-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1277/forge-1.7.10-10.13.2.1277-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1277/forge-1.7.10-10.13.2.1277-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1276",
@@ -716,8 +723,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1276/forge-1.7.10-10.13.2.1276-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1276/forge-1.7.10-10.13.2.1276-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1276/forge-1.7.10-10.13.2.1276-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1276/forge-1.7.10-10.13.2.1276-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1276/forge-1.7.10-10.13.2.1276-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1276/forge-1.7.10-10.13.2.1276-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1276/forge-1.7.10-10.13.2.1276-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1276/forge-1.7.10-10.13.2.1276-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1275",
@@ -725,8 +733,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1275/forge-1.7.10-10.13.2.1275-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1275/forge-1.7.10-10.13.2.1275-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1275/forge-1.7.10-10.13.2.1275-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1275/forge-1.7.10-10.13.2.1275-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1275/forge-1.7.10-10.13.2.1275-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1275/forge-1.7.10-10.13.2.1275-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1275/forge-1.7.10-10.13.2.1275-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1275/forge-1.7.10-10.13.2.1275-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1272",
@@ -734,8 +743,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1272/forge-1.7.10-10.13.2.1272-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1272/forge-1.7.10-10.13.2.1272-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1272/forge-1.7.10-10.13.2.1272-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1272/forge-1.7.10-10.13.2.1272-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1272/forge-1.7.10-10.13.2.1272-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1272/forge-1.7.10-10.13.2.1272-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1272/forge-1.7.10-10.13.2.1272-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1272/forge-1.7.10-10.13.2.1272-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1270",
@@ -743,8 +753,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1270/forge-1.7.10-10.13.2.1270-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1270/forge-1.7.10-10.13.2.1270-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1270/forge-1.7.10-10.13.2.1270-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1270/forge-1.7.10-10.13.2.1270-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1270/forge-1.7.10-10.13.2.1270-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1270/forge-1.7.10-10.13.2.1270-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1270/forge-1.7.10-10.13.2.1270-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1270/forge-1.7.10-10.13.2.1270-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1264",
@@ -752,8 +763,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1264/forge-1.7.10-10.13.2.1264-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1264/forge-1.7.10-10.13.2.1264-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1264/forge-1.7.10-10.13.2.1264-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1264/forge-1.7.10-10.13.2.1264-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1264/forge-1.7.10-10.13.2.1264-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1264/forge-1.7.10-10.13.2.1264-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1264/forge-1.7.10-10.13.2.1264-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1264/forge-1.7.10-10.13.2.1264-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1263",
@@ -761,8 +773,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1263/forge-1.7.10-10.13.2.1263-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1263/forge-1.7.10-10.13.2.1263-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1263/forge-1.7.10-10.13.2.1263-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1263/forge-1.7.10-10.13.2.1263-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1263/forge-1.7.10-10.13.2.1263-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1263/forge-1.7.10-10.13.2.1263-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1263/forge-1.7.10-10.13.2.1263-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1263/forge-1.7.10-10.13.2.1263-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1258",
@@ -770,8 +783,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1258/forge-1.7.10-10.13.2.1258-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1258/forge-1.7.10-10.13.2.1258-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1258/forge-1.7.10-10.13.2.1258-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1258/forge-1.7.10-10.13.2.1258-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1258/forge-1.7.10-10.13.2.1258-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1258/forge-1.7.10-10.13.2.1258-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1258/forge-1.7.10-10.13.2.1258-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1258/forge-1.7.10-10.13.2.1258-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1256",
@@ -779,8 +793,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1256/forge-1.7.10-10.13.2.1256-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1256/forge-1.7.10-10.13.2.1256-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1256/forge-1.7.10-10.13.2.1256-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1256/forge-1.7.10-10.13.2.1256-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1256/forge-1.7.10-10.13.2.1256-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1256/forge-1.7.10-10.13.2.1256-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1256/forge-1.7.10-10.13.2.1256-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1256/forge-1.7.10-10.13.2.1256-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1254",
@@ -788,8 +803,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1254/forge-1.7.10-10.13.2.1254-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1254/forge-1.7.10-10.13.2.1254-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1254/forge-1.7.10-10.13.2.1254-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1254/forge-1.7.10-10.13.2.1254-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1254/forge-1.7.10-10.13.2.1254-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1254/forge-1.7.10-10.13.2.1254-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1254/forge-1.7.10-10.13.2.1254-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1254/forge-1.7.10-10.13.2.1254-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1253",
@@ -797,8 +813,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1253/forge-1.7.10-10.13.2.1253-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1253/forge-1.7.10-10.13.2.1253-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1253/forge-1.7.10-10.13.2.1253-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1253/forge-1.7.10-10.13.2.1253-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1253/forge-1.7.10-10.13.2.1253-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1253/forge-1.7.10-10.13.2.1253-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1253/forge-1.7.10-10.13.2.1253-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1253/forge-1.7.10-10.13.2.1253-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1240",
@@ -806,8 +823,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1240/forge-1.7.10-10.13.2.1240-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1240/forge-1.7.10-10.13.2.1240-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1240/forge-1.7.10-10.13.2.1240-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1240/forge-1.7.10-10.13.2.1240-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1240/forge-1.7.10-10.13.2.1240-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1240/forge-1.7.10-10.13.2.1240-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1240/forge-1.7.10-10.13.2.1240-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1240/forge-1.7.10-10.13.2.1240-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1236",
@@ -815,8 +833,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1236/forge-1.7.10-10.13.2.1236-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1236/forge-1.7.10-10.13.2.1236-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1236/forge-1.7.10-10.13.2.1236-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1236/forge-1.7.10-10.13.2.1236-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1236/forge-1.7.10-10.13.2.1236-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1236/forge-1.7.10-10.13.2.1236-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1236/forge-1.7.10-10.13.2.1236-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1236/forge-1.7.10-10.13.2.1236-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1235",
@@ -824,8 +843,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1235/forge-1.7.10-10.13.2.1235-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1235/forge-1.7.10-10.13.2.1235-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1235/forge-1.7.10-10.13.2.1235-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1235/forge-1.7.10-10.13.2.1235-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1235/forge-1.7.10-10.13.2.1235-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1235/forge-1.7.10-10.13.2.1235-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1235/forge-1.7.10-10.13.2.1235-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1235/forge-1.7.10-10.13.2.1235-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1234",
@@ -833,8 +853,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1234/forge-1.7.10-10.13.2.1234-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1234/forge-1.7.10-10.13.2.1234-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1234/forge-1.7.10-10.13.2.1234-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1234/forge-1.7.10-10.13.2.1234-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1234/forge-1.7.10-10.13.2.1234-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1234/forge-1.7.10-10.13.2.1234-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1234/forge-1.7.10-10.13.2.1234-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1234/forge-1.7.10-10.13.2.1234-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1233",
@@ -842,8 +863,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1233/forge-1.7.10-10.13.2.1233-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1233/forge-1.7.10-10.13.2.1233-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1233/forge-1.7.10-10.13.2.1233-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1233/forge-1.7.10-10.13.2.1233-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1233/forge-1.7.10-10.13.2.1233-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1233/forge-1.7.10-10.13.2.1233-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1233/forge-1.7.10-10.13.2.1233-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1233/forge-1.7.10-10.13.2.1233-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1232",
@@ -851,8 +873,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1232/forge-1.7.10-10.13.2.1232-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1232/forge-1.7.10-10.13.2.1232-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1232/forge-1.7.10-10.13.2.1232-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1232/forge-1.7.10-10.13.2.1232-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1232/forge-1.7.10-10.13.2.1232-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1232/forge-1.7.10-10.13.2.1232-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1232/forge-1.7.10-10.13.2.1232-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1232/forge-1.7.10-10.13.2.1232-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1231",
@@ -860,8 +883,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1231/forge-1.7.10-10.13.2.1231-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1231/forge-1.7.10-10.13.2.1231-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1231/forge-1.7.10-10.13.2.1231-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1231/forge-1.7.10-10.13.2.1231-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1231/forge-1.7.10-10.13.2.1231-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1231/forge-1.7.10-10.13.2.1231-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1231/forge-1.7.10-10.13.2.1231-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1231/forge-1.7.10-10.13.2.1231-javadoc.zip"
 	},
 	{
 		"version": "10.13.2.1230",
@@ -869,8 +893,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1230/forge-1.7.10-10.13.2.1230-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1230/forge-1.7.10-10.13.2.1230-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1230/forge-1.7.10-10.13.2.1230-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1230/forge-1.7.10-10.13.2.1230-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1230/forge-1.7.10-10.13.2.1230-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1230/forge-1.7.10-10.13.2.1230-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1230/forge-1.7.10-10.13.2.1230-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.2.1230/forge-1.7.10-10.13.2.1230-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1229",
@@ -878,8 +903,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1229/forge-1.7.10-10.13.1.1229-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1229/forge-1.7.10-10.13.1.1229-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1229/forge-1.7.10-10.13.1.1229-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1229/forge-1.7.10-10.13.1.1229-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1229/forge-1.7.10-10.13.1.1229-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1229/forge-1.7.10-10.13.1.1229-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1229/forge-1.7.10-10.13.1.1229-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1229/forge-1.7.10-10.13.1.1229-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1226",
@@ -887,8 +913,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1226/forge-1.7.10-10.13.1.1226-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1226/forge-1.7.10-10.13.1.1226-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1226/forge-1.7.10-10.13.1.1226-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1226/forge-1.7.10-10.13.1.1226-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1226/forge-1.7.10-10.13.1.1226-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1226/forge-1.7.10-10.13.1.1226-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1226/forge-1.7.10-10.13.1.1226-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1226/forge-1.7.10-10.13.1.1226-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1225",
@@ -896,8 +923,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1225/forge-1.7.10-10.13.1.1225-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1225/forge-1.7.10-10.13.1.1225-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1225/forge-1.7.10-10.13.1.1225-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1225/forge-1.7.10-10.13.1.1225-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1225/forge-1.7.10-10.13.1.1225-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1225/forge-1.7.10-10.13.1.1225-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1225/forge-1.7.10-10.13.1.1225-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1225/forge-1.7.10-10.13.1.1225-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1224",
@@ -905,8 +933,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1224/forge-1.7.10-10.13.1.1224-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1224/forge-1.7.10-10.13.1.1224-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1224/forge-1.7.10-10.13.1.1224-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1224/forge-1.7.10-10.13.1.1224-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1224/forge-1.7.10-10.13.1.1224-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1224/forge-1.7.10-10.13.1.1224-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1224/forge-1.7.10-10.13.1.1224-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1224/forge-1.7.10-10.13.1.1224-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1223",
@@ -914,8 +943,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1223/forge-1.7.10-10.13.1.1223-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1223/forge-1.7.10-10.13.1.1223-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1223/forge-1.7.10-10.13.1.1223-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1223/forge-1.7.10-10.13.1.1223-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1223/forge-1.7.10-10.13.1.1223-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1223/forge-1.7.10-10.13.1.1223-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1223/forge-1.7.10-10.13.1.1223-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1223/forge-1.7.10-10.13.1.1223-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1222",
@@ -923,8 +953,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1222/forge-1.7.10-10.13.1.1222-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1222/forge-1.7.10-10.13.1.1222-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1222/forge-1.7.10-10.13.1.1222-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1222/forge-1.7.10-10.13.1.1222-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1222/forge-1.7.10-10.13.1.1222-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1222/forge-1.7.10-10.13.1.1222-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1222/forge-1.7.10-10.13.1.1222-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1222/forge-1.7.10-10.13.1.1222-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1221",
@@ -932,8 +963,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1221/forge-1.7.10-10.13.1.1221-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1221/forge-1.7.10-10.13.1.1221-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1221/forge-1.7.10-10.13.1.1221-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1221/forge-1.7.10-10.13.1.1221-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1221/forge-1.7.10-10.13.1.1221-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1221/forge-1.7.10-10.13.1.1221-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1221/forge-1.7.10-10.13.1.1221-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1221/forge-1.7.10-10.13.1.1221-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1220",
@@ -941,8 +973,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1220/forge-1.7.10-10.13.1.1220-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1220/forge-1.7.10-10.13.1.1220-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1220/forge-1.7.10-10.13.1.1220-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1220/forge-1.7.10-10.13.1.1220-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1220/forge-1.7.10-10.13.1.1220-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1220/forge-1.7.10-10.13.1.1220-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1220/forge-1.7.10-10.13.1.1220-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1220/forge-1.7.10-10.13.1.1220-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1219",
@@ -950,8 +983,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1219/forge-1.7.10-10.13.1.1219-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1219/forge-1.7.10-10.13.1.1219-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1219/forge-1.7.10-10.13.1.1219-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1219/forge-1.7.10-10.13.1.1219-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1219/forge-1.7.10-10.13.1.1219-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1219/forge-1.7.10-10.13.1.1219-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1219/forge-1.7.10-10.13.1.1219-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1219/forge-1.7.10-10.13.1.1219-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1217",
@@ -959,8 +993,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1217/forge-1.7.10-10.13.1.1217-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1217/forge-1.7.10-10.13.1.1217-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1217/forge-1.7.10-10.13.1.1217-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1217/forge-1.7.10-10.13.1.1217-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1217/forge-1.7.10-10.13.1.1217-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1217/forge-1.7.10-10.13.1.1217-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1217/forge-1.7.10-10.13.1.1217-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1217/forge-1.7.10-10.13.1.1217-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1216",
@@ -968,8 +1003,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1216-new/forge-1.7.10-10.13.1.1216-new-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1216-new/forge-1.7.10-10.13.1.1216-new-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1216-new/forge-1.7.10-10.13.1.1216-new-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1216-new/forge-1.7.10-10.13.1.1216-new-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1216-new/forge-1.7.10-10.13.1.1216-new-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1216-new/forge-1.7.10-10.13.1.1216-new-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1216-new/forge-1.7.10-10.13.1.1216-new-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1216-new/forge-1.7.10-10.13.1.1216-new-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1215",
@@ -977,8 +1013,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1215-new/forge-1.7.10-10.13.1.1215-new-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1215-new/forge-1.7.10-10.13.1.1215-new-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1215-new/forge-1.7.10-10.13.1.1215-new-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1215-new/forge-1.7.10-10.13.1.1215-new-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1215-new/forge-1.7.10-10.13.1.1215-new-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1215-new/forge-1.7.10-10.13.1.1215-new-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1215-new/forge-1.7.10-10.13.1.1215-new-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1215-new/forge-1.7.10-10.13.1.1215-new-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1214",
@@ -986,8 +1023,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1214-new/forge-1.7.10-10.13.1.1214-new-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1214-new/forge-1.7.10-10.13.1.1214-new-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1214-new/forge-1.7.10-10.13.1.1214-new-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1214-new/forge-1.7.10-10.13.1.1214-new-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1214-new/forge-1.7.10-10.13.1.1214-new-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1214-new/forge-1.7.10-10.13.1.1214-new-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1214-new/forge-1.7.10-10.13.1.1214-new-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1214-new/forge-1.7.10-10.13.1.1214-new-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1213",
@@ -995,8 +1033,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1213-new/forge-1.7.10-10.13.1.1213-new-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1213-new/forge-1.7.10-10.13.1.1213-new-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1213-new/forge-1.7.10-10.13.1.1213-new-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1213-new/forge-1.7.10-10.13.1.1213-new-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1213-new/forge-1.7.10-10.13.1.1213-new-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1213-new/forge-1.7.10-10.13.1.1213-new-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1213-new/forge-1.7.10-10.13.1.1213-new-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1213-new/forge-1.7.10-10.13.1.1213-new-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1212",
@@ -1004,8 +1043,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1212-new/forge-1.7.10-10.13.1.1212-new-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1212-new/forge-1.7.10-10.13.1.1212-new-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1212-new/forge-1.7.10-10.13.1.1212-new-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1212-new/forge-1.7.10-10.13.1.1212-new-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1212-new/forge-1.7.10-10.13.1.1212-new-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1212-new/forge-1.7.10-10.13.1.1212-new-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1212-new/forge-1.7.10-10.13.1.1212-new-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1212-new/forge-1.7.10-10.13.1.1212-new-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1211",
@@ -1013,8 +1053,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1211-new/forge-1.7.10-10.13.1.1211-new-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1211-new/forge-1.7.10-10.13.1.1211-new-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1211-new/forge-1.7.10-10.13.1.1211-new-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1211-new/forge-1.7.10-10.13.1.1211-new-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1211-new/forge-1.7.10-10.13.1.1211-new-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1211-new/forge-1.7.10-10.13.1.1211-new-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1211-new/forge-1.7.10-10.13.1.1211-new-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1211-new/forge-1.7.10-10.13.1.1211-new-javadoc.zip"
 	},
 	{
 		"version": "10.13.1.1210",
@@ -1022,8 +1063,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1210-new/forge-1.7.10-10.13.1.1210-new-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1210-new/forge-1.7.10-10.13.1.1210-new-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1210-new/forge-1.7.10-10.13.1.1210-new-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1210-new/forge-1.7.10-10.13.1.1210-new-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1210-new/forge-1.7.10-10.13.1.1210-new-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1210-new/forge-1.7.10-10.13.1.1210-new-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1210-new/forge-1.7.10-10.13.1.1210-new-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.1.1210-new/forge-1.7.10-10.13.1.1210-new-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1208",
@@ -1031,8 +1073,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1208/forge-1.7.10-10.13.0.1208-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1208/forge-1.7.10-10.13.0.1208-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1208/forge-1.7.10-10.13.0.1208-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1208/forge-1.7.10-10.13.0.1208-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1208/forge-1.7.10-10.13.0.1208-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1208/forge-1.7.10-10.13.0.1208-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1208/forge-1.7.10-10.13.0.1208-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1208/forge-1.7.10-10.13.0.1208-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1207",
@@ -1040,8 +1083,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1207/forge-1.7.10-10.13.0.1207-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1207/forge-1.7.10-10.13.0.1207-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1207/forge-1.7.10-10.13.0.1207-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1207/forge-1.7.10-10.13.0.1207-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1207/forge-1.7.10-10.13.0.1207-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1207/forge-1.7.10-10.13.0.1207-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1207/forge-1.7.10-10.13.0.1207-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1207/forge-1.7.10-10.13.0.1207-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1206",
@@ -1049,8 +1093,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1206/forge-1.7.10-10.13.0.1206-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1206/forge-1.7.10-10.13.0.1206-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1206/forge-1.7.10-10.13.0.1206-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1206/forge-1.7.10-10.13.0.1206-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1206/forge-1.7.10-10.13.0.1206-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1206/forge-1.7.10-10.13.0.1206-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1206/forge-1.7.10-10.13.0.1206-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1206/forge-1.7.10-10.13.0.1206-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1205",
@@ -1058,8 +1103,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1205/forge-1.7.10-10.13.0.1205-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1205/forge-1.7.10-10.13.0.1205-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1205/forge-1.7.10-10.13.0.1205-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1205/forge-1.7.10-10.13.0.1205-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1205/forge-1.7.10-10.13.0.1205-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1205/forge-1.7.10-10.13.0.1205-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1205/forge-1.7.10-10.13.0.1205-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1205/forge-1.7.10-10.13.0.1205-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1204",
@@ -1067,8 +1113,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1204/forge-1.7.10-10.13.0.1204-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1204/forge-1.7.10-10.13.0.1204-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1204/forge-1.7.10-10.13.0.1204-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1204/forge-1.7.10-10.13.0.1204-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1204/forge-1.7.10-10.13.0.1204-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1204/forge-1.7.10-10.13.0.1204-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1204/forge-1.7.10-10.13.0.1204-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1204/forge-1.7.10-10.13.0.1204-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1203",
@@ -1076,8 +1123,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1203/forge-1.7.10-10.13.0.1203-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1203/forge-1.7.10-10.13.0.1203-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1203/forge-1.7.10-10.13.0.1203-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1203/forge-1.7.10-10.13.0.1203-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1203/forge-1.7.10-10.13.0.1203-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1203/forge-1.7.10-10.13.0.1203-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1203/forge-1.7.10-10.13.0.1203-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1203/forge-1.7.10-10.13.0.1203-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1202",
@@ -1085,8 +1133,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1202/forge-1.7.10-10.13.0.1202-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1202/forge-1.7.10-10.13.0.1202-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1202/forge-1.7.10-10.13.0.1202-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1202/forge-1.7.10-10.13.0.1202-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1202/forge-1.7.10-10.13.0.1202-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1202/forge-1.7.10-10.13.0.1202-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1202/forge-1.7.10-10.13.0.1202-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1202/forge-1.7.10-10.13.0.1202-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1201",
@@ -1094,8 +1143,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1201/forge-1.7.10-10.13.0.1201-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1201/forge-1.7.10-10.13.0.1201-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1201/forge-1.7.10-10.13.0.1201-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1201/forge-1.7.10-10.13.0.1201-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1201/forge-1.7.10-10.13.0.1201-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1201/forge-1.7.10-10.13.0.1201-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1201/forge-1.7.10-10.13.0.1201-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1201/forge-1.7.10-10.13.0.1201-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1200",
@@ -1103,8 +1153,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1200/forge-1.7.10-10.13.0.1200-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1200/forge-1.7.10-10.13.0.1200-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1200/forge-1.7.10-10.13.0.1200-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1200/forge-1.7.10-10.13.0.1200-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1200/forge-1.7.10-10.13.0.1200-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1200/forge-1.7.10-10.13.0.1200-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1200/forge-1.7.10-10.13.0.1200-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1200/forge-1.7.10-10.13.0.1200-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1199",
@@ -1112,8 +1163,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1199/forge-1.7.10-10.13.0.1199-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1199/forge-1.7.10-10.13.0.1199-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1199/forge-1.7.10-10.13.0.1199-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1199/forge-1.7.10-10.13.0.1199-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1199/forge-1.7.10-10.13.0.1199-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1199/forge-1.7.10-10.13.0.1199-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1199/forge-1.7.10-10.13.0.1199-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1199/forge-1.7.10-10.13.0.1199-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1198",
@@ -1121,8 +1173,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1198/forge-1.7.10-10.13.0.1198-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1198/forge-1.7.10-10.13.0.1198-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1198/forge-1.7.10-10.13.0.1198-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1198/forge-1.7.10-10.13.0.1198-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1198/forge-1.7.10-10.13.0.1198-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1198/forge-1.7.10-10.13.0.1198-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1198/forge-1.7.10-10.13.0.1198-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1198/forge-1.7.10-10.13.0.1198-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1197",
@@ -1130,8 +1183,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1197/forge-1.7.10-10.13.0.1197-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1197/forge-1.7.10-10.13.0.1197-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1197/forge-1.7.10-10.13.0.1197-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1197/forge-1.7.10-10.13.0.1197-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1197/forge-1.7.10-10.13.0.1197-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1197/forge-1.7.10-10.13.0.1197-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1197/forge-1.7.10-10.13.0.1197-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1197/forge-1.7.10-10.13.0.1197-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1195",
@@ -1139,8 +1193,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1195/forge-1.7.10-10.13.0.1195-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1195/forge-1.7.10-10.13.0.1195-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1195/forge-1.7.10-10.13.0.1195-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1195/forge-1.7.10-10.13.0.1195-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1195/forge-1.7.10-10.13.0.1195-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1195/forge-1.7.10-10.13.0.1195-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1195/forge-1.7.10-10.13.0.1195-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1195/forge-1.7.10-10.13.0.1195-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1194",
@@ -1148,8 +1203,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1194/forge-1.7.10-10.13.0.1194-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1194/forge-1.7.10-10.13.0.1194-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1194/forge-1.7.10-10.13.0.1194-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1194/forge-1.7.10-10.13.0.1194-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1194/forge-1.7.10-10.13.0.1194-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1194/forge-1.7.10-10.13.0.1194-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1194/forge-1.7.10-10.13.0.1194-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1194/forge-1.7.10-10.13.0.1194-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1191",
@@ -1157,8 +1213,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1191/forge-1.7.10-10.13.0.1191-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1191/forge-1.7.10-10.13.0.1191-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1191/forge-1.7.10-10.13.0.1191-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1191/forge-1.7.10-10.13.0.1191-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1191/forge-1.7.10-10.13.0.1191-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1191/forge-1.7.10-10.13.0.1191-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1191/forge-1.7.10-10.13.0.1191-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1191/forge-1.7.10-10.13.0.1191-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1190",
@@ -1166,8 +1223,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1190/forge-1.7.10-10.13.0.1190-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1190/forge-1.7.10-10.13.0.1190-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1190/forge-1.7.10-10.13.0.1190-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1190/forge-1.7.10-10.13.0.1190-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1190/forge-1.7.10-10.13.0.1190-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1190/forge-1.7.10-10.13.0.1190-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1190/forge-1.7.10-10.13.0.1190-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1190/forge-1.7.10-10.13.0.1190-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1189",
@@ -1175,8 +1233,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1189/forge-1.7.10-10.13.0.1189-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1189/forge-1.7.10-10.13.0.1189-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1189/forge-1.7.10-10.13.0.1189-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1189/forge-1.7.10-10.13.0.1189-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1189/forge-1.7.10-10.13.0.1189-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1189/forge-1.7.10-10.13.0.1189-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1189/forge-1.7.10-10.13.0.1189-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1189/forge-1.7.10-10.13.0.1189-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1188",
@@ -1184,8 +1243,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1188/forge-1.7.10-10.13.0.1188-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1188/forge-1.7.10-10.13.0.1188-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1188/forge-1.7.10-10.13.0.1188-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1188/forge-1.7.10-10.13.0.1188-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1188/forge-1.7.10-10.13.0.1188-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1188/forge-1.7.10-10.13.0.1188-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1188/forge-1.7.10-10.13.0.1188-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1188/forge-1.7.10-10.13.0.1188-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1187",
@@ -1193,8 +1253,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1187/forge-1.7.10-10.13.0.1187-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1187/forge-1.7.10-10.13.0.1187-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1187/forge-1.7.10-10.13.0.1187-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1187/forge-1.7.10-10.13.0.1187-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1187/forge-1.7.10-10.13.0.1187-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1187/forge-1.7.10-10.13.0.1187-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1187/forge-1.7.10-10.13.0.1187-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1187/forge-1.7.10-10.13.0.1187-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1186",
@@ -1202,8 +1263,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1186/forge-1.7.10-10.13.0.1186-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1186/forge-1.7.10-10.13.0.1186-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1186/forge-1.7.10-10.13.0.1186-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1186/forge-1.7.10-10.13.0.1186-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1186/forge-1.7.10-10.13.0.1186-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1186/forge-1.7.10-10.13.0.1186-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1186/forge-1.7.10-10.13.0.1186-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1186/forge-1.7.10-10.13.0.1186-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1185",
@@ -1211,8 +1273,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1185/forge-1.7.10-10.13.0.1185-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1185/forge-1.7.10-10.13.0.1185-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1185/forge-1.7.10-10.13.0.1185-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1185/forge-1.7.10-10.13.0.1185-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1185/forge-1.7.10-10.13.0.1185-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1185/forge-1.7.10-10.13.0.1185-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1185/forge-1.7.10-10.13.0.1185-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1185/forge-1.7.10-10.13.0.1185-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1184",
@@ -1220,8 +1283,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1184/forge-1.7.10-10.13.0.1184-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1184/forge-1.7.10-10.13.0.1184-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1184/forge-1.7.10-10.13.0.1184-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1184/forge-1.7.10-10.13.0.1184-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1184/forge-1.7.10-10.13.0.1184-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1184/forge-1.7.10-10.13.0.1184-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1184/forge-1.7.10-10.13.0.1184-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1184/forge-1.7.10-10.13.0.1184-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1183",
@@ -1229,8 +1293,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1183/forge-1.7.10-10.13.0.1183-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1183/forge-1.7.10-10.13.0.1183-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1183/forge-1.7.10-10.13.0.1183-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1183/forge-1.7.10-10.13.0.1183-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1183/forge-1.7.10-10.13.0.1183-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1183/forge-1.7.10-10.13.0.1183-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1183/forge-1.7.10-10.13.0.1183-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1183/forge-1.7.10-10.13.0.1183-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1182",
@@ -1238,8 +1303,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1182/forge-1.7.10-10.13.0.1182-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1182/forge-1.7.10-10.13.0.1182-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1182/forge-1.7.10-10.13.0.1182-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1182/forge-1.7.10-10.13.0.1182-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1182/forge-1.7.10-10.13.0.1182-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1182/forge-1.7.10-10.13.0.1182-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1182/forge-1.7.10-10.13.0.1182-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1182/forge-1.7.10-10.13.0.1182-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1181",
@@ -1247,8 +1313,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1181/forge-1.7.10-10.13.0.1181-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1181/forge-1.7.10-10.13.0.1181-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1181/forge-1.7.10-10.13.0.1181-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1181/forge-1.7.10-10.13.0.1181-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1181/forge-1.7.10-10.13.0.1181-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1181/forge-1.7.10-10.13.0.1181-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1181/forge-1.7.10-10.13.0.1181-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1181/forge-1.7.10-10.13.0.1181-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1180",
@@ -1256,8 +1323,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1180/forge-1.7.10-10.13.0.1180-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1180/forge-1.7.10-10.13.0.1180-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1180/forge-1.7.10-10.13.0.1180-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1180/forge-1.7.10-10.13.0.1180-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1180/forge-1.7.10-10.13.0.1180-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1180/forge-1.7.10-10.13.0.1180-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1180/forge-1.7.10-10.13.0.1180-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1180/forge-1.7.10-10.13.0.1180-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1179",
@@ -1265,8 +1333,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1179/forge-1.7.10-10.13.0.1179-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1179/forge-1.7.10-10.13.0.1179-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1179/forge-1.7.10-10.13.0.1179-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1179/forge-1.7.10-10.13.0.1179-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1179/forge-1.7.10-10.13.0.1179-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1179/forge-1.7.10-10.13.0.1179-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1179/forge-1.7.10-10.13.0.1179-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1179/forge-1.7.10-10.13.0.1179-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1178",
@@ -1274,8 +1343,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1178/forge-1.7.10-10.13.0.1178-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1178/forge-1.7.10-10.13.0.1178-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1178/forge-1.7.10-10.13.0.1178-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1178/forge-1.7.10-10.13.0.1178-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1178/forge-1.7.10-10.13.0.1178-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1178/forge-1.7.10-10.13.0.1178-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1178/forge-1.7.10-10.13.0.1178-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1178/forge-1.7.10-10.13.0.1178-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1177",
@@ -1283,8 +1353,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1177/forge-1.7.10-10.13.0.1177-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1177/forge-1.7.10-10.13.0.1177-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1177/forge-1.7.10-10.13.0.1177-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1177/forge-1.7.10-10.13.0.1177-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1177/forge-1.7.10-10.13.0.1177-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1177/forge-1.7.10-10.13.0.1177-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1177/forge-1.7.10-10.13.0.1177-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1177/forge-1.7.10-10.13.0.1177-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1176",
@@ -1292,8 +1363,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1176/forge-1.7.10-10.13.0.1176-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1176/forge-1.7.10-10.13.0.1176-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1176/forge-1.7.10-10.13.0.1176-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1176/forge-1.7.10-10.13.0.1176-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1176/forge-1.7.10-10.13.0.1176-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1176/forge-1.7.10-10.13.0.1176-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1176/forge-1.7.10-10.13.0.1176-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1176/forge-1.7.10-10.13.0.1176-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1175",
@@ -1301,8 +1373,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1175/forge-1.7.10-10.13.0.1175-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1175/forge-1.7.10-10.13.0.1175-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1175/forge-1.7.10-10.13.0.1175-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1175/forge-1.7.10-10.13.0.1175-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1175/forge-1.7.10-10.13.0.1175-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1175/forge-1.7.10-10.13.0.1175-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1175/forge-1.7.10-10.13.0.1175-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1175/forge-1.7.10-10.13.0.1175-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1174",
@@ -1310,8 +1383,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1174/forge-1.7.10-10.13.0.1174-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1174/forge-1.7.10-10.13.0.1174-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1174/forge-1.7.10-10.13.0.1174-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1174/forge-1.7.10-10.13.0.1174-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1174/forge-1.7.10-10.13.0.1174-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1174/forge-1.7.10-10.13.0.1174-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1174/forge-1.7.10-10.13.0.1174-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1174/forge-1.7.10-10.13.0.1174-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1172",
@@ -1319,8 +1393,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1172/forge-1.7.10-10.13.0.1172-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1172/forge-1.7.10-10.13.0.1172-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1172/forge-1.7.10-10.13.0.1172-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1172/forge-1.7.10-10.13.0.1172-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1172/forge-1.7.10-10.13.0.1172-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1172/forge-1.7.10-10.13.0.1172-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1172/forge-1.7.10-10.13.0.1172-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1172/forge-1.7.10-10.13.0.1172-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1171",
@@ -1328,8 +1403,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1171/forge-1.7.10-10.13.0.1171-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1171/forge-1.7.10-10.13.0.1171-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1171/forge-1.7.10-10.13.0.1171-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1171/forge-1.7.10-10.13.0.1171-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1171/forge-1.7.10-10.13.0.1171-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1171/forge-1.7.10-10.13.0.1171-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1171/forge-1.7.10-10.13.0.1171-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1171/forge-1.7.10-10.13.0.1171-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1170",
@@ -1337,8 +1413,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1170/forge-1.7.10-10.13.0.1170-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1170/forge-1.7.10-10.13.0.1170-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1170/forge-1.7.10-10.13.0.1170-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1170/forge-1.7.10-10.13.0.1170-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1170/forge-1.7.10-10.13.0.1170-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1170/forge-1.7.10-10.13.0.1170-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1170/forge-1.7.10-10.13.0.1170-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1170/forge-1.7.10-10.13.0.1170-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1169",
@@ -1346,8 +1423,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1169/forge-1.7.10-10.13.0.1169-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1169/forge-1.7.10-10.13.0.1169-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1169/forge-1.7.10-10.13.0.1169-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1169/forge-1.7.10-10.13.0.1169-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1169/forge-1.7.10-10.13.0.1169-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1169/forge-1.7.10-10.13.0.1169-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1169/forge-1.7.10-10.13.0.1169-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1169/forge-1.7.10-10.13.0.1169-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1168",
@@ -1355,8 +1433,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1168/forge-1.7.10-10.13.0.1168-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1168/forge-1.7.10-10.13.0.1168-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1168/forge-1.7.10-10.13.0.1168-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1168/forge-1.7.10-10.13.0.1168-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1168/forge-1.7.10-10.13.0.1168-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1168/forge-1.7.10-10.13.0.1168-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1168/forge-1.7.10-10.13.0.1168-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1168/forge-1.7.10-10.13.0.1168-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1167",
@@ -1364,8 +1443,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1167/forge-1.7.10-10.13.0.1167-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1167/forge-1.7.10-10.13.0.1167-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1167/forge-1.7.10-10.13.0.1167-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1167/forge-1.7.10-10.13.0.1167-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1167/forge-1.7.10-10.13.0.1167-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1167/forge-1.7.10-10.13.0.1167-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1167/forge-1.7.10-10.13.0.1167-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1167/forge-1.7.10-10.13.0.1167-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1166",
@@ -1373,8 +1453,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1166/forge-1.7.10-10.13.0.1166-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1166/forge-1.7.10-10.13.0.1166-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1166/forge-1.7.10-10.13.0.1166-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1166/forge-1.7.10-10.13.0.1166-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1166/forge-1.7.10-10.13.0.1166-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1166/forge-1.7.10-10.13.0.1166-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1166/forge-1.7.10-10.13.0.1166-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1166/forge-1.7.10-10.13.0.1166-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1162",
@@ -1382,8 +1463,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1162/forge-1.7.10-10.13.0.1162-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1162/forge-1.7.10-10.13.0.1162-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1162/forge-1.7.10-10.13.0.1162-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1162/forge-1.7.10-10.13.0.1162-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1162/forge-1.7.10-10.13.0.1162-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1162/forge-1.7.10-10.13.0.1162-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1162/forge-1.7.10-10.13.0.1162-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1162/forge-1.7.10-10.13.0.1162-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1160",
@@ -1391,8 +1473,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1160/forge-1.7.10-10.13.0.1160-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1160/forge-1.7.10-10.13.0.1160-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1160/forge-1.7.10-10.13.0.1160-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1160/forge-1.7.10-10.13.0.1160-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1160/forge-1.7.10-10.13.0.1160-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1160/forge-1.7.10-10.13.0.1160-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1160/forge-1.7.10-10.13.0.1160-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1160/forge-1.7.10-10.13.0.1160-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1159",
@@ -1400,8 +1483,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1159/forge-1.7.10-10.13.0.1159-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1159/forge-1.7.10-10.13.0.1159-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1159/forge-1.7.10-10.13.0.1159-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1159/forge-1.7.10-10.13.0.1159-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1159/forge-1.7.10-10.13.0.1159-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1159/forge-1.7.10-10.13.0.1159-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1159/forge-1.7.10-10.13.0.1159-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1159/forge-1.7.10-10.13.0.1159-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1158",
@@ -1409,8 +1493,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1158/forge-1.7.10-10.13.0.1158-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1158/forge-1.7.10-10.13.0.1158-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1158/forge-1.7.10-10.13.0.1158-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1158/forge-1.7.10-10.13.0.1158-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1158/forge-1.7.10-10.13.0.1158-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1158/forge-1.7.10-10.13.0.1158-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1158/forge-1.7.10-10.13.0.1158-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1158/forge-1.7.10-10.13.0.1158-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1157",
@@ -1418,8 +1503,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1157/forge-1.7.10-10.13.0.1157-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1157/forge-1.7.10-10.13.0.1157-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1157/forge-1.7.10-10.13.0.1157-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1157/forge-1.7.10-10.13.0.1157-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1157/forge-1.7.10-10.13.0.1157-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1157/forge-1.7.10-10.13.0.1157-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1157/forge-1.7.10-10.13.0.1157-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1157/forge-1.7.10-10.13.0.1157-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1156",
@@ -1427,8 +1513,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1156/forge-1.7.10-10.13.0.1156-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1156/forge-1.7.10-10.13.0.1156-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1156/forge-1.7.10-10.13.0.1156-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1156/forge-1.7.10-10.13.0.1156-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1156/forge-1.7.10-10.13.0.1156-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1156/forge-1.7.10-10.13.0.1156-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1156/forge-1.7.10-10.13.0.1156-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1156/forge-1.7.10-10.13.0.1156-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1153",
@@ -1436,8 +1523,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1153/forge-1.7.10-10.13.0.1153-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1153/forge-1.7.10-10.13.0.1153-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1153/forge-1.7.10-10.13.0.1153-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1153/forge-1.7.10-10.13.0.1153-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1153/forge-1.7.10-10.13.0.1153-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1153/forge-1.7.10-10.13.0.1153-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1153/forge-1.7.10-10.13.0.1153-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1153/forge-1.7.10-10.13.0.1153-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1152",
@@ -1445,8 +1533,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1152/forge-1.7.10-10.13.0.1152-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1152/forge-1.7.10-10.13.0.1152-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1152/forge-1.7.10-10.13.0.1152-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1152/forge-1.7.10-10.13.0.1152-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1152/forge-1.7.10-10.13.0.1152-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1152/forge-1.7.10-10.13.0.1152-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1152/forge-1.7.10-10.13.0.1152-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1152/forge-1.7.10-10.13.0.1152-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1151",
@@ -1454,8 +1543,9 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1151/forge-1.7.10-10.13.0.1151-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1151/forge-1.7.10-10.13.0.1151-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1151/forge-1.7.10-10.13.0.1151-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1151/forge-1.7.10-10.13.0.1151-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1151/forge-1.7.10-10.13.0.1151-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1151/forge-1.7.10-10.13.0.1151-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1151/forge-1.7.10-10.13.0.1151-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1151/forge-1.7.10-10.13.0.1151-javadoc.zip"
 	},
 	{
 		"version": "10.13.0.1150",
@@ -1463,7 +1553,8 @@
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1150/forge-1.7.10-10.13.0.1150-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1150/forge-1.7.10-10.13.0.1150-installer.jar",
 		"installer_win": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1150/forge-1.7.10-10.13.0.1150-installer-win.exe",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1150/forge-1.7.10-10.13.0.1150-javadoc.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1150/forge-1.7.10-10.13.0.1150-src.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1150/forge-1.7.10-10.13.0.1150-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1150/forge-1.7.10-10.13.0.1150-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10-10.13.0.1150/forge-1.7.10-10.13.0.1150-javadoc.zip"
 	}
 ]

@@ -4,89 +4,89 @@
 		"date": "06/26/2014 12:50:04 PM",
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1149-prerelease/forge-1.7.10_pre4-10.12.2.1149-prerelease-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1149-prerelease/forge-1.7.10_pre4-10.12.2.1149-prerelease-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1149-prerelease/forge-1.7.10_pre4-10.12.2.1149-prerelease-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1149-prerelease/forge-1.7.10_pre4-10.12.2.1149-prerelease-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1149-prerelease/forge-1.7.10_pre4-10.12.2.1149-prerelease-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1149-prerelease/forge-1.7.10_pre4-10.12.2.1149-prerelease-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1149-prerelease/forge-1.7.10_pre4-10.12.2.1149-prerelease-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1149-prerelease/forge-1.7.10_pre4-10.12.2.1149-prerelease-javadoc.zip"
 	},
 	{
 		"version": "10.12.2.1148",
 		"date": "06/25/2014 07:53:16 PM",
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1148-prerelease/forge-1.7.10_pre4-10.12.2.1148-prerelease-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1148-prerelease/forge-1.7.10_pre4-10.12.2.1148-prerelease-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1148-prerelease/forge-1.7.10_pre4-10.12.2.1148-prerelease-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1148-prerelease/forge-1.7.10_pre4-10.12.2.1148-prerelease-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1148-prerelease/forge-1.7.10_pre4-10.12.2.1148-prerelease-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1148-prerelease/forge-1.7.10_pre4-10.12.2.1148-prerelease-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1148-prerelease/forge-1.7.10_pre4-10.12.2.1148-prerelease-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1148-prerelease/forge-1.7.10_pre4-10.12.2.1148-prerelease-javadoc.zip"
 	},
 	{
 		"version": "10.12.2.1146",
 		"date": "06/25/2014 06:23:36 PM",
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1146-prerelease/forge-1.7.10_pre4-10.12.2.1146-prerelease-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1146-prerelease/forge-1.7.10_pre4-10.12.2.1146-prerelease-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1146-prerelease/forge-1.7.10_pre4-10.12.2.1146-prerelease-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1146-prerelease/forge-1.7.10_pre4-10.12.2.1146-prerelease-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1146-prerelease/forge-1.7.10_pre4-10.12.2.1146-prerelease-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1146-prerelease/forge-1.7.10_pre4-10.12.2.1146-prerelease-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1146-prerelease/forge-1.7.10_pre4-10.12.2.1146-prerelease-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1146-prerelease/forge-1.7.10_pre4-10.12.2.1146-prerelease-javadoc.zip"
 	},
 	{
 		"version": "10.12.2.1144",
 		"date": "06/25/2014 06:13:08 PM",
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1144-prerelease/forge-1.7.10_pre4-10.12.2.1144-prerelease-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1144-prerelease/forge-1.7.10_pre4-10.12.2.1144-prerelease-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1144-prerelease/forge-1.7.10_pre4-10.12.2.1144-prerelease-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1144-prerelease/forge-1.7.10_pre4-10.12.2.1144-prerelease-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1144-prerelease/forge-1.7.10_pre4-10.12.2.1144-prerelease-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1144-prerelease/forge-1.7.10_pre4-10.12.2.1144-prerelease-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1144-prerelease/forge-1.7.10_pre4-10.12.2.1144-prerelease-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1144-prerelease/forge-1.7.10_pre4-10.12.2.1144-prerelease-javadoc.zip"
 	},
 	{
 		"version": "10.12.2.1143",
 		"date": "06/25/2014 05:03:16 PM",
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1143-prerelease/forge-1.7.10_pre4-10.12.2.1143-prerelease-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1143-prerelease/forge-1.7.10_pre4-10.12.2.1143-prerelease-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1143-prerelease/forge-1.7.10_pre4-10.12.2.1143-prerelease-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1143-prerelease/forge-1.7.10_pre4-10.12.2.1143-prerelease-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1143-prerelease/forge-1.7.10_pre4-10.12.2.1143-prerelease-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1143-prerelease/forge-1.7.10_pre4-10.12.2.1143-prerelease-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1143-prerelease/forge-1.7.10_pre4-10.12.2.1143-prerelease-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1143-prerelease/forge-1.7.10_pre4-10.12.2.1143-prerelease-javadoc.zip"
 	},
 	{
 		"version": "10.12.2.1142",
 		"date": "06/25/2014 04:47:12 PM",
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1142-prerelease/forge-1.7.10_pre4-10.12.2.1142-prerelease-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1142-prerelease/forge-1.7.10_pre4-10.12.2.1142-prerelease-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1142-prerelease/forge-1.7.10_pre4-10.12.2.1142-prerelease-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1142-prerelease/forge-1.7.10_pre4-10.12.2.1142-prerelease-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1142-prerelease/forge-1.7.10_pre4-10.12.2.1142-prerelease-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1142-prerelease/forge-1.7.10_pre4-10.12.2.1142-prerelease-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1142-prerelease/forge-1.7.10_pre4-10.12.2.1142-prerelease-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1142-prerelease/forge-1.7.10_pre4-10.12.2.1142-prerelease-javadoc.zip"
 	},
 	{
 		"version": "10.12.2.1141",
 		"date": "06/25/2014 11:07:44 AM",
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1141-prerelease/forge-1.7.10_pre4-10.12.2.1141-prerelease-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1141-prerelease/forge-1.7.10_pre4-10.12.2.1141-prerelease-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1141-prerelease/forge-1.7.10_pre4-10.12.2.1141-prerelease-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1141-prerelease/forge-1.7.10_pre4-10.12.2.1141-prerelease-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1141-prerelease/forge-1.7.10_pre4-10.12.2.1141-prerelease-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1141-prerelease/forge-1.7.10_pre4-10.12.2.1141-prerelease-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1141-prerelease/forge-1.7.10_pre4-10.12.2.1141-prerelease-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1141-prerelease/forge-1.7.10_pre4-10.12.2.1141-prerelease-javadoc.zip"
 	},
 	{
 		"version": "10.12.2.1139",
 		"date": "06/24/2014 08:11:04 PM",
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1139-prerelease/forge-1.7.10_pre4-10.12.2.1139-prerelease-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1139-prerelease/forge-1.7.10_pre4-10.12.2.1139-prerelease-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1139-prerelease/forge-1.7.10_pre4-10.12.2.1139-prerelease-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1139-prerelease/forge-1.7.10_pre4-10.12.2.1139-prerelease-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1139-prerelease/forge-1.7.10_pre4-10.12.2.1139-prerelease-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1139-prerelease/forge-1.7.10_pre4-10.12.2.1139-prerelease-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1139-prerelease/forge-1.7.10_pre4-10.12.2.1139-prerelease-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1139-prerelease/forge-1.7.10_pre4-10.12.2.1139-prerelease-javadoc.zip"
 	},
 	{
 		"version": "10.12.2.1138",
 		"date": "06/24/2014 04:41:14 PM",
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1138-prerelease/forge-1.7.10_pre4-10.12.2.1138-prerelease-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1138-prerelease/forge-1.7.10_pre4-10.12.2.1138-prerelease-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1138-prerelease/forge-1.7.10_pre4-10.12.2.1138-prerelease-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1138-prerelease/forge-1.7.10_pre4-10.12.2.1138-prerelease-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1138-prerelease/forge-1.7.10_pre4-10.12.2.1138-prerelease-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1138-prerelease/forge-1.7.10_pre4-10.12.2.1138-prerelease-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1138-prerelease/forge-1.7.10_pre4-10.12.2.1138-prerelease-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1138-prerelease/forge-1.7.10_pre4-10.12.2.1138-prerelease-javadoc.zip"
 	},
 	{
 		"version": "10.12.2.1137",
 		"date": "06/24/2014 03:35:06 AM",
 		"changelog": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1137-prerelease/forge-1.7.10_pre4-10.12.2.1137-prerelease-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1137-prerelease/forge-1.7.10_pre4-10.12.2.1137-prerelease-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1137-prerelease/forge-1.7.10_pre4-10.12.2.1137-prerelease-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1137-prerelease/forge-1.7.10_pre4-10.12.2.1137-prerelease-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1137-prerelease/forge-1.7.10_pre4-10.12.2.1137-prerelease-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1137-prerelease/forge-1.7.10_pre4-10.12.2.1137-prerelease-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1137-prerelease/forge-1.7.10_pre4-10.12.2.1137-prerelease-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.7.10_pre4-10.12.2.1137-prerelease/forge-1.7.10_pre4-10.12.2.1137-prerelease-javadoc.zip"
 	}
 ]

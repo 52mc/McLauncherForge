@@ -40,11 +40,15 @@ module.exports = (html) => {
 				versions.push({
 					version: $('ul > li',td[0])[0].children[0].data.replace(/[\t|\n]/g,''),
 					date: $(td[1]).text(),
-					changelog: $('a', downloads.eq(0)).eq(0).attr('href'),
-					installer: $('a', downloads.eq(1)).eq(1).attr('href'),
-					installer_win: $('a', downloads.eq(2)).eq(1).attr('href'),
-					mdk: $('a', downloads.eq(3)).eq(1).attr('href'),
-					universal: $('a', downloads.eq(4)).eq(1).attr('href')
+					changelog: $('i.classifier-changelog', downloads).parent().attr('href'),
+					installer: $('i.classifier-installer', downloads).parent().next().attr('href'),
+					installer_win: $('i.classifier-installer-win', downloads).parent().next().attr('href'),
+					mdk: $('i.classifier-mdk', downloads).parent().next().attr('href'),
+					universal: $('i.classifier-universal', downloads).parent().next().attr('href'),
+					client: $('i.classifier-client', downloads).parent().next().attr('href'),
+					server: $('i.classifier-server', downloads).parent().next().attr('href'),
+					src: $('i.classifier-src', downloads).parent().next().attr('href'),
+					javadoc: $('i.classifier-javadoc', downloads).parent().next().attr('href')
 				});
 			});
 			return versions;

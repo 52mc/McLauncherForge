@@ -1,0 +1,1 @@
+"use strict";module.exports={to:"abc@gmail.com",email:{host:"smtp.gmail.com",port:465,secure:!0,auth:{user:"sender@gmail.com",pass:"xxx"},proxy:"socks5://localhost:1080/"}};

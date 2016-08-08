@@ -7,3 +7,4 @@ node_modules/
 app/
 build/
 temp/
+config.js

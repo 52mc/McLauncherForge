@@ -3,24 +3,24 @@
 		"version": "6.2.1.358",
 		"date": "09/29/2014 07:29:40 AM",
 		"changelog": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.358/forge-1.4.3-6.2.1.358-changelog.txt",
-		"installer": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.358/forge-1.4.3-6.2.1.358-javadoc.zip",
-		"installer_win": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.358/forge-1.4.3-6.2.1.358-src.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.358/forge-1.4.3-6.2.1.358-universal.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.358/forge-1.4.3-6.2.1.358-universal.zip",
+		"src": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.358/forge-1.4.3-6.2.1.358-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.358/forge-1.4.3-6.2.1.358-javadoc.zip"
 	},
 	{
 		"version": "6.2.1.357",
 		"date": "09/29/2014 07:29:54 AM",
 		"changelog": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.357/forge-1.4.3-6.2.1.357-changelog.txt",
-		"installer": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.357/forge-1.4.3-6.2.1.357-javadoc.zip",
-		"installer_win": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.357/forge-1.4.3-6.2.1.357-src.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.357/forge-1.4.3-6.2.1.357-universal.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.357/forge-1.4.3-6.2.1.357-universal.zip",
+		"src": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.357/forge-1.4.3-6.2.1.357-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.357/forge-1.4.3-6.2.1.357-javadoc.zip"
 	},
 	{
 		"version": "6.2.1.356",
 		"date": "09/29/2014 07:30:28 AM",
 		"changelog": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.356/forge-1.4.3-6.2.1.356-changelog.txt",
-		"installer": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.356/forge-1.4.3-6.2.1.356-javadoc.zip",
-		"installer_win": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.356/forge-1.4.3-6.2.1.356-src.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.356/forge-1.4.3-6.2.1.356-universal.zip"
+		"universal": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.356/forge-1.4.3-6.2.1.356-universal.zip",
+		"src": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.356/forge-1.4.3-6.2.1.356-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.4.3-6.2.1.356/forge-1.4.3-6.2.1.356-javadoc.zip"
 	}
 ]

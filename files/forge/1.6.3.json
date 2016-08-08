@@ -4,53 +4,53 @@
 		"date": "09/29/2014 03:54:40 AM",
 		"changelog": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.878/forge-1.6.3-9.11.0.878-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.878/forge-1.6.3-9.11.0.878-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.878/forge-1.6.3-9.11.0.878-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.878/forge-1.6.3-9.11.0.878-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.878/forge-1.6.3-9.11.0.878-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.878/forge-1.6.3-9.11.0.878-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.878/forge-1.6.3-9.11.0.878-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.878/forge-1.6.3-9.11.0.878-javadoc.zip"
 	},
 	{
 		"version": "9.11.0.877",
 		"date": "09/29/2014 03:55:14 AM",
 		"changelog": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.877/forge-1.6.3-9.11.0.877-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.877/forge-1.6.3-9.11.0.877-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.877/forge-1.6.3-9.11.0.877-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.877/forge-1.6.3-9.11.0.877-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.877/forge-1.6.3-9.11.0.877-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.877/forge-1.6.3-9.11.0.877-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.877/forge-1.6.3-9.11.0.877-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.877/forge-1.6.3-9.11.0.877-javadoc.zip"
 	},
 	{
 		"version": "9.11.0.876",
 		"date": "09/29/2014 03:55:52 AM",
 		"changelog": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.876/forge-1.6.3-9.11.0.876-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.876/forge-1.6.3-9.11.0.876-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.876/forge-1.6.3-9.11.0.876-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.876/forge-1.6.3-9.11.0.876-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.876/forge-1.6.3-9.11.0.876-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.876/forge-1.6.3-9.11.0.876-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.876/forge-1.6.3-9.11.0.876-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.876/forge-1.6.3-9.11.0.876-javadoc.zip"
 	},
 	{
 		"version": "9.11.0.875",
 		"date": "09/29/2014 03:56:26 AM",
 		"changelog": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.875/forge-1.6.3-9.11.0.875-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.875/forge-1.6.3-9.11.0.875-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.875/forge-1.6.3-9.11.0.875-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.875/forge-1.6.3-9.11.0.875-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.875/forge-1.6.3-9.11.0.875-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.875/forge-1.6.3-9.11.0.875-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.875/forge-1.6.3-9.11.0.875-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.875/forge-1.6.3-9.11.0.875-javadoc.zip"
 	},
 	{
 		"version": "9.11.0.874",
 		"date": "09/29/2014 03:57:00 AM",
 		"changelog": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.874/forge-1.6.3-9.11.0.874-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.874/forge-1.6.3-9.11.0.874-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.874/forge-1.6.3-9.11.0.874-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.874/forge-1.6.3-9.11.0.874-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.874/forge-1.6.3-9.11.0.874-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.874/forge-1.6.3-9.11.0.874-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.874/forge-1.6.3-9.11.0.874-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.874/forge-1.6.3-9.11.0.874-javadoc.zip"
 	},
 	{
 		"version": "9.11.0.873",
 		"date": "09/29/2014 03:57:34 AM",
 		"changelog": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.873/forge-1.6.3-9.11.0.873-changelog.txt",
 		"installer": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.873/forge-1.6.3-9.11.0.873-installer.jar",
-		"installer_win": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.873/forge-1.6.3-9.11.0.873-javadoc.zip",
-		"mdk": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.873/forge-1.6.3-9.11.0.873-src.zip",
-		"universal": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.873/forge-1.6.3-9.11.0.873-universal.jar"
+		"universal": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.873/forge-1.6.3-9.11.0.873-universal.jar",
+		"src": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.873/forge-1.6.3-9.11.0.873-src.zip",
+		"javadoc": "/maven/net/minecraftforge/forge/1.6.3-9.11.0.873/forge-1.6.3-9.11.0.873-javadoc.zip"
 	}
 ]

@@ -4,6 +4,7 @@ import { Promise, coroutine as co} from 'bluebird';
 import IO from './lib/io';
 import Parser from './lib/parse';
 import Log from './lib/log';
+import Email from './lib/email';
 const forgeUrl = 'http://files.minecraftforge.net/';
 const outputFolder = path.resolve(__dirname, '..', 'files');
 
@@ -21,7 +22,7 @@ function obj2jsonstr(obj) {
 function analyseAndWriteToFile(forge){
 	return new Promise((resolve, reject) => {
 		Log.debug(`开始分析forge页面，version: ${forge.version}`);
-		IO.request(buildUrl(forge.url), 20000).then(text => {
+		IO.request(buildUrl(forge.url), 5000).then(text => {
 			const parser = Parser(text);
 			return parser.getForgeVersion();
 		}).then(result => {
@@ -31,7 +32,7 @@ function analyseAndWriteToFile(forge){
 }
 
 Log.debug('开始分析任务...');
-IO.request(forgeUrl, 20000).then(text => {
+IO.request(forgeUrl, 5000).then(text => {
 	const parser = Parser(text);
 	// 获取所支持的所有版本信息（页面索引）
 	const versions = parser.getSupportVersion();
@@ -85,4 +86,11 @@ IO.request(forgeUrl, 20000).then(text => {
 	Log.debug('分析任务全部完毕，文件已全部写出到files目录下，请查看。');
 }).catch(err => {
 	Log.error('error', err);
+	Log.debug('出现错误，正在发送错误通知邮件...');
+	return Email.send(err.stack);
+}).then((result) => {
+	Log.debug(`通知邮件发送完毕！${result}`);
+	Log.debug(`任务结束.`);
+}).catch(err => {
+	Log.error('邮件发送失败...');
 });
