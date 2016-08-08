@@ -87,10 +87,11 @@ IO.request(forgeUrl, 5000).then(text => {
 }).catch(err => {
 	Log.error('error', err);
 	Log.debug('出现错误，正在发送错误通知邮件...');
-	return Email.send(err.stack);
-}).then((result) => {
-	Log.debug(`通知邮件发送完毕！${result}`);
-	Log.debug(`任务结束.`);
-}).catch(err => {
-	Log.error('邮件发送失败...');
+	Email.send(err.stack).then((result) => {
+		Log.debug(`通知邮件发送完毕！${result}`);
+	}).catch(err => {
+		Log.error('邮件发送失败...');
+	}).finally(() => {
+		Log.debug(`任务结束.`);
+	});
 });
