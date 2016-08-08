@@ -7,7 +7,9 @@ Minecraft Forge版本抓取器
 # How to Use
 
 ```bash
-npm start
+git clone https://github.com/52mc/McLauncherForge.git
+cd McLauncherForge
+npm install & npm start
 ```
 
 
@@ -17,3 +19,6 @@ npm start
 npm build // build
 npm run watch // build & watch
 ```
+
+# Output
+All files are output to ./files directory

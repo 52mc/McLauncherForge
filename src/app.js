@@ -5,6 +5,8 @@ import IO from './lib/io';
 import Parser from './lib/parse';
 import Log from './lib/log';
 const forgeUrl = 'http://files.minecraftforge.net/';
+const outputFolder = path.resolve(__dirname, '..', 'files');
+
 // 将相对网址转换为绝对网址
 function buildUrl(relativeUrl) {
 	return `${forgeUrl}${relativeUrl}`;
@@ -23,7 +25,7 @@ function analyseAndWriteToFile(forge){
 			const parser = Parser(text);
 			return parser.getForgeVersion();
 		}).then(result => {
-			return IO.createFolderAndWriteFile(path.resolve(__dirname, `../files/forge/${forge.version}.json`), JSON.stringify(result, null, '\t'));
+			return IO.createFolderAndWriteFile(path.resolve(outputFolder, `forge/${forge.version}.json`), JSON.stringify(result, null, '\t'));
 		}).then(() => resolve()).catch(err => reject(err));
 	});
 }
@@ -77,7 +79,7 @@ IO.request(forgeUrl, 20000).then(text => {
 	return run();
 }).then((versions) => {
 	// 写入版本页面索引
-	return IO.createFolderAndWriteFile(path.resolve(__dirname, '../files/versions.json'), obj2jsonstr(versions));
+	return IO.createFolderAndWriteFile(path.resolve(outputFolder, 'versions.json'), obj2jsonstr(versions));
 }).then(() => {
 	Log.debug('versions.json 写入成功！');
 	Log.debug('分析任务全部完毕，文件已全部写出到files目录下，请查看。');
